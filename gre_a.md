@@ -635,3 +635,81 @@
 
 
 
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | allegiance          | /əˈliːdʒəns/       | n      | 忠诚、效忠。                                                 | She swore allegiance to the country.（她宣誓效忠于国家。） |
+| 1    | relegate            | /ˈriːlɪɡeɪt/       | v      | 将...降级；委托。                                           | He was relegated to a minor role.（他被降到了一个次要角色。） |
+| 1    | delegate            | /ˈdɛlɪɡeɪt/        | v/n    | 动词：委托、委派。<br>名词：代表。                           | She delegated her authority to her assistant.（她将权力委派给助手。） |
+| 2    | alleviate           | /əˈliːvieɪt/       | v      | 减轻、缓和。                                                 | The medicine alleviated her pain.（药物减轻了她的疼痛。） |
+| 2    | alleviatory         | /əˈliːvieətri/     | adj    | 减轻的、缓解的。                                             | An alleviatory measure was taken to help the victims.（采取了缓解措施来帮助受害者。） |
+| 2    | alleviation         | /əˌliːviˈeɪʃn/     | n      | 减轻、缓解。                                                 | The new policy brought alleviation to many people.（新政策为许多人带来了缓解。） |
+| 2    | leviate             | (不常用)           | v      | （这个词汇并不常见，可能是指'levitate'，意为“使漂浮”）。     | The magician seemed to levitate off the ground.（魔术师似乎漂浮在空中。） |
+| 2    | levitation          | /ˌliːvɪˈteɪʃn/     | n      | 漂浮、悬浮。                                                 | Levitation is often seen in magic shows.（悬浮经常出现在魔术表演中。） |
+| 2    | levity              | /ˈlɛvɪti/          | n      | 轻率、诙谐。                                                 | His levity during the meeting was inappropriate.（他在会议中的诙谐态度不合适。） |
+| 2    | relieve             | /rɪˈliːv/          | v      | 减轻、解除。                                                 | The medication relieved his symptoms.（药物缓解了他的症状。） |
+| 2    | elevate             | /ˈɛlɪveɪt/         | v      | 提升、提高。                                                 | They decided to elevate the project's priority.（他们决定提高项目的优先级。） |
+| 3    | allude              | /əˈluːd/           | v      | 暗指、暗示。                                                 | He alluded to the problem without directly mentioning it.（他暗示了问题但没有直接提及。） |
+| 3    | delude              | /dɪˈluːd/          | v      | 欺骗、误导。                                                 | Don't let false promises delude you.（不要让虚假的承诺欺骗你。） |
+| 3    | elude               | /ɪˈluːd/           | v      | 逃避、躲避。                                                 | The suspect managed to elude capture.（嫌疑人设法逃脱了抓捕。） |
+| 3    | prelude             | /ˈpreɪluːd/        | n      | 序幕、前奏。                                                 | The concert began with a beautiful prelude.（音乐会以一段优美的前奏开始。） |
+| 3    | collude             | /kəˈluːd/          | v      | 勾结、串通。                                                 | The two companies were found to have colluded on prices.（发现这两家公司串通定价。） |
+| 3    | collusion           | /kəˈluːʒn/         | n      | 勾结、串通。                                                 | Evidence of collusion between the suspects was uncovered.（发现了嫌疑人之间的勾结证据。） |
+| 3    | interlude           | /ˈɪntərluːd/       | n      | 间歇、插曲。                                                 | There was a musical interlude during the ceremony.（仪式中有一段音乐插曲。） |
+| 3    | illusion            | /ɪˈluːʒn/          | n      | 幻觉、错觉。                                                 | The magician created an illusion of floating.（魔术师创造了一个漂浮的幻觉。） |
+| 3    | ludicrous           | /lʊˈdrɪkəs/        | adj    | 荒谬的、可笑的。                                             | The idea seemed ludicrous at first.（这个想法一开始看起来很荒谬。） |
+| 4    | allure              | /əˈlʊr/            | v/n    | 名词：诱惑。<br>动词：吸引。                                 | The job has its own allure for many people.（这份工作对许多人有其独特的吸引力。） |
+| 4    | alluring            | /əˈlʊrɪŋ/          | adj    | 迷人的、诱人的。                                             | The alluring scent of flowers filled the air.（空气中弥漫着迷人的花香。） |
+| 4    | allurement          | /əˈlʊrmənt/        | n      | 诱惑、吸引。                                                 | The allurement of wealth can be dangerous.（财富的诱惑可能是危险的。） |
+| 4    | lure                | /lʊr/              | v/n    | 名词：诱饵。<br>动词：引诱。                                 | The fisherman used worms as a lure.（渔夫用虫子作诱饵。） |
+| 4    | luring              | /ˈlʊrɪŋ/           | adj    | 诱人的、吸引人的。                                           | The luring promise of success attracted many.（成功的诱人前景吸引了许多人。） |
+| 4    | lurement            | /ˈlʊrmənt/         | n      | 诱惑、吸引。                                                 | The lurement of adventure drew him away from home.（冒险的诱惑使他远离家乡。） |
+
+
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | ally                | /ˈælaɪ/            | n/v    | 名词：盟友。<br>动词：结盟。                                 | France and Germany are allies.（法国和德国是盟友。）       |
+| 1    | alliance            | /əˈlaɪəns/         | n      | 联盟、同盟。                                                 | The countries formed an alliance for defense.（这些国家为了防御而结成联盟。） |
+| 1    | misalliance         | /ˌmɪsəˈlaɪəns/     | n      | 错误的结合或联盟。                                           | Their marriage was considered a misalliance by society.（他们的婚姻被社会认为是错误的结合。） |
+| 1    | dalliance           | /ˈdæliəns/         | n      | 调情、轻浮的行为。                                           | He spent his time in idle dalliance.（他把时间花在了无聊的调情上。） |
+| 1    | allegiance          | /əˈliːdʒəns/       | n      | 忠诚、效忠。                                                 | She swore allegiance to the country.（她宣誓效忠于国家。） |
+| 2    | aloft               | /əˈlɔːft/          | adj/adv| 形容词：高处的。<br>副词：在空中。                           | Birds were flying aloft.（鸟儿在空中飞翔。）               |
+| 2    | lift                | /lɪft/             | v/n    | 动词：举起、提升。<br>名词：电梯、升降机。                   | He used the crane to lift the heavy object.（他用起重机吊起了重物。） |
+| 2    | loft                | /lɒft/             | n      | 阁楼、仓库。                                                 | They stored old furniture in the loft.（他们把旧家具存放在阁楼里。） |
+| 2    | lofty               | /ˈlɒfti/           | adj    | 高大的、崇高的。                                             | The mountains rose in lofty peaks.（山脉升起了高耸的山峰。） |
+| 3    | aloof               | /əˈluːf/           | adj    | 冷淡的、超然的。                                             | He remained aloof from the argument.（他与争论保持距离。） |
+| 3    | luff                | /lʌf/              | n/v    | 名词：迎风面。<br>动词：使船头迎风。                         | The sailor adjusted the sails to catch the luff.（水手调整帆以捕捉迎风面。） |
+| 4    | altruism            | /ˈæltruːɪzəm/      | n      | 利他主义、无私的行为。                                       | Her actions were driven by pure altruism.（她的行为是由纯粹的利他主义驱动的。） |
+| 4    | altruist            | /ˈæltruːɪst/       | n      | 利他主义者。                                                 | He is known as an altruist in the community.（他在社区中被称为利他主义者。） |
+| 4    | altruistic          | /ælˈtruːɪstɪk/     | adj    | 利他的、无私的。                                             | She has an altruistic approach to helping others.（她帮助他人时采取无私的态度。） |
+| 4    | altruistically       | /ælˈtruːɪstɪkli/   | adv    | 利他地、无私地。                                             | He worked altruistically for the charity.（他为慈善机构无私地工作。） |
+| 4    | alter               | /ˈɔːltər/          | v      | 改变、修改。                                                 | She decided to alter her plans.（她决定改变计划。）         |
+| 4    | alternative         | /ɔːlˈtɜːrnətɪv/    | adj/n  | 形容词：可替代的。<br>名词：选择、替代方案。                 | Is there an alternative route we can take?（我们有其他路线可以选择吗？） |
+| 4    | alter ego           | /ˈɔːltər ˈiːɡoʊ/   | n      | （某人的）另一自我。                                         | His best friend is like his alter ego.（他最好的朋友就像他的另一个自我。） |
+| 5    | amalgamate          | /əˈmælɡəmeɪt/      | v      | 合并、融合。                                                 | Two companies decided to amalgamate their resources.（两家公司决定合并资源。） |
+| 5    | amalgam             | /ˈæməlɡæm/         | n      | 合金、混合物。                                               | Amalgam is used in dental fillings.（合金用于牙科填充。）   |
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | ambiguous           | /æmˈbɪɡjuəs/       | adj    | 模棱两可的、含糊不清的。                                     | The instructions were ambiguous, leading to confusion.（指示模棱两可，导致了混乱。） |
+| 1    | ambiguity           | /ˌæmbɪˈɡuːɪti/     | n      | 含糊不清、模棱两可的状态或情况。                             | There is some ambiguity in the contract terms.（合同条款中有一些含糊不清的地方。） |
+| 1    | ambiguously         | /æmˈbɪɡjuəsli/     | adv    | 模棱两可地、含糊不清地。                                     | He spoke ambiguously about his plans.（他含糊其辞地谈论了他的计划。） |
+| 1    | unambiguous         | /ʌnæmˈbɪɡjuəs/     | adj    | 清晰明确的、不含糊的。                                       | She gave an unambiguous answer.（她给出了一个明确的答案。） |
+| 1    | ambiguousness       | /æmˈbɪɡjuəsnəs/    | n      | 模棱两可、含糊不清的性质。                                   | The ambiguousness of the message caused misunderstanding.（信息的含糊不清导致了误解。） |
+| 1    | ambivalent          | /æmˈbɪvələnt/      | adj    | 对立情感并存的、矛盾的。                                     | She felt ambivalent about accepting the job offer.（她对接受这份工作邀请感到矛盾。） |
+| 2    | amble               | /ˈæmbl/            | v/n    | 动词：悠闲地走。<br>名词：漫步。                             | They took an amble through the park.（他们在公园里悠闲地散步。） |
+| 2    | ambulance           | /ˈæmbjələns/       | n      | 救护车。                                                     | The injured were rushed to hospital by ambulance.（伤者被救护车紧急送往医院。） |
+| 2    | preamble            | /ˈpreɪmbəl/        | n      | 序言、前言。                                                 | The preamble to the constitution outlines its purpose.（宪法序言概述了其目的。） |
+| 2    | ambulatory          | /ˈæmbjələtɔːri/    | adj    | 可移动的、步行的。                                           | The patient was ambulatory after surgery.（手术后患者可以自行走动。） |
+| 2    | perambulate         | /pəˈræmbjʊleɪt/    | v      | 漫步、巡游。                                                 | We decided to perambulate around the city.（我们决定在城市里漫步。） |
+| 2    | perambulator        | /pəˈræmbjʊleɪtər/  | n      | 婴儿车、巡游者。                                             | She pushed the perambulator down the street.（她推着婴儿车沿街走。） |
+| 2    | ambulation          | /æmˈbjuːleɪʃn/     | n      | 步行、走动。                                                 | Ambulation is important for recovery.（行走对于康复很重要。） |
+| 3    | ambrosial           | /æmˈbroʊzjəl/      | adj    | 美味的、芬芳的（形容神的食物）。                             | The meal was truly ambrosial.（这顿饭真是美味极了。） |
+| 3    | ambrosia            | /æmˈbroʊziə/       | n      | 神的食物；美味佳肴。                                         | The feast included many ambrosia-like dishes.（盛宴中有许多像神的食物一样的菜肴。） |
+| 4    | ameliorate          | /əˈmiliəreɪt/      | v      | 改善、使更好。                                               | Efforts are being made to ameliorate the situation.（正在努力改善这种情况。） |
+| 4    | meliorism           | /ˈmɛliərɪzəm/      | n      | 改善主义（哲学上的乐观信念，认为世界是可以改进的）。         | Meliorism suggests that human efforts can improve society.（改善主义认为人类的努力可以改善社会。） |
+| 4    | meliorate           | /ˈmɛliəreɪt/       | v      | 改善、改良。                                                 | The new policy aims to meliorate living conditions.（新政策旨在改善生活条件。） |
+| 4    | melioration         | /ˌmɛliəˈreɪʃn/     | n      | 改善、改良的过程或结果。                                     | The melioration of the environment is a priority.（环境的改善是一个优先事项。） |
+| 4    | meliorative         | /ˈmɛliərətɪv/      | adj    | 改善的、改良的。                                             | A meliorative approach can lead to positive changes.（改良的方法可以带来积极的变化。） |
