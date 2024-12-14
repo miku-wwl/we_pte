@@ -713,3 +713,78 @@
 | 4    | meliorate           | /ˈmɛliəreɪt/       | v      | 改善、改良。                                                 | The new policy aims to meliorate living conditions.（新政策旨在改善生活条件。） |
 | 4    | melioration         | /ˌmɛliəˈreɪʃn/     | n      | 改善、改良的过程或结果。                                     | The melioration of the environment is a priority.（环境的改善是一个优先事项。） |
 | 4    | meliorative         | /ˈmɛliərətɪv/      | adj    | 改善的、改良的。                                             | A meliorative approach can lead to positive changes.（改良的方法可以带来积极的变化。） |
+
+
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | amenable            | /əˈmiːnəbl/        | adj    | 乐于顺从的、可说服的；适合的。                               | He was amenable to the suggestion.（他乐于接受这个建议。） |
+| 1    | amenity             | /əˈmiːnəti/        | n      | 愉悦的事物、便利设施。                                       | The hotel offers many amenities for guests.（酒店为客人提供了许多便利设施。） |
+| 1    | minister            | /ˈmɪnɪstər/        | n      | 部长、牧师。                                                 | She works as a minister in the government.（她在政府中担任部长。） |
+| 1    | ministry            | /ˈmɪnɪstri/        | n      | 部、牧师团。                                                 | The Ministry of Health issued new guidelines.（卫生部发布了新指南。） |
+| 1    | administer          | /ədˈmɪnɪstər/      | v      | 管理、治理。                                                 | She administers the department effectively.（她有效地管理这个部门。） |
+| 1    | ministration        | /ˌmɪnɪˈstreɪʃn/    | n      | 管理、服务。                                                 | His ministration brought about significant changes.（他的管理带来了显著的变化。） |
+| 1    | administrate        | /ədˈmɪnɪstreɪt/    | v      | 管理、治理。                                                 | He will administrate the project.（他将管理这个项目。） |
+| 1    | administration      | /ədˌmɪnɪstraˈʃn/   | n      | 管理、行政部门。                                             | The administration announced new policies.（行政部门宣布了新政策。） |
+| 2    | amiable             | /ˈeɪmiəbl/         | adj    | 和蔼可亲的、友好的。                                         | She has an amiable personality.（她性格和蔼可亲。） |
+| 2    | amour               | /əˈmʊr/            | n      | 爱情、恋爱关系。                                             | Their amour began during college.（他们的恋情始于大学时期。） |
+| 2    | amorous             | /ˈæmərəs/          | adj    | 多情的、爱恋的。                                             | An amorous couple walked hand in hand.（一对相爱的情侣手牵手走着。） |
+| 2    | amity               | /ˈæməti/           | n      | 友好、和平。                                                 | There was amity between the two nations.（两国之间有友好关系。） |
+| 2    | amicable            | /ˈæmɪkəbl/         | adj    | 友好的、和睦的。                                             | They reached an amicable agreement.（他们达成了友好的协议。） |
+| 2    | amatory             | /ˈæmətɔːri/        | adj    | 表示爱情的、挑逗的。                                         | He wrote amatory poems to his beloved.（他写了一些爱情诗给心爱的人。） |
+| 2    | paramour            | /ˈpærəˌmʌr/        | n      | 情人（通常指非法或不道德的关系）。                           | The scandal involved a paramour.（丑闻涉及一个情人。） |
+| 3    | amorphous           | /əˈmɔːrfəs/        | adj    | 无定形的、无形的。                                           | The substance had an amorphous structure.（这种物质具有无定形结构。） |
+| 3    | metamorphosis       | /ˌmɛtəˈmɔːrfəsɪs/  | n      | 蜕变、变形。                                                 | The caterpillar undergoes metamorphosis to become a butterfly.（毛毛虫经历蜕变成为蝴蝶。） |
+| 4    | anodyne             | /ˈænədaɪn/         | n/adj  | 名词：止痛药。<br>形容词：安慰的、缓和的。                   | The doctor prescribed an anodyne for her pain.（医生给她开了一种止痛药。） |
+| 4    | analgesic           | /ˌænəlˈʤɛzɪk/      | adj/n  | 形容词：镇痛的。<br>名词：止痛药。                           | Analgesics can relieve mild to moderate pain.（止痛药可以缓解轻度到中度的疼痛。） |
+| 4    | pain                | /peɪn/             | n      | 疼痛、痛苦。                                                 | He felt a sharp pain in his leg.（他感到腿上一阵剧痛。） |
+| 5    | anarchist           | /ˈænəkrɪst/        | n      | 无政府主义者。                                               | Some anarchists advocate for a society without rulers.（一些无政府主义者主张建立一个没有统治者社会。） |
+| 5    | anarchy              | /ˈænərki/          | n      | 无政府状态、混乱。                                           | The country descended into anarchy after the revolution.（革命后国家陷入了无政府状态。） |
+| 5    | archbishop          | /ˈɑːrtʃbɪʃəp/      | n      | 大主教。                                                     | The archbishop led the service.（大主教主持了仪式。） |
+| 5    | archetype           | /ˈɑːrktɪpaɪtʃ/     | n      | 原型、典型。                                                 | The story follows the archetype of a hero's journey.（故事遵循英雄之旅的原型。） |
+| 5    | monarch             | /ˈmɒnɑːrk/         | n      | 君主。                                                       | The monarch ruled with wisdom and justice.（君主以智慧和公正统治。） |
+| 5    | oligarchy           | /ˈɒlɪɡɑːrkɪ/       | n      | 寡头政治。                                                   | The country is governed by an oligarchy.（这个国家由寡头政治统治。） |
+| 5    | hierarchy           | /haɪˈrɑːrkɪ/       | n      | 层级制度。                                                   | There is a strict hierarchy within the organization.（组织内部有严格的层级制度。） |
+| 5    | patriarch           | /ˈpætrɪɑːrk/       | n      | 宗族长、父权制的首领。                                       | He is the patriarch of the family.（他是家族的宗族长。） |
+| 5    | matriarch           | /ˈmeɪtriɑːrk/      | n      | 女家长、母权制的首领。                                       | She became the matriarch of her community.（她成为了社区的女家长。） |
+
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | anathema            | /əˈnæθəmə/         | n      | 深恶痛绝的事物、诅咒。                                       | His ideas were considered anathema by the group.（他的想法被这个团体视为深恶痛绝。） |
+| 1    | anthem              | /ˈænθəm/           | n      | 国歌、颂歌。                                                 | The crowd sang the national anthem.（人群唱起了国歌。） |
+| 1    | theme               | /θiːm/             | n      | 主题、题目。                                                 | The theme of the conference was innovation.（会议的主题是创新。） |
+| 2    | ancillary           | /ˈænsɪˌlɛri/       | adj/n  | 形容词：辅助的。<br>名词：辅助人员或设备。                   | Ancillary staff support the main team.（辅助人员支持主要团队。） |
+| 2    | ancilla             | /ænˈsɪlə/          | n      | （古罗马的）女仆；辅助者。                                   | In ancient Rome, an ancilla served in the household.（在古罗马，女仆在家庭中服务。） |
+| 2    | auxiliary           | /ɔːɡˈzɪliəri/      | adj/n  | 形容词：辅助的。<br>名词：辅助人员或设备。                   | The auxiliary engine kicked in when the main one failed.（当主引擎故障时，辅助引擎启动了。） |
+| 3    | anecdote            | /ˈænɪkdoʊt/        | n      | 轶事、趣闻。                                                 | She shared a funny anecdote from her childhood.（她分享了一件童年时的趣事。） |
+| 3    | anecdotal           | /ˌænɪkˈdoʊtl/      | adj    | 轶事的、趣闻的。                                             | He gave an anecdotal account of his travels.（他以轶事的形式讲述了旅行经历。） |
+| 3    | anecdotist          | /ænˈɛkdətɪst/      | n      | 讲述趣闻的人。                                               | The anecdotist entertained the audience with stories.（这位趣闻讲述者用故事娱乐了观众。） |
+| 3    | anecdotical         | /ˌænɪkˈdoʊtɪkəl/   | adj    | 轶事的、趣闻的。                                             | An anecdotical book about famous people.（一本关于名人的趣闻轶事的书。） |
+| 3    | anecdotage          | (罕见)             | n      | 轶事集、趣闻集。（这是一个较不常用的词）。                    | A collection of anecdotes can be called anecdotage.（轶事集可以称为anecdotage。） |
+| 4    | anemic              | /əˈniːmɪk/         | adj    | 贫血的、无力的。                                             | She felt weak and anemic after the illness.（生病后她感到虚弱和贫血。） |
+| 5    | anesthetic          | /ˌænəsˈθɛtɪk/      | adj/n  | 形容词：麻醉的。<br>名词：麻醉剂。                           | The doctor administered a local anesthetic before the procedure.（医生在手术前注射了局部麻醉剂。） |
+| 5    | aesthetic           | /iːsˈθɛtɪk/        | adj/n  | 形容词：美学的。<br>名词：美学。                             | The room had an aesthetic appeal.（这个房间具有美学吸引力。） |
+| 5    | anesthesia          | /ˌænəsˈθiːʒə/      | n      | 麻醉状态。                                                   | The patient was under general anesthesia during surgery.（患者在手术期间处于全身麻醉状态。） |
+| 5    | anaesthesia         | /ˌænəsˈθiːziə/     | n      | 麻醉状态（英式拼写）。                                       | Anaesthesia is used in many medical procedures.（麻醉在许多医疗程序中使用。） |
+| 6    | animate             | /ˈænɪmeɪt/         | v/adj  | 动词：赋予生命。<br>形容词：有生气的。                       | The teacher animated the class with interesting stories.（老师用有趣的故事让课堂生动起来。） |
+| 6    | anima               | /ˈænɪmə/           | n      | 灵魂、精神（心理学概念）。                                   | The anima represents the inner self in psychology.（在心理学中，anima代表内在自我。） |
+| 6    | animatedly          | /ˈænɪmeɪtɪdli/     | adv    | 生动地、活泼地。                                             | She spoke animatedly about her experiences.（她生动地谈论自己的经历。） |
+| 6    | animation           | /ˌænɪˈmeɪʃn/       | n      | 动画、使活跃。                                               | The children enjoyed watching the animation movie.（孩子们喜欢看动画电影。） |
+| 6    | exanimation         | (罕见)             | n      | 精神衰弱、无生气。（这是一个较不常用的词）。                 | After the long journey, he felt exanimation.（长途旅行后，他感到精疲力竭。） |
+| 6    | inanimation         | /ɪnˌænɪˈmeɪʃn/     | n      | 无生气、无活力。                                             | The room felt cold and inanimation.（这个房间感觉冷清而没有活力。） |
+| 6    | reanimation         | /ˌriːænɪˈmeɪʃn/    | n      | 重新焕发、复苏。                                             | Reanimation efforts were successful.（复苏努力取得了成功。） |
+| 6    | animative           | /ˈænɪmətɪv/        | adj    | 充满活力的、有生气的。                                       | Her animative personality brightened the room.（她充满活力的性格照亮了整个房间。） |
+| 6    | animator            | /ˈænɪmeɪtər/       | n      | 动画制作人。                                                 | The animator worked on creating lively characters.（动画师致力于创造生动的角色。） |
+| 6    | exanimate           | /ˈɛksəˌnaɪmɪt/     | adj    | 无生气的、死气沉沉的。                                       | The room seemed exanimate without any decoration.（没有装饰的房间显得死气沉沉。） |
+| 6    | inanimate           | /ɪnˈænɪmət/        | adj    | 无生命的、无生气的。                                         | Rocks are inanimate objects.（岩石是无生命的物体。） |
+| 6    | reanimate           | /ˈriːænɪmeɪt/      | v      | 使复活、使恢复生机。                                         | Efforts to reanimate the economy are ongoing.（使经济复苏的努力正在进行中。） |
+| 6    | disanimate          | /ˌdɪsˈænɪmeɪt/     | v      | 使失去活力、使消沉。                                         | The bad news disanimated the entire team.（坏消息使整个团队消沉。） |
+| 6    | animal              | /ˈænɪml/           | n      | 动物。                                                       | Cats and dogs are common pets among animals.（猫和狗是常见的宠物动物。） |
+| 6    | animalcule          | /ænɪˈmælkjuːl/     | n      | 微生物、微小动物。                                           | The microscope revealed tiny animalcules in the water.（显微镜揭示了水中微小的微生物。） |
+| 6    | animalism           | /ˈænɪməlɪzəm/      | n      | 动物性、本能行为。                                           | Some philosophies emphasize the importance of transcending animalism.（一些哲学强调超越动物性的重要性。） |
+| 6    | animality           | /ˌænɪˈmælɪti/      | n      | 动物性、兽性。                                               | The study explored the concept of animality in humans.（研究探讨了人类中的动物性概念。） |
+| 6    | animalize           | /ˈænɪmlaɪz/        | v      | 使成为动物、使野蛮化。                                       | The harsh conditions seemed to animalize the prisoners.（艰苦的条件似乎使囚犯变得野蛮。） |
+| 6    | animalcular         | /ænɪˈmælkjələr/    | adj    | 微小动物的、微生物的。                                       | The water contained numerous animalcular organisms.（水中有大量微生物。） |
