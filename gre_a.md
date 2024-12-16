@@ -788,3 +788,957 @@
 | 6    | animality           | /ˌænɪˈmælɪti/      | n      | 动物性、兽性。                                               | The study explored the concept of animality in humans.（研究探讨了人类中的动物性概念。） |
 | 6    | animalize           | /ˈænɪmlaɪz/        | v      | 使成为动物、使野蛮化。                                       | The harsh conditions seemed to animalize the prisoners.（艰苦的条件似乎使囚犯变得野蛮。） |
 | 6    | animalcular         | /ænɪˈmælkjələr/    | adj    | 微小动物的、微生物的。                                       | The water contained numerous animalcular organisms.（水中有大量微生物。） |
+
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | animus              | /ˈænɪməs/          | n      | （通常指）敌意、动机。                                       | His animus towards her was evident.（他对她的敌意显而易见。） |
+| 1    | animosity           | /ænɪˈmɑːsəti/      | n      | 敌意、仇恨。                                                 | There is animosity between the two groups.（两组之间存在敌意。） |
+| 1    | animal              | /ˈænɪml/           | n      | 动物。                                                       | Cats and dogs are common pets among animals.（猫和狗是常见的宠物动物。） |
+| 1    | animate             | /ˈænɪmeɪt/         | v/adj  | 动词：赋予生命。<br>形容词：有生气的。                       | The teacher animated the class with interesting stories.（老师用有趣的故事让课堂生动起来。） |
+| 1    | animation           | /ˌænɪˈmeɪʃn/       | n      | 动画、使活跃。                                               | The children enjoyed watching the animation movie.（孩子们喜欢看动画电影。） |
+| 1    | animator            | /ˈænɪmeɪtər/       | n      | 动画制作人。                                                 | The animator worked on creating lively characters.（动画师致力于创造生动的角色。） |
+| 1    | inanimate           | /ɪnˈænɪmət/        | adj    | 无生命的、无生气的。                                         | Rocks are inanimate objects.（岩石是无生命的物体。） |
+| 1    | animistic           | /ˌænɪˈmɪstɪk/      | adj    | 泛灵论的、灵魂主义的。                                       | Animistic beliefs attribute life to natural objects.（泛灵论信仰认为自然物体具有生命。） |
+| 1    | anima               | /ˈænɪmə/           | n      | 灵魂、精神（心理学概念）。                                   | The anima represents the inner self in psychology.（在心理学中，anima代表内在自我。） |
+| 1    | animadvert          | /ˌænɪmədˈvɜːrt/    | v      | 转向、注意（较少使用）。                                     | He animadverted on the policy's flaws.（他指出了政策的缺陷。） |
+| 2    | annoy               | /əˈnɔɪ/            | v      | 恼怒、烦扰。                                                 | The noise annoyed me all day.（噪音整天让我心烦。） |
+| 2    | annoyed             | /əˈnɔɪd/           | adj    | 恼怒的、烦扰的。                                             | She looked annoyed after the argument.（争论后她看起来很恼怒。） |
+| 2    | annoying            | /əˈnɔɪɪŋ/          | adj    | 讨厌的、烦人的。                                             | His constant talking was annoying.（他不停地说话真烦人。） |
+| 2    | annoyingly          | /əˈnɔɪɪŋli/        | adv    | 讨厌地、烦人地。                                             | He spoke annoyingly loud.（他讲话声音大得让人讨厌。） |
+| 2    | annoyance           | /əˈnɔɪəns/         | n      | 恼怒、烦恼。                                                 | The noise was a constant source of annoyance.（噪音是持续的烦恼来源。） |
+| 2    | annoyer             | /əˈnɔɪər/          | n      | 让人恼怒的人或事物。                                        | He is a constant annoyer in the office.（他是办公室里一个不断惹人恼怒的人。） |
+| 2    | nuisance            | /ˈnuːsəns/         | n      | 讨厌的东西或人；妨害。                                       | The neighbor's dog is a real nuisance.（邻居的狗真是个麻烦。） |
+| 3    | annul               | /əˈnʌl/            | v      | 使无效、取消。                                               | The court decided to annul the contract.（法院决定使合同无效。） |
+| 3    | null                | /nʌl/              | adj/n  | 形容词：无效的、不存在的。<br>名词：零、虚无。               | The agreement was declared null and void.（协议被宣布为无效。） |
+| 3    | nullify             | /ˈnʌlɪfaɪ/         | v      | 使无效、废除。                                               | They sought to nullify the law.（他们试图废除这项法律。） |
+| 3    | nullity             | /ˈnʌlɪti/          | n      | 无效状态、虚无。                                             | The marriage was found to be a nullity.（婚姻被认定为无效。） |
+| 3    | null and void       | /nʌl ænd vɔɪd/     | phrase | 无效的、作废的。                                             | The contract was declared null and void.（合同被宣布无效。） |
+| 4    | anomalous           | /æˈnɒmələs/        | adj    | 异常的、不规则的。                                           | The data showed an anomalous pattern.（数据显示出异常模式。） |
+| 4    | nominal             | /ˈnɒmɪnl/          | adj    | 名义上的、微不足道的。                                       | He holds a nominal position in the company.（他在公司中担任名义上的职位。） |
+| 4    | norm                | /nɔːrm/            | n      | 标准、规范。                                                 | The average score is the norm for this test.（平均分是这个测试的标准。） |
+| 4    | normal              | /ˈnɔːrməl/         | adj    | 正常的、常规的。                                             | Her behavior was considered normal.（她的行为被认为是正常的。） |
+| 4    | anomaly             | /əˈnɒməli/         | n      | 异常现象、例外。                                             | This case is an anomaly in the dataset.（这个案例是数据集中的一个异常。） |
+| 4    | nominate            | /ˈnɒmɪneɪt/        | v      | 提名、指定。                                                 | She was nominated for the award.（她被提名为奖项候选人。） |
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | anonymous           | /əˈnɒnɪməs/        | adj    | 匿名的。                                                     | The donor wished to remain anonymous.（捐赠者希望保持匿名。） |
+| 1    | anonym              | (较少使用)         | n      | 匿名者。（这个用法较不常见）。                               | (较少使用)                                                 |
+| 1    | anonymity           | /ˌænəˈnɪməti/      | n      | 匿名状态。                                                   | He valued his anonymity online.（他重视在线上的匿名状态。） |
+| 1    | anonymization       | /əˌnɒnɪmaɪˈzeɪʃn/  | n      | 使匿名的过程。                                               | The data went through anonymization for privacy.（数据经过匿名化处理以保护隐私。） |
+| 1    | anonymously         | /əˈnɒnɪməsli/      | adv    | 匿名地。                                                     | She posted the message anonymously.（她匿名发布了消息。） |
+| 1    | pseudonym           | /ˈsuːdənɪm/        | n      | 笔名、假名。                                                 | The author wrote under a pseudonym.（作者用笔名写作。） |
+| 1    | synonymous          | /sɪˈnɒnɪməs/       | adj    | 同义的、意思相同的。                                         | "Happy" is synonymous with "joyful".（“快乐”与“喜悦”是同义的。） |
+| 1    | antonym             | /ˈæntənɪm/         | n      | 反义词。                                                     | "Hot" and "cold" are antonyms.（“热”和“冷”是反义词。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | antagonize          | /ænˈtæɡənaɪz/      | v      | 激怒、使对立。                                                | His comments antagonized the audience.（他的评论激怒了观众。） |
+| 2    | agon                | /ˈæɡən/            | n      | （古希腊语）竞技场、斗争。（现代较少使用）。                  | (较少使用)                                                 |
+| 2    | agonize             | /ˈæɡənaɪz/         | v      | 痛苦地思考或担忧；使痛苦。                                    | She agonized over the decision.（她为这个决定痛苦地思索。） |
+| 2    | agony               | /ˈæɡəni/           | n      | 极度痛苦、苦恼。                                              | He was in agony after the accident.（事故发生后他处于极度痛苦中。） |
+| 2    | antagonist          | /ænˈtæɡənɪst/      | n      | 对手、敌对者。                                                | The movie had a strong antagonist.（电影有一个强大的对手角色。） |
+| 2    | protagonist         | /ˌproʊtæɡəˈnɪst/   | n      | 主角、主人公。                                                | She played the protagonist in the play.（她在剧中扮演主角。） |
+| 2    | agonise             | /ˈæɡənaɪz/         | v      | （英式拼写）痛苦地思考或担忧；使痛苦。                        | He agonised over the choice.（他对这个选择感到痛苦。） |
+| 2    | agonist             | /ˈæɡənɪst/         | n      | （生理学）激动剂、作用物。                                    | The drug acts as an agonist on the receptors.（药物作为受体的激动剂发挥作用。） |
+| 2    | agonistic           | /æɡəˈnɪstɪk/       | adj    | 斗争的、对抗的。                                              | The debate became agonistic.（辩论变得充满对抗性。） |
+| 2    | agonized            | /ˈæɡənaɪzd/        | adj    | 痛苦的、忧虑的。                                              | She looked agonized at the news.（听到这个消息时她显得非常痛苦。） |
+| 2    | agonizing           | /ˈæɡənaɪzɪŋ/       | adj    | 令人痛苦的。                                                  | The wait was agonizing.（等待是痛苦的。） |
+| 2    | agonizingly         | /ˈæɡənaɪzɪŋli/     | adv    | 极其痛苦地。                                                  | He suffered agonizingly during the illness.（他在病痛中极其痛苦。） |
+| 2    | antagonistic        | /ænˌtæɡəˈnɪstɪk/   | adj    | 敌对的、对抗的。                                              | They had an antagonistic relationship.（他们有敌对的关系。） |
+| 2    | antagonistical      | /ænˌtæɡəˈnɪstɪkl/  | adj    | 敌对的、对抗的（较少使用）。                                  | Their views were antagonistical.（他们的观点是对立的。） |
+| 2    | antagonistically    | /ænˌtæɡəˈnɪstɪklɪ/ | adv    | 敌对地、对抗地。                                              | They spoke antagonistically about each other.（他们互相敌对地说着对方。） |
+| 2    | antagonize          | /ænˈtæɡənaɪz/      | v      | 激怒、使对立。                                                | Her remarks antagonized the group.（她的言论激怒了小组。） |
+| 2    | antagonized         | /ænˈtæɡənaɪzd/     | v      | 激怒了、使对立了。                                            | The comment antagonized the crowd.（这条评论激怒了人群。） |
+| 2    | antagonizing        | /ænˈtæɡənaɪzɪŋ/    | v      | 正在激怒、正在使对立。                                        | His actions were antagonizing the situation.（他的行为正在激化局势。） |
+
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | antediluvian        | /ˌæntiˈdɪljəviən/  | adj/n  | 形容词：洪水前的、非常古老。<br>名词：古代事物。             | The artifact is of antediluvian origin.（这文物来自洪荒时代。） |
+| 1    | diluvian            | /dɪˈluːviən/       | adj    | 洪水时期的、与大洪水相关的。                                 | The rocks showed diluvian characteristics.（岩石显示了与大洪水相关的特征。） |
+| 1    | deluge              | /ˈdɛljuːʤ/         | n/v    | 名词：洪水、大量。<br>动词：淹没。                           | The deluge of emails overwhelmed her.（如潮水般的邮件让她应接不暇。） |
+| 1    | submerge            | /səbˈmɜːrdʒ/       | v      | 沉没、浸没。                                                 | The boat began to submerge in the water.（船开始在水中下沉。） |
+| 1    | inundate            | /ɪˈnʌndeɪt/        | v      | 淹没、泛滥；使充满。                                         | Heavy rains inundated the city.（大雨淹没了这座城市。） |
+| 1    | aquatic             | /əˈkwætɪk/         | adj    | 水生的、水中的。                                             | Aquatic plants thrive in wet environments.（水生植物在潮湿环境中茁壮成长。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | anterior            | /ænˈtɪriər/        | adj    | 在前面的、较早的。                                           | The anterior part of the brain controls movement.（大脑的前部控制运动。） |
+| 2    | superior            | /suːˈpɪriər/       | adj    | 上级的、优秀的。                                             | He holds a superior position in the company.（他在公司中担任上级职位。） |
+| 2    | inferior            | /ɪnˈfɪriər/        | adj    | 下级的、较差的。                                             | She felt inferior in the presence of experts.（在专家面前她感到自己能力较差。） |
+| 2    | interior            | /ɪnˈtɪriər/        | adj/n  | 形容词：内部的。<br>名词：内部。                             | The interior of the house was beautifully decorated.（房子内部装饰得很漂亮。） |
+| 2    | exterior            | /ɪkˈstɪriər/       | adj/n  | 形容词：外部的。<br>名词：外部。                             | The exterior of the building needs painting.（建筑物的外部需要粉刷。） |
+| 2    | posterior           | /pɒˈstiəriər/      | adj    | 在后面的、后来的。                                           | The posterior muscles are important for posture.（后部肌肉对姿势很重要。） |
+| 2    | ulterior            | /ʌlˈtɪeriər/       | adj    | 更远的、隐藏的（动机）。                                     | He had an ulterior motive for helping.（他帮助别人另有隐情。） |
+| 2    | senior              | /ˈsiːniər/         | adj/n  | 形容词：资深的。<br>名词：年长者、资深人士。                 | She is a senior member of the team.（她是团队中的资深成员。） |
+| 2    | junior              | /ˈʤuːniər/         | adj/n  | 形容词：初级的。<br>名词：年轻人、初级人员。                 | He started as a junior employee.（他从初级员工做起。） |
+| 2    | antedate            | /ˈæntidæt/         | v      | 把日期提前、先于。                                           | The letter was antedated by two days.（信件的日期被提前了两天。） |
+| 2    | antecedent          | /ænˈtiːsidnt/       | adj/n  | 形容词：先行的。<br>名词：先驱、先例。                       | His actions were influenced by antecedent events.（他的行为受到先前事件的影响。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 3    | antic               | /ˈæntɪk/           | adj/n  | 形容词：古怪的、滑稽的。<br>名词：古董、滑稽表演。           | The museum displayed several antic pieces.（博物馆展示了几件古董。） |
+| 3    | antique             | /ænˈtiːk/          | adj/n  | 形容词：古老的、古董的。<br>名词：古董。                     | The antique furniture was very valuable.（古董家具非常有价值。） |
+| 3    | antiquity           | /ænˈtɪkwəti/       | n      | 古代、古物。                                                 | The antiquity of the ruins amazed everyone.（废墟的古老程度让所有人惊叹。） |
+| 3    | antiquarian         | /ænˌtɪkwəˈriːən/   | n/adj  | 名词：古董商、古物学家。<br>形容词：关于古董的。             | The antiquarian collected rare books.（这位古董商收集了稀有书籍。） |
+| 3    | antithesis          | /ænˈtɪθəsɪs/       | n      | 对立面、对立关系。                                           | Love and hate are an antithesis.（爱和恨是对立的关系。） |
+| 3    | antipathy           | /ænˈtɪpəθi/        | n      | 强烈反感、厌恶。                                             | There was an immediate antipathy between them.（他们之间立刻产生了强烈的反感。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 4    | apathy              | /ˈæpəθi/           | n      | 冷漠、无兴趣。                                               | His apathy towards work was concerning.（他对工作的冷漠令人担忧。） |
+| 4    | sympathy            | /ˈsɪmpəθi/         | n      | 同情、共鸣。                                                 | She expressed sympathy for the victims.（她表达了对受害者的同情。） |
+| 4    | empathy             | /ˈɛmpəθi/          | n      | 共情、同感。                                                 | Empathy allows us to understand others' feelings.（共情让我们理解他人的感受。） |
+| 4    | antipathy           | /ænˈtɪpəθi/        | n      | 强烈反感、厌恶。                                             | There was an immediate antipathy between them.（他们之间立刻产生了强烈的反感。） |
+| 4    | pathology           | /pəˈθɑːləʤi/       | n      | 病理学、疾病研究。                                           | The study focuses on the pathology of cancer.（这项研究专注于癌症的病理学。） |
+| 4    | telepathy           | /ˈtelɪˌpæði/       | n      | 心灵感应、心灵遥感。                                         | Some people believe in telepathy.（有些人相信心灵感应。） |
+| 4    | pathetic            | /ˈpæθətɪk/         | adj    | 可怜的、悲惨的。                                             | The situation was truly pathetic.（情况真是可怜。） |
+| 4    | compassion          | /kəmˈpæʃən/        | n      | 怜悯、同情心。                                               | Her compassion for others was evident.（她对他人的怜悯显而易见。） |
+
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | aphorism            | /ˈæfərɪzəm/        | n      | 格言、警句。                                                 | His speech was full of insightful aphorisms.（他的演讲充满了富有洞见的格言。） |
+| 1    | horizon             | /həˈraɪzn/         | n      | 地平线、视野。                                               | The sun set below the horizon.（太阳落到了地平线下。） |
+| 1    | aphoristic          | /ˌæfəˈrɪstɪk/      | adj    | 格言式的、警句的。                                           | Her writing had an aphoristic quality.（她的写作具有格言式的特质。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | apocalyptic         | /əˌpɒkəˈlɪptɪk/    | adj    | 世界末日的、启示录的。                                       | The movie portrayed an apocalyptic future.（电影描绘了一个世界末日的未来。） |
+| 2    | apocalypse          | /əˈpɒkəliːps/      | n      | 启示录、大灾难。                                             | The book describes a vision of the apocalypse.（这本书描述了一个关于大灾难的愿景。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 3    | apocryphal          | /əˈpɒkrɪfəl/       | adj    | 秘传的、伪经的。                                             | The story is based on apocryphal texts.（这个故事基于伪经文本。） |
+| 3    | crypt               | /krɪpt/            | n      | 地下室、墓穴。                                               | The ancient church had a crypt beneath it.（古老的教堂下面有一个地下室。） |
+| 3    | cryptography        | /ˌkrɪptɒˈɡrəfi/    | n      | 密码学。                                                     | Modern cryptography ensures secure communications.（现代密码学确保了通信安全。） |
+| 3    | cryptic             | /ˈkrɪptɪk/         | adj    | 隐晦的、难解的。                                             | The message was written in cryptic code.（信息是用隐晦的代码写的。） |
+| 3    | decryption          | /dɪˈkrɪpʃn/        | n      | 解密。                                                       | Advanced software can perform rapid decryption.（高级软件可以快速解密。） |
+| 3    | encrypted           | /ɪnˈkrɪptɪd/       | adj    | 加密的。                                                     | The data was stored in an encrypted format.（数据以加密格式存储。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 4    | apoplectic          | /æpəˈplɛktɪk/      | adj    | 中风的、暴怒的。                                             | He became apoplectic with rage.（他愤怒得几乎中风。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 5    | apostasy            | /əˈpɒstəsi/        | n      | 背教、叛教。                                                 | His decision to leave the religion was seen as apostasy.（他决定离开宗教被视为背教。） |
+| 5    | stasis              | /ˈsteɪsɪs/        | n      | 静止状态、停滞。                                             | The project has been in stasis for months.（这个项目已经停滞了几个月。） |
+| 5    | ecstasy             | /ɪkˈstæzi/         | n      | 狂喜、极度兴奋。                                             | She was in ecstasy over the news.（听到这个消息她欣喜若狂。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 6    | appall              | /əˈpɔːl/           | v      | 使惊骇、使震惊。                                             | The conditions in the factory appalled us.（工厂里的状况让我们震惊。） |
+| 6    | appal               | /əˈpɔːl/           | v      | （英式拼写）使惊骇、使震惊。                                 | The conditions in the factory appal us.（工厂里的状况让我们震惊。） |
+| 6    | appalled            | /əˈpɔːld/          | adj    | 惊骇的、震惊的。                                             | We were appalled by the news.（我们对这则新闻感到震惊。） |
+| 6    | appalling           | /əˈpɔːlɪŋ/         | adj    | 令人震惊的、可怕的。                                         | The situation was truly appalling.（情况真是令人震惊。） |
+| 6    | appallingly         | /əˈpɔːlɪŋli/       | adv    | 令人震惊地。                                                 | The conditions were appallingly bad.（条件糟糕得令人震惊。） |
+| 6    | pallor              | /ˈpælər/           | n      | 苍白、脸色苍白。                                             | His face showed signs of pallor.（他的脸色显现出苍白。） |
+| 6    | palliative          | /pəˈliːətɪv/       | adj/n  | 形容词：缓和的。<br>名词：缓和剂。                           | Palliative care focuses on relieving symptoms.（姑息治疗专注于缓解症状。） |
+| 6    | pale                | /peɪl/             | adj/v  | 形容词：苍白的。<br>动词：变苍白。                           | She looked pale after the surgery.（手术后她看起来很苍白。） |
+| 6    | paleness            | /ˈpeɪlnɪs/         | n      | 苍白。                                                       | The paleness of her skin was noticeable.（她皮肤的苍白很明显。） |
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | appeal              | /əˈpiːl/           | v/n    | 动词：上诉、恳求。<br>名词：吸引力、上诉。                   | She decided to appeal the court's decision.（她决定对法院的判决提出上诉。） |
+| 1    | appealing           | /əˈpiːlɪŋ/         | adj    | 有吸引力的、动人的。                                         | The offer was very appealing.（这个提议非常有吸引力。） |
+| 1    | compel              | /kəmˈpel/          | v      | 强迫、迫使。                                                 | The law compels citizens to pay taxes.（法律强迫公民缴税。） |
+| 1    | expel               | /ɪkˈspel/          | v      | 驱逐、开除。                                                 | The school expelled the student for bad behavior.（学校因为行为不良开除了这名学生。） |
+| 1    | impel               | /ɪmˈpel/           | v      | 推动、驱使。                                                 | Ambition impels her to work hard.（雄心驱使她努力工作。） |
+| 1    | propel              | /prəˈpel/          | v      | 推进、推动。                                                 | Engines propel the ship forward.（引擎推动船前进。） |
+| 1    | repel               | /rɪˈpel/           | v      | 抵抗、排斥。                                                 | The insect repellent kept mosquitoes away.（驱虫剂让蚊子远离。） |
+| 1    | pulse               | /pʌls/             | n/v    | 名词：脉搏、脉冲。<br>动词：跳动、搏动。                     | You can feel your pulse in your wrist.（你可以在手腕上感觉到脉搏。） |
+| 1    | appellant           | /æpɪˈlænt/         | n      | 上诉人。                                                     | The appellant challenged the verdict.（上诉人对判决提出挑战。） |
+| 1    | appellate           | /æpɪˈlet/          | adj    | 上诉的、上诉法院的。                                         | The case will go to the appellate court.（这个案件将上诉到上诉法院。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | applause            | /əˈplɔːz/          | n      | 鼓掌、喝彩。                                                 | The audience gave a round of applause.（观众报以热烈的掌声。） |
+| 2    | applaud             | /əˈplɔːd/          | v      | 鼓掌称赞、赞美。                                             | They applauded the performer's skill.（他们为表演者的技艺鼓掌称赞。） |
+| 2    | cause               | /kɔːz/             | n/v    | 名词：原因、起因。<br>动词：引起、导致。                     | The cause of the accident is unknown.（事故的原因未知。） |
+| 2    | pause               | /pɔːz/             | n/v    | 名词：暂停、停顿。<br>动词：暂停、停顿。                     | He made a brief pause before continuing.（他稍作停顿后继续。） |
+| 2    | clause              | /klɔːz/            | n      | 条款、从句。                                                 | The contract contains several important clauses.（合同包含几项重要条款。） |
+| 2    | because             | /bɪˈkəz/           | conj   | 因为。                                                       | She stayed home because it was raining.（因为她下雨所以待在家里。） |
+| 2    | applause            | /əˈplɔːz/          | n      | 鼓掌、喝彩。（重复项）                                       | （重复项）                                                 |
+| 2    | dispause            | (较少使用)         | n      | 暂停、间歇。（较不常用）                                     | (较少使用)                                                 |
+| 2    | menopause           | /ˈmiːnəpɔːz/       | n      | 更年期。                                                     | Symptoms of menopause vary from woman to woman.（更年期症状因女性而异。） |
+| 2    | tropopause          | /trəʊˈpɒpɔːz/      | n      | 对流层顶。                                                   | The temperature changes little in the tropopause.（在对流层顶温度变化不大。） |
+| 2    | plaudit             | /ˈplɔːdɪt/         | n      | 赞扬、喝彩。                                                 | The actor received plaudits for his performance.（演员因其表演获得了赞扬。） |
+| 2    | approbation         | /əˌprɒbəˈʃn/       | n      | 批准、赞同。                                                 | The plan met with general approbation.（计划得到了普遍的赞同。） |
+| 2    | disapprobation      | /dɪsˌprɒbəˈʃn/     | n      | 不赞成、反对。                                               | There was some disapprobation of the new policy.（对新政策有一些不赞成的声音。） |
+| 2    | clap                | /klæp/             | v/n    | 动词：拍手、拍打。<br>名词：拍手、拍打声。                   | The children clapped their hands in delight.（孩子们高兴地拍手。） |
+| 2    | clapping            | /ˈklæpɪŋ/          | v      | 拍手、拍打（动名词）。                                       | The room filled with the sound of clapping.（房间里充满了拍手声。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 3    | apposite            | /ˈæpəzɪt/          | adj    | 恰当的、中肯的。                                             | His remarks were apposite to the discussion.（他的评论与讨论恰到好处。） |
+| 3    | position            | /pəˈzɪʃn/          | n/v    | 名词：位置、立场。<br>动词：安置、定位。                     | She took up a position as a manager.（她担任了经理职位。） |
+| 3    | pose                | /poʊz/             | v/n    | 动词：摆姿势、提出。<br>名词：姿态、问题。                   | She posed for the photograph.（她为照片摆姿势。） |
+| 3    | depose              | /dɪˈpoʊz/          | v      | 罢免、废黜。                                                 | The king was deposed after the revolution.（革命后国王被废黜。） |
+| 3    | postulate           | /ˈpɑːstʃuleɪt/     | v/n    | 动词：假设、断言。<br>名词：公理、前提。                     | The scientist postulated a new theory.（科学家提出了一个新理论。） |
+| 3    | composure           | /kəmˈpoʊʒər/       | n      | 镇定、沉着。                                                 | She maintained her composure throughout the meeting.（整个会议期间她保持镇定。） |
+| 3    | expose              | /ɪkˈspoʊz/         | v      | 揭露、暴露。                                                 | The article exposed corruption in government.（文章揭露了政府中的腐败。） |
+| 3    | opposition          | /ˌɒpəˈzɪʃn/        | n      | 反对、对立。                                                 | There was strong opposition to the proposal.（对该提案有强烈的反对声音。） |
+| 3    | proposition         | /ˌprɑːpəˈzɪʃn/     | n      | 提议、命题。                                                 | He put forward an interesting proposition.（他提出了一个有趣的命题。） |
+| 3    | supposition         | /ˌsʌpəˈzɪʃn/       | n      | 假设、推测。                                                 | My conclusion is based on supposition.（我的结论基于假设。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | appreciable         | /əˈpriːʃəbəl/     | adj    | 可感激的、显著的。                                           | There was an appreciable improvement in her work.（她的工作有了显著的进步。） |
+| 1    | appreciate          | /əˈpriːʃieɪt/     | v      | 感激、欣赏。                                                 | I really appreciate your help.（我真的很感激你的帮助。） |
+| 1    | appreciably         | /əˈpriːʃəbli/     | adv    | 显著地、可觉察地。                                           | The situation improved appreciably.（情况显著改善了。） |
+| 1    | inappreciable       | /ˌɪnəˈpriːʃəbəl/  | adj    | 不可感激的、微不足道的。                                     | The difference was inappreciable.（差异微不足道。） |
+| 1    | appreciated         | /əˈpriːʃieɪtɪd/   | adj    | 被感激的。                                                   | His efforts were greatly appreciated.（他的努力得到了极大的感激。） |
+| 1    | unappreciated       | /ʌnˈæpriːʃieɪtɪd/ | adj    | 不被感激的。                                                 | Her contributions were often unappreciated.（她的贡献常常不被感激。） |
+| 1    | under-appreciated   | /ˌʌndərˈæpriːʃieɪtɪd/ | adj  | 被低估的、未得到足够重视的。                                 | Teachers are often under-appreciated.（教师们常常被低估。） |
+| 1    | appreciating        | /əˈpriːʃieɪtɪŋ/   | v      | 正在感激、正在欣赏。                                         | She was appreciating the beautiful scenery.（她正在欣赏美丽的风景。） |
+| 1    | appreciator         | /əˈpriːʃieɪtər/   | n      | 欣赏者、感激者。                                             | He is a true appreciator of fine art.（他是美术的真正鉴赏家。） |
+| 1    | appreciation        | /əˌpriːʃiˈeɪʃn/   | n      | 感激、欣赏。                                                 | They expressed their appreciation for the gift.（他们表达了对礼物的感激。） |
+| 1    | appreciative        | /əˈpriːʃieɪtɪv/   | adj    | 感激的、欣赏的。                                             | She had an appreciative audience.（她有一个感激的观众。） |
+| 1    | appreciatively      | /əˈpriːʃieɪtɪvli/ | adv    | 感激地、欣赏地。                                             | He spoke appreciatively of her work.（他感激地谈论着她的工作。） |
+| 1    | unappreciative      | /ʌnˈæpriːʃieɪtɪv/ | adj    | 不感激的、不欣赏的。                                         | She felt unappreciative of the effort made.（她对所作的努力感到不感激。） |
+| 1    | appreciatory        | /əˈpriːʃətɔːri/   | adj    | 表示感激的、表示欣赏的。                                     | He gave an appreciatory nod.（他给了一个表示感激的点头。） |
+| 1    | price               | /praɪs/            | n/v    | 名词：价格。<br>动词：定价。                                 | The price of the car is too high.（这辆车的价格太高了。） |
+| 1    | precious            | /ˈprɛʃəs/          | adj    | 宝贵的、珍贵的。                                             | Gold is a precious metal.（金是一种贵金属。） |
+| 1    | appraise            | /əˈpreɪz/          | v      | 评估、评价。                                                 | The appraiser valued the antique at $500.（估价师将古董估价为500美元。） |
+| 1    | depreciate          | /dɪˈpriːʃieɪt/     | v      | 贬值、折旧。                                                 | The car's value has depreciated over time.（汽车的价值随时间贬值。） |
+| 1    | comprise            | /kəmˈpraɪz/        | v      | 包含、组成。                                                 | The team comprises five members.（团队由五名成员组成。） |
+| 1    | disparage           | /dɪsˈpærɪʤ/        | v      | 贬低、诋毁。                                                 | He should not disparage others' efforts.（他不应该贬低他人的努力。） |
+| 1    | pricy               | /ˈpraɪsi/          | adj    | 昂贵的。                                                     | That restaurant is quite pricy.（那家餐馆相当昂贵。） |
+| 1    | reprice             | /riːˈpraɪs/        | v      | 重新定价。                                                   | The store decided to reprice the items on sale.（商店决定重新定价促销商品。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | apprehension        | /ˌæprɪˈhɛnʃn/      | n      | 焦虑、担忧；理解、领悟。                                     | She felt a sense of apprehension before the exam.（考试前她感到焦虑。） |
+| 2    | comprehend          | /ˌkɒmprɪˈhend/     | v      | 理解、领会。                                                 | It took me a while to comprehend the concept.（我花了一段时间才理解这个概念。） |
+| 2    | prehensile          | /ˈpriːhɛnsaɪl/     | adj    | （指、尾等）能抓取的、适于抓握的。                           | Monkeys have prehensile tails.（猴子有能够抓握的尾巴。） |
+| 2    | apprehend           | /əˈprɛnhend/        | v      | 抓捕、理解。                                                 | The police apprehended the suspect.（警察抓住了嫌疑犯。） |
+| 2    | comprehensive       | /ˌkɒmprɪˈhɛnsɪv/   | adj    | 全面的、综合的。                                             | The report provides a comprehensive overview.（报告提供了全面的概述。） |
+| 2    | prehension          | /prɪˈhɛnʃn/        | n      | 抓握、理解。                                                 | The ability of prehension is important for primates.（抓握能力对灵长类动物很重要。） |
+| 2    | incomprehensible    | /ˌɪnkɒmprɪˈhɛnsəbl/| adj    | 难以理解的、费解的。                                         | The explanation was incomprehensible.（解释难以理解。） |
+
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | apprise             | /əˈpraɪz/          | v      | 通知、告知。                                                 | We must apprise her of the latest developments.（我们必须告知她最新的发展情况。） |
+| 1    | apprehend           | /əˈprɛnhend/        | v      | 抓捕、理解。                                                 | The police apprehended the suspect.（警察抓住了嫌疑犯。） |
+| 1    | comprehend          | /ˌkɒmprɪˈhend/     | v      | 理解、领会。                                                 | It took me a while to comprehend the concept.（我花了一段时间才理解这个概念。） |
+| 1    | prehensile          | /ˈpriːhɛnsaɪl/     | adj    | （指、尾等）能抓取的、适于抓握的。                           | Monkeys have prehensile tails.（猴子有能够抓握的尾巴。） |
+| 1    | seize               | /siːz/             | v      | 抓住、夺取。                                                 | He seized the opportunity with both hands.（他紧紧抓住了这个机会。） |
+| 1    | apprisal            | /əˈpraɪzl/         | n      | 通知、告知的行为或过程。                                     | The manager gave an apprisal of the new policy.（经理对新政策进行了通知。） |
+| 1    | comprehensive       | /ˌkɒmprɪˈhɛnsɪv/   | adj    | 全面的、综合的。                                             | The report provides a comprehensive overview.（报告提供了全面的概述。） |
+| 1    | incomprehensible    | /ˌɪnkɒmprɪˈhɛnsəbl/| adj    | 难以理解的、费解的。                                         | The explanation was incomprehensible.（解释难以理解。） |
+| 1    | prehension          | /prɪˈhɛnʃn/        | n      | 抓握、理解。                                                 | The ability of prehension is important for primates.（抓握能力对灵长类动物很重要。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | approbation         | /əˌprɒbəˈʃn/       | n      | 批准、赞同。                                                 | The plan met with general approbation.（计划得到了普遍的赞同。） |
+| 2    | prove               | /pruːv/            | v      | 证明、证实。                                                 | You need to prove your point.（你需要证明你的观点。） |
+| 2    | proof               | /pruːf/            | n      | 证据、证明。                                                 | They provided ample proof of their innocence.（他们提供了充分的无辜证明。） |
+| 2    | probity             | /ˈprɒbɪti/         | n      | 正直、诚实。                                                 | She is known for her probity in all transactions.（她因所有交易中的正直而闻名。） |
+| 2    | approve             | /əˈpruːv/          | v      | 批准、同意。                                                 | The committee approved the proposal.（委员会批准了提案。） |
+| 2    | improbable          | /ɪmˈprɒbəbəl/      | adj    | 不太可能的。                                                 | An improbable story made everyone skeptical.（一个不太可能的故事让大家持怀疑态度。） |
+| 2    | reprove             | /rɪˈpruːv/         | v      | 责备、训斥。                                                 | The teacher reproved the student for being late.（老师责备学生迟到。） |
+| 2    | disapprove          | /dɪsəˈpruːv/       | v      | 不赞成、反对。                                               | She disapproved of his decision.（她不赞成他的决定。） |
+| 2    | provable            | /ˈpruːvəbəl/       | adj    | 可证明的。                                                   | The claim is provable with evidence.（这个主张可以用证据证明。） |
+| 2    | approval            | /əˈpruːvl/         | n      | 批准、赞同。                                                 | Her request received immediate approval.（她的请求立即得到批准。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 3    | appropriate         | /əˈproʊpriət/     | adj/v  | 形容词：适当的、恰当的。<br>动词：拨款、挪用。               | Is this behavior appropriate in the workplace?（这种行为在工作场所是否适当？） |
+| 3    | property            | /ˈprɑːpərti/       | n      | 财产、特性。                                                 | The company owns valuable property.（公司拥有有价值的财产。） |
+| 3    | propriety           | /prəˈpraɪəti/      | n      | 恰当、得体。                                                 | She acted with great propriety at the event.（她在活动中表现得非常得体。） |
+| 3    | proprietor          | /prəˈpraɪətər/     | n      | 业主、经营者。                                               | The proprietor runs a successful business.（这位业主经营着一家成功的企业。） |
+| 3    | proprietary         | /prəˈpraɪəteri/    | adj    | 专有的、专利的。                                             | The company has proprietary software.（公司拥有专有软件。） |
+| 3    | impropriety         | /ɪmˈprɑːpriəti/    | n      | 不恰当、失礼。                                               | His remarks were considered an impropriety.（他的评论被认为是失礼的。） |
+| 3    | appropriation       | /əˌproʊpriˈeɪʃn/   | n      | 拨款、挪用。                                                 | The government made an appropriation for education.（政府为教育拨款。） |
+| 3    | inappropriate       | /ˌɪnəˈproʊpriət/   | adj    | 不适当的、不恰当的。                                         | Wearing jeans to a formal dinner would be inappropriate.（穿牛仔裤去正式晚宴是不合适的。） |
+| 3    | expropriate         | /ɛksˈprɑːpriət/    | v      | 没收、征用。                                                 | The state may expropriate land for public projects.（国家可能会为了公共项目征用土地。） |
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | apropos             | /ˌæprəˈpoʊ/        | adj/adv| 形容词：切题的、恰当的。<br>副词：顺便提及。                 | Apropos of your question, I have some news.（顺便提一下你的问题，我有一些消息。） |
+| 1    | propose             | /prəˈpoʊz/         | v      | 提议、建议。                                                 | He proposed a new method to solve the problem.（他提议了一种新的解决问题的方法。） |
+| 1    | proposal            | /prəˈpoʊzl/        | n      | 提案、建议。                                                 | The committee reviewed several proposals.（委员会审查了几项提案。） |
+| 1    | proposition         | /ˌprɑːpəˈzɪʃn/     | n      | 提议、命题。                                                 | He put forward an interesting proposition.（他提出了一个有趣的命题。） |
+| 1    | disposed            | /dɪˈspoʊzd/        | adj    | 倾向于、有意向的。                                           | She was not disposed to accept the offer.（她并不倾向于接受这个提议。） |
+| 1    | exposure            | /ɪkˈspɔːrʒər/      | n      | 暴露、揭露。                                                 | Long exposure to sunlight can be harmful.（长时间暴露在阳光下可能有害。） |
+| 1    | proponent           | /prəˈpoʊnənt/      | n      | 提倡者、支持者。                                             | He is a strong proponent of renewable energy.（他是可再生能源的坚定支持者。） |
+| 1    | appropos            | /ˌæprəˈpoʊ/        | adj/adv| （重复项）                                                   | （重复项）                                                 |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | apt                 | /æpt/              | adj    | 适合的、适当的。                                             | She is apt for the job.（她适合这份工作。） |
+| 2    | rapt                | /ræpt/             | adj    | 全神贯注的、入迷的。                                         | He was rapt in thought.（他陷入了沉思。） |
+| 2    | adapt               | /əˈdæpt/           | v      | 适应、改编。                                                 | We need to adapt to the new environment.（我们需要适应新环境。） |
+| 2    | leapt               | /lɛpt/             | v      | （leap 的过去式和过去分词）跳跃。                            | He leapt over the fence.（他跳过了篱笆。） |
+| 2    | overleapt           | /ˌoʊvərˈlɛpt/      | v      | 跳过、超越。                                                 | She overleapt the obstacle with ease.（她轻松地跳过了障碍物。） |
+| 2    | aptly               | /ˈæptli/           | adv    | 恰当地、合适地。                                             | The comment was aptly made.（评论恰到好处。） |
+| 2    | inapt               | /ɪˈæpt/            | adj    | 不合适的、不适当的。                                         | His remarks were inapt for the occasion.（他的发言不适合那个场合。） |
+| 2    | unapt               | /ʌnˈæpt/           | adj    | 不擅长的、不适当的。                                         | He felt unapt for the task.（他觉得自己不擅长这项任务。） |
+| 2    | adept               | /əˈdɛpt/           | adj    | 熟练的、擅长的。                                             | She is adept at solving problems.（她擅长解决问题。） |
+| 2    | inept               | /ɪˈɛpt/            | adj    | 笨拙的、不胜任的。                                           | His performance was considered inept.（他的表现被认为是笨拙的。） |
+| 2    | inapt               | /ɪˈæpt/            | adj    | （重复项）                                                   | （重复项）                                                 |
+| 2    | adapt               | /əˈdæpt/           | v      | （重复项）                                                   | （重复项）                                                 |
+| 2    | aptitude            | /ˈæptɪtjuːd/       | n      | 天赋、才能。                                                 | She has an aptitude for languages.（她有语言天赋。） |
+| 2    | ineptitude          | /ɪˈɛptɪtuːd/       | n      | 无能、不胜任。                                               | His ineptitude became evident during the presentation.（他在演示过程中显现出无能。） |
+| 2    | adaptable           | /əˈdæptəbəl/       | adj    | 可适应的、灵活的。                                           | The software is highly adaptable to different platforms.（软件高度适应不同平台。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 3    | archaic             | /ɑːrˈkeɪɪk/        | adj    | 古老的、过时的。                                             | The building has an archaic appearance.（这栋建筑看起来很古老。） |
+| 3    | archaeology         | /ˌɑːrkiˈɒləʤi/     | n      | 考古学。                                                     | Archaeology helps us understand ancient cultures.（考古学帮助我们了解古代文化。） |
+| 3    | archetype           | /ˈɑːrkɪtaɪp/       | n      | 原型、典型。                                                 | The character serves as an archetype for heroes.（这个角色是英雄的原型。） |
+| 3    | architect           | /ˈɑːrkitek/         | n      | 建筑师、设计师。                                             | The architect designed a stunning skyscraper.（建筑师设计了一座令人惊叹的摩天大楼。） |
+| 3    | archive             | /ˈɑːrkaɪv/          | n/v    | 名词：档案馆、档案。<br>动词：存档。                         | The documents are stored in the national archive.（文件存放在国家档案馆中。） |
+| 3    | monarch             | /ˈmɒnɑːrk/         | n      | 君主、国王或女王。                                           | The monarch ruled the country for decades.（这位君主统治了这个国家数十年。） |
+| 3    | hierarchy           | /ˈhaɪərɑːrkɪ/      | n      | 层级制度、等级结构。                                         | There is a clear hierarchy within the organization.（组织内有一个明确的层级制度。） |
+| 3    | anarchy             | /ˈænərki/          | n      | 无政府状态、混乱。                                           | The region fell into anarchy after the government collapsed.（政府崩溃后，该地区陷入无政府状态。） |
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | archetype           | /ˈɑːrkɪtaɪp/       | n      | 原型、典型。                                                 | The character serves as an archetype for heroes.（这个角色是英雄的原型。） |
+| 1    | archaeology         | /ˌɑːrkiˈɒləʤi/     | n      | 考古学。                                                     | Archaeology helps us understand ancient cultures.（考古学帮助我们了解古代文化。） |
+| 1    | archive             | /ˈɑːrkaɪv/          | n/v    | 名词：档案馆、档案。<br>动词：存档。                         | The documents are stored in the national archive.（文件存放在国家档案馆中。） |
+| 1    | monarch             | /ˈmɒnɑːrk/         | n      | 君主、国王或女王。                                           | The monarch ruled the country for decades.（这位君主统治了这个国家数十年。） |
+| 1    | hierarchy           | /ˈhaɪərɑːrkɪ/      | n      | 层级制度、等级结构。                                         | There is a clear hierarchy within the organization.（组织内有一个明确的层级制度。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | ardor               | /ˈɑːrdər/          | n      | 热情、热忱。（美式拼写）                                     | She spoke with great ardor about her plans.（她满怀热情地谈论她的计划。） |
+| 2    | ardour              | /ˈɑːrdər/          | n      | 热情、热忱。（英式拼写）                                     | He pursued his studies with great ardour.（他以极大的热情追求他的学业。） |
+| 2    | ardent              | /ˈɑːrdnt/          | adj    | 热心的、热烈的。                                             | An ardent supporter of the cause, she never missed a rally.（作为这一事业的热情支持者，她从未错过一次集会。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 3    | arduous             | /ˈɑːrdjʊəs/        | adj    | 艰巨的、费力的。                                             | Climbing the mountain was an arduous task.（爬山是一项艰巨的任务。） |
+| 3    | ardent              | /ˈɑːrdnt/          | adj    | （重复项）                                                   | （重复项）                                                 |
+| 3    | inardent            | (较少使用)         | adj    | 不热心的、冷漠的。（较不常用）                               | His inardent attitude disappointed everyone.（他冷漠的态度让每个人都失望。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 4    | anthropogenic       | /ˌænθroʊpoʊˈdʒɛnɪk/ | adj    | 由人类活动引起的。                                           | Anthropogenic climate change is a major concern.（人为气候变化是一个主要问题。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 5    | arrest              | /əˈrest/           | v/n    | 动词：逮捕、阻止。<br>名词：逮捕、拘留。                     | The police arrested the suspect.（警察逮捕了嫌疑犯。） |
+| 5    | retain              | /rɪˈteɪn/          | v      | 保留、保持。                                                 | She retained her composure during the interview.（她在面试中保持镇定。） |
+| 5    | restrain            | /rɪˈstreɪn/        | v      | 约束、抑制。                                                 | He had to restrain his anger.（他不得不抑制自己的愤怒。） |
+| 5    | detain              | /dɪˈteɪn/          | v      | 拘留、耽搁。                                                 | The police detained him for questioning.（警方拘留他进行询问。） |
+| 5    | restraint           | /rɪˈstreɪnt/       | n      | 约束、自制。                                                 | She showed great restraint in dealing with the situation.（她在处理情况时表现出极大的自制力。） |
+| 5    | retention           | /rɪˈtenʃn/         | n      | 保留、记忆力。                                               | Good teachers encourage knowledge retention.（好老师鼓励知识的保留。） |
+| 5    | intercept           | /ˌɪntərˈsept/      | v      | 截获、拦截。                                                 | They intercepted the message before it reached its destination.（他们在消息到达目的地之前截获了它。） |
+| 5    | constraint          | /kənˈstreɪnt/      | n      | 限制、约束。                                                 | Financial constraints limited their options.（财务限制限制了他们的选择。） |
+| 5    | rest                | /rɛst/             | n/v    | 名词：休息。<br>动词：休息。                                 | After a long day, she needed some rest.（漫长的一天后，她需要休息一下。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 6    | arresting           | /əˈrestɪŋ/         | adj    | 引人注目的、惊人的。                                         | The painting had an arresting beauty.（这幅画有一种惊人的美丽。） |
+| 6    | arrest              | /əˈrest/           | v/n    | （重复项）                                                   | （重复项）                                                 |
+| 6    | restrain            | /rɪˈstreɪn/        | v      | （重复项）                                                   | （重复项）                                                 |
+| 6    | retain              | /rɪˈteɪn/          | v      | （重复项）                                                   | （重复项）                                                 |
+| 6    | detain              | /dɪˈteɪn/          | v      | （重复项）                                                   | （重复项）                                                 |
+| 6    | restraint           | /rɪˈstreɪnt/       | n      | （重复项）                                                   | （重复项）                                                 |
+| 6    | retention           | /rɪˈtenʃn/         | n      | （重复项）                                                   | （重复项）                                                 |
+| 6    | intercept           | /ˌɪntərˈsept/      | v      | （重复项）                                                   | （重复项）                                                 |
+| 6    | rest                | /rɛst/             | n/v    | （重复项）                                                   | （重复项）                                                 |
+| 6    | constraint          | /kənˈstreɪnt/      | n      | （重复项）                                                   | （重复项）                                                 |
+| 6    | restart             | /riːˈstɑːrt/       | v      | 重新开始、重启。                                             | The computer needs to restart to apply updates.（计算机需要重启以应用更新。） |
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | arrhythmic           | /ˌærɪˈθmɪk/        | adj    | 无节奏的、不规则的（通常指心跳）。                           | The patient has an arrhythmic heartbeat.（患者的心跳不规则。） |
+| 1    | rhythm               | /ˈrɪðəm/           | n      | 节奏、韵律。                                                 | The music had a steady rhythm.（音乐有着稳定的节奏。） |
+| 1    | rhythmic             | /ˈrɪðmɪk/          | adj    | 有节奏的。                                                   | She danced to the rhythmic beat of the drums.（她随着鼓的节奏跳舞。） |
+| 1    | aperiodic            | /eɪˌpɪriˈɒdɪk/     | adj    | 无周期性的、不规律的。                                       | The data showed an aperiodic pattern.（数据显示出一个非周期性的模式。） |
+| 1    | synchronize          | /ˈsɪŋkrənaɪz/      | v      | 同步、使一致。                                               | We need to synchronize our watches.（我们需要同步我们的手表。） |
+| 1    | polyrhythm           | /ˈpɒlɪˌrɪðəm/      | n      | 多重节奏（音乐中同时存在的多种不同节奏）。                   | The piece features complex polyrhythms.（这首曲子具有复杂的多重节奏。） |
+| 1    | rhythmicity          | /ˌrɪðmɪˈsɪti/      | n      | 节奏性、有节奏的状态或性质。                                 | The rhythmicity of the poem was captivating.（诗的节奏性令人着迷。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | arrogance            | /ˈærəɡəns/         | n      | 傲慢、自大。                                                 | His arrogance made him unpopular among colleagues.（他的傲慢让他在同事中不受欢迎。） |
+| 2    | arrogant             | /ˈærəɡənt/         | adj    | 傲慢的、自大的。                                             | She gave an arrogant smile.（她露出一个傲慢的笑容。） |
+| 2    | arrogantly           | /ˈærəɡəntli/       | adv    | 傲慢地、自大地。                                             | He spoke arrogantly about his achievements.（他傲慢地谈论自己的成就。） |
+| 2    | interrogate          | /ɪnˈtɛrəɡeɪt/      | v      | 审问、询问。                                                 | The police interrogated the suspect for hours.（警察审问嫌疑犯好几个小时。） |
+| 2    | rogue                | /roʊɡ/             | n      | 无赖、恶作剧者。                                             | The rogue caused trouble in the office.（这个捣蛋鬼在办公室里惹了麻烦。） |
+| 2    | abrogate             | /ˈæbrəɡeɪt/        | v      | 废除、取消（法律、权利等）。                                 | The government decided to abrogate the old law.（政府决定废除旧法律。） |
+| 2    | derogatory           | /dɪˈrɒɡətɔːri/     | adj    | 贬义的、轻蔑的。                                             | His comments were derogatory towards the team.（他的评论对团队带有贬义。） |
+| 2    | supplicate           | /ˈsʌplɪkeɪt/       | v      | 祈求、恳求。                                                 | They supplicated for mercy from the king.（他们祈求国王宽恕。） |
+| 2    | prologue             | /ˈprɒləɡ/          | n      | 引言、序言。                                                 | The book begins with a prologue that sets the scene.（这本书以一个设定场景的引言开始。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 3    | articulate           | /ɑːˈrtɪkjuleɪt/    | v/adj  | 动词：清晰表达。<br>形容词：能清楚表达的。                   | She can articulate her thoughts very well.（她能够很好地表达自己的想法。） |
+| 3    | articulately         | /ɑːˈrtɪkjuleɪtli/  | adv    | 清晰地、明确地。                                             | He spoke articulately about his vision for the company.（他清晰地谈论了他对公司的愿景。） |
+| 3    | articulated          | /ɑːˈrtɪkjuleɪtɪd/  | adj    | 已经清晰表达的。                                             | Her articulated concerns were taken seriously.（她的关切被认真对待。） |
+| 3    | articulation         | /ɑːˌrtɪkjuleɪʃn/   | n      | 清晰表达、关节活动。                                         | Good articulation is important in public speaking.（清晰表达在公共演讲中很重要。） |
+| 3    | articulating         | /ɑːˈrtɪkjuleɪtɪŋ/  | v      | 正在清晰表达。                                               | He was articulating his points clearly.（他正在清晰地阐述他的观点。） |
+| 3    | inarticulate         | /ɪnɑːˈrtɪkjuleɪt/  | adj    | 不善表达的、含糊不清的。                                     | He was too upset to give an inarticulate response.（他太激动了，以至于给出了含糊不清的回答。） |
+| 3    | unarticulated        | /ʌnˈɑːrtɪkjuleɪtɪd/| adj    | 未清晰表达的、未说明的。                                     | There were some unarticulated ideas in the discussion.（讨论中有一些未说明的想法。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 4    | ascendant           | /əˈsɛndənt/        | adj/n  | 形容词：上升中的、占优势的。<br>名词：升势、优势地位。       | Mars is in its ascendant in astrology.（在占星学中火星处于上升位置。） |
+| 4    | ascend              | /əˈsɛnd/           | v      | 上升、登高。                                                 | The plane began to ascend.（飞机开始上升。） |
+| 4    | ascended            | /əˈsɛndɪd/         | v      | （ascend 的过去式和过去分词）                                | The hikers ascended the mountain.（徒步旅行者爬上了山。） |
+| 4    | ascendant           | /əˈsɛndənt/        | adj/n  | （重复项）                                                   | （重复项）                                                 |
+| 4    | ascending           | /əˈsɛndɪŋ/         | adj/v  | 形容词：上升中的。<br>动词：正在上升。                       | The bird was ascending into the sky.（鸟正在飞向天空。） |
+| 4    | ascendent           | /əˈsɛndənt/        | adj    | （同 ascendant）                                             | （同 ascendant）                                           |
+| 4    | ascendance          | /əˈsɛndəns/        | n      | 支配地位、影响力。                                           | The country gained ascendance in the region.（该国在该地区获得了支配地位。） |
+| 4    | reascend            | /riːˈsɛnd/         | v      | 再次上升。                                                   | After a break, he reascended the hill.（休息之后，他再次爬上山丘。） |
+| 4    | ascendancy          | /əˈsɛndənsi/       | n      | 支配地位、优势。                                             | The team held ascendancy over their rivals.（该队对对手保持优势。） |
+| 4    | ascendency          | /əˈsɛndənsi/       | n      | （同 ascendancy）                                            | （同 ascendancy）                                          |
+| 4    | ascent              | /əˈsɛnt/           | n      | 上升、攀登。                                                 | The climbers prepared for their final ascent.（登山者准备最后的攀登。） |
+| 4    | descend             | /dɪˈsɛnd/          | v      | 下降、下来。                                                 | The sun began to descend behind the mountains.（太阳开始在群山后面落下。） |
+| 4    | descent             | /dɪˈsɛnt/          | n      | 下降、血统。                                                 | The plane made a smooth descent.（飞机平稳下降。） |
+| 4    | transcend           | /trænsˈsɛnd/       | v      | 超越、超出。                                                 | Her talent transcends ordinary limits.（她的才华超出了普通人的极限。） |
+| 4    | circumstance        | /ˈsɜːrkəmstæns/    | n      | 情况、环境。                                                 | Under these circumstances, we must act quickly.（在这种情况下，我们必须迅速行动。） |
+| 4    | eminent             | /ˈɛmɪnənt/         | adj    | 杰出的、著名的。                                             | An eminent scientist was invited to speak.（一位杰出的科学家被邀请发言。） |
+| 4    | prominent           | /ˈprɑːmɪnənt/      | adj    | 突出的、显要的。                                             | He became prominent in the field of economics.（他在经济学领域变得突出。） |
+| 4    | supremacy           | /sjuːˈpriːməsi/    | n      | 最高权威、至高无上的地位。                                   | The country sought supremacy in the region.（该国寻求在该地区的最高权威。） |
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | ascetic             | /əˈsɛtɪk/          | adj/n  | 形容词：苦行的、禁欲的。<br>名词：苦行僧、禁欲主义者。       | He led an ascetic life devoted to spiritual pursuits.（他过着献身于精神追求的苦行生活。） |
+| 1    | asceticism          | /əˈsɛtɪsɪzəm/      | n      | 苦行主义、禁欲主义。                                         | Asceticism is a way of life that emphasizes self-discipline.（禁欲主义是一种强调自律的生活方式。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | aseptic             | /əˈsɛptɪk/         | adj    | 无菌的、无污染的。                                           | The operating room must be kept aseptic.（手术室必须保持无菌状态。） |
+| 2    | septic              | /ˈsɛptɪk/          | adj    | 败血的、感染的。                                             | A septic wound can be very dangerous.（败血伤口可能非常危险。） |
+| 2    | antiseptic          | /ˌæntiˈsɛptɪk/     | adj/n  | 形容词：抗菌的。<br>名词：防腐剂、消毒剂。                   | Use an antiseptic to clean the cut.（用消毒剂清洁伤口。） |
+| 2    | asepsis             | /əˈsɛpsɪs/         | n      | 无菌状态。                                                   | Maintaining asepsis is crucial in medical procedures.（在医疗程序中保持无菌状态至关重要。） |
+| 2    | anaerobic           | /ˌænɪəˈroʊbɪk/     | adj    | 厌氧的、不需要氧气的。                                       | Some bacteria thrive in anaerobic environments.（一些细菌在厌氧环境中茁壮成长。） |
+| 2    | sterile             | /ˈstɜːrɪl/         | adj    | 无菌的、不育的。                                             | The lab uses sterile equipment to prevent contamination.（实验室使用无菌设备以防止污染。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 3    | askew               | /əˈskjuː/          | adj/adv| 形容词：歪斜的。<br>副词：歪斜地。                           | The picture was hanging askew on the wall.（照片歪斜地挂在墙上。） |
+| 3    | skew                | /skjuː/            | v/n    | 动词：使倾斜、歪曲。<br>名词：偏斜。                         | The data skewed towards younger participants.（数据偏向年轻参与者。） |
+| 3    | skewer              | /ˈskjuːər/         | n/v    | 名词：烤肉叉。<br>动词：用串或叉子穿起。                     | She used a skewer to hold the meat and vegetables together.（她用烤肉叉把肉和蔬菜穿在一起。） |
+| 3    | skewed              | /skjuːd/           | adj    | 歪斜的、偏斜的。                                             | The results were skewed by the outliers.（结果因异常值而偏斜。） |
+| 3    | skewness            | /ˈskjuːnəs/        | n      | 偏度、不对称性。                                             | The distribution showed positive skewness.（分布显示出正偏度。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 4    | aspect              | /ˈæspekt/          | n      | 方面、视角。                                                 | Every project has multiple aspects.（每个项目都有多个方面。） |
+| 4    | self-respect        | /ˌsɛlf rɪˈspɛkt/   | n      | 自尊、自重。                                                 | Self-respect is important for personal growth.（自尊对个人成长很重要。） |
+| 4    | disrespect          | /ˌdɪsrɪˈspɛkt/     | n/v    | 名词：不尊重。<br>动词：不尊敬。                             | Disrespect towards elders is not tolerated here.（这里不容忍对长辈的不尊重。） |
+| 4    | inspect             | /ɪnˈspɛkt/         | v      | 检查、视察。                                                 | The officer inspected the troops.（军官检查了部队。） |
+| 4    | respect             | /rɪˈspɛkt/         | n/v    | 名词：尊敬、尊重。<br>动词：尊敬、重视。                     | We all respect her for her honesty.（我们都尊敬她的诚实。） |
+| 4    | suspect             | /səˈspɛkt/         | v/n    | 动词：怀疑。<br>名词：嫌疑人。                               | The police suspect foul play.（警方怀疑有不当行为。） |
+| 4    | prospect            | /ˈprɑːspɛkt/       | n/v    | 名词：前景、预期。<br>动词：展望、勘探。                     | The company has good prospects for the future.（公司对未来有良好的前景。） |
+| 4    | introspect          | /ˌɪntrəˈspɛkt/     | v      | 内省、自我反省。                                             | It's important to introspect and learn from mistakes.（内省并从错误中学习很重要。） |
+| 4    | retrospect          | /ˌrɛtrəˈspɛkt/     | n/v    | 名词：回顾。<br>动词：回顾、回想。                           | In retrospect, we should have prepared better.（回想起来，我们应该准备得更好。） |
+| 4    | circumspect         | /ˈsɜːrkəmˌspɛkt/   | adj    | 谨慎的、小心的。                                             | Be circumspect when dealing with sensitive information.（处理敏感信息时要谨慎。） |
+| 4    | specter             | /ˈspɛktər/         | n      | 幽灵、幻影。                                                 | The specter of unemployment looms over the town.（失业的幽灵笼罩着这个城镇。） |
+| 4    | spectra             | /ˈspɛktrə/         | n      | 光谱（复数形式）。                                           | The rainbow displays a continuous spectrum of colors.（彩虹展示了连续的颜色光谱。） |
+| 4    | spectate            | /ˈspɛkteɪt/        | v      | 观看、旁观。                                                 | Thousands will spectate at the event.（成千上万的人将观看这一事件。） |
+| 4    | spectrum            | /ˈspɛktrəm/        | n      | 光谱、范围。                                                 | The spectrum of light includes all colors.（光谱包括所有颜色。） |
+| 4    | spectacle           | /ˈspɛktəkl/        | n      | 景象、奇观。                                                 | The fireworks were a spectacular sight.（烟花是一场壮观的景象。） |
+| 4    | spectator           | /spɛkˈtætər/       | n      | 观众、旁观者。                                               | The spectators cheered loudly for their team.（观众为他们的队伍大声欢呼。） |
+| 4    | spectacular         | /spɛkˈtækjələr/   | adj    | 壮观的、惊人的。                                             | The view from the mountain was spectacular.（从山上看到的景色非常壮观。） |
+| 4    | spectacularly       | /spɛkˈtækjələrli/ | adv    | 壮观地、惊人地。                                             | The event ended spectacularly with a fireworks display.（活动以一场烟花表演华丽落幕。） |
+| 4    | circumspect         | /ˈsɜːrkəmˌspɛkt/   | adj    | （重复项）                                                   | （重复项）                                                 |
+| 4    | perspective         | /pərˈspɛktɪv/      | n      | 视角、观点。                                                 | From his perspective, the decision made sense.（从他的角度来看，这个决定是有道理的。） |
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | asperity            | /æsˈpɛrɪti/        | n      | 粗糙、严峻、严厉。                                           | The path had patches of ice with an asperity that made walking difficult.（路径上有粗糙的冰块，使得行走困难。） |
+| 1    | asperse             | /əˈspɜːrs/         | v      | 中伤、诽谤。                                                 | He was aspersed by false accusations.（他被虚假指控中伤。） |
+| 1    | aspersive           | /əˈspɜːrsɪv/       | adj    | 中伤性的、诽谤的。                                           | The article contained aspersive remarks about the politician.（文章包含对政治家的中伤性评论。） |
+| 1    | asperge             | /æsˈpɜːrdʒ/        | v      | 洒圣水（宗教仪式）。                                         | The priest asperges the congregation with holy water.（牧师用圣水洒在会众身上。） |
+| 1    | asperges            | /æsˈpɜːrdʒiz/      | n      | 圣水壶（复数形式）。                                         | The altar boys carried asperges during the ceremony.（侍童在仪式期间携带圣水壶。） |
+| 1    | aspergillum         | /æsˈpɜːrdʒɪləm/    | n      | 圣水刷。                                                     | The priest used an aspergillum to sprinkle holy water.（牧师用圣水刷洒圣水。） |
+| 1    | asper               | /ˈæspər/           | adj    | （古英语或法语）粗鲁的、严厉的。（较少使用）                 | His asper tone left no room for discussion.（他严厉的语气不容讨论。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | aspersion           | /əˈspɜːrʃn/        | n      | 中伤、诽谤。                                                 | Casting aspersions on someone's character is unfair.（对某人的品格进行诽谤是不公平的。） |
+| 2    | asperse             | /əˈspɜːrs/         | v      | （重复项）                                                   | （重复项）                                                 |
+| 2    | aspersive           | /əˈspɜːrsɪv/       | adj    | （重复项）                                                   | （重复项）                                                 |
+| 2    | aspersor            | /əˈspɜːrsər/       | n      | 洒圣水者。                                                   | The aspersor sprinkled holy water over the crowd.（洒圣水者向人群洒圣水。） |
+| 2    | asperges            | /æsˈpɜːrdʒiz/      | n      | （重复项）                                                   | （重复项）                                                 |
+| 2    | aspergillum         | /æsˈpɜːrdʒɪləm/    | n      | （重复项）                                                   | （重复项）                                                 |
+| 2    | intersperse         | /ˌɪntərˈspɜːrs/    | v      | 使分散、散布。                                               | She interspersed her speech with humor.（她在演讲中穿插了幽默。） |
+| 2    | disperse            | /dɪˈspɜːrs/        | v      | 分散、驱散。                                                 | The police dispersed the crowd.（警察驱散了人群。） |
+| 2    | dispersive          | /dɪˈspɜːrsɪv/      | adj    | 分散的、驱散的。                                             | The lens has a dispersive effect on light.（透镜对光有分散效果。） |
+| 2    | sprinkle            | /ˈsprɪŋkəl/       | v/n    | 动词：撒、洒。<br>名词：撒的动作。                           | She sprinkled sugar over the cake.（她在蛋糕上撒了糖。） |
+| 2    | scatter             | /ˈskætər/          | v      | 分散、散开。                                                 | They scattered seeds across the field.（他们在田里撒下了种子。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 3    | aspirant            | /ˈæspərənt/        | n      | 有志者、候选人。                                             | She is an aspirant for the position of manager.（她是经理职位的候选人。） |
+| 3    | aspirator           | /ˈæspəreɪtər/      | n      | 吸引器、抽气机。                                             | The aspirator is used to remove air from the container.（吸引器用于从容器中抽出空气。） |
+| 3    | aspirated           | /ˈæspəreɪtɪd/      | adj    | 喷气的、带气音的（语音学）。                                 | In phonetics, the letter 'p' can be aspirated.（在语音学中，字母'p'可以是喷气音。） |
+| 3    | aspirating          | /ˈæspəreɪtɪŋ/      | v      | 正在吸引、正在追求。                                         | He is aspirating to become a famous actor.（他正努力成为一位著名的演员。） |
+| 3    | aspiration          | /ˌæspəˈreɪʃn/      | n      | 渴望、抱负。                                                 | Her aspiration is to travel the world.（她的愿望是环游世界。） |
+| 3    | aspirational        | /ˌæspəˈreɪʃənl/    | adj    | 有抱负的、渴望的。                                           | The aspirational goals of the company drive its success.（公司的抱负目标推动其成功。） |
+| 3    | aspirate            | /ˈæspəreɪt/        | v      | 吸入、追求。                                                 | He aspirates to be a successful entrepreneur.（他渴望成为一名成功的创业者。） |
+| 3    | aspire              | /əˈspaɪər/         | v      | 渴望、追求。                                                 | She aspires to be a professional musician.（她渴望成为一名职业音乐家。） |
+| 3    | aspired             | /əˈspaɪərd/        | v      | （aspire 的过去式和过去分词）                                | He aspired to greater heights in his career.（他在职业生涯中渴望更高的成就。） |
+| 3    | aspiring            | /əˈspaɪərɪŋ/       | adj    | 怀有雄心的、有抱负的。                                       | An aspiring artist needs constant practice.（一位有抱负的艺术家需要不断练习。） |
+| 3    | aspirin             | /ˈæspərɪn/         | n      | 阿司匹林（药物名）。                                         | She took aspirin for her headache.（她因为头痛服用了阿司匹林。） |
+| 3    | inspire             | /ɪnˈspaɪər/        | v      | 激励、启发。                                                 | His words inspired the whole team.（他的话激励了整个团队。） |
+| 3    | respire             | /rɪˈspaɪər/        | v      | 呼吸。                                                       | Plants respire at night.（植物在夜间呼吸。） |
+| 3    | spirit              | /ˈspɪrɪt/          | n/v    | 名词：精神、灵魂。<br>动词：激励。                           | She has a strong spirit.（她有着坚强的精神。） |
+| 3    | conspire            | /kənˈspaɪər/       | v      | 共谋、阴谋。                                                 | They conspired to overthrow the government.（他们共谋推翻政府。） |
+| 3    | expire              | /ɪkˈspaɪər/        | v      | 到期、终止。                                                 | The offer will expire next week.（这个提议将在下周到期。） |
+| 3    | transpire           | /trænsˈspaɪər/     | v      | 泄露、传出；蒸发。                                           | It transpired that he was not telling the truth.（结果证明他没有说实话。） |
+| 3    | dispirit            | /dɪsˈspaɪər/       | v      | 使沮丧、使泄气。                                             | The bad news dispirited everyone.（坏消息让每个人都很沮丧。） |
+| 3    | perspiration        | /ˌpɜːrspəˈreɪʃn/   | n      | 汗水、排汗。                                                 | Perspiration helps regulate body temperature.（排汗有助于调节体温。） |
+
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 1    | assent              | /əˈsɛnt/           | n/v    | 名词：同意、赞成。<br>动词：同意。                           | She gave her assent to the proposal.（她同意了这项提议。） |
+| 1    | asset               | /ˈæsɛt/            | n      | 资产、有价值的东西。                                         | The company's main asset is its brand.（公司的主要资产是其品牌。） |
+| 1    | assert              | /əˈsɜːrt/          | v      | 断言、主张。                                                 | He asserted his innocence.（他断言自己无辜。） |
+| 1    | assess              | /əˈsɛs/            | v      | 评估、评价。                                                 | The teacher will assess the students' progress.（老师将评估学生们的进步。） |
+| 1    | dissent             | /dɪˈsɛnt/          | n/v    | 名词：异议。<br>动词：不同意。                               | There was some dissent among the committee members.（委员会成员中有一些不同的意见。） |
+| 1    | resent              | /rɪˈzɛnt/          | v      | 不满、怨恨。                                                 | She resented being left out of the decision-making process.（她对被排除在决策过程之外感到不满。） |
+| 1    | sentiment           | /ˈsɛntɪmənt/       | n      | 情感、情绪。                                                 | His speech was filled with strong sentiments.（他的演讲充满了强烈的情感。） |
+| 1    | consent             | /kənˈsɛnt/         | n/v    | 名词：同意。<br>动词：同意。                                 | She gave her consent for the surgery.（她同意进行手术。） |
+| 1    | sensible            | /ˈsɛnsəbəl/        | adj    | 明智的、合理的。                                             | It's sensible to save money for a rainy day.（为雨天存钱是明智的。） |
+| 1    | sense               | /sɛns/             | n/v    | 名词：感觉、感知。<br>动词：感觉到。                         | Use your common sense in this situation.（在这种情况下使用你的常识。） |
+| 1    | sensory             | /ˈsɛnsəri/         | adj    | 感官的、感觉的。                                             | The sensory overload can be overwhelming.（感官超载可能令人难以承受。） |
+| 1    | sensitive           | /ˈsɛnsɪtɪv/        | adj    | 敏感的。                                                     | He is very sensitive to criticism.（他对批评非常敏感。） |
+
+| 分组 | 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|------|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| 2    | assert              | /əˈsɜːrt/          | v      | （重复项）                                                   | （重复项）                                                 |
+| 2    | assertion           | /əˈsɜːrʃn/         | n      | 断言、声明。                                                 | She made a strong assertion about her findings.（她对自己的发现做了强有力的断言。） |
+| 2    | assertive           | /əˈsɜːrtɪv/        | adj    | 果断的、有自信的。                                           | An assertive leader inspires confidence.（一个果断的领导者能激发信心。） |
+| 2    | assurance           | /əˈʃʊrəns/         | n      | 保证、担保。                                                 | The salesman gave an assurance of quality.（销售员提供了质量保证。） |
+| 2    | reassert            | /ˌriːəˈsɜːrt/      | v      | 重申、重新断言。                                             | The government reasserted its commitment to peace.（政府重申了其对和平的承诺。） |
+| 2    | self-assertive      | /ˌsɛlf əˈsɜːrtɪv/  | adj    | 自信的、自我肯定的。                                         | A self-assertive person stands up for their rights.（自信的人会为自己的权利挺身而出。） |
+| 2    | assertively         | /əˈsɜːrtɪvli/      | adv    | 果断地、有自信地。                                           | She spoke assertively during the meeting.（她在会议中说话很有自信。） |
+| 2    | assertiveness       | /əˈsɜːrtɪvnəs/     | n      | 果断、自信。                                                 | Assertiveness is key in effective communication.（自信是有效沟通的关键。） |
+| 2    | desert              | /dɪˈzɜːrt/         | n/v    | 名词：沙漠。<br>动词：遗弃。                                 | They decided to desert the project.（他们决定放弃这个项目。） |
+| 2    | exsert              | /ɪɡˈzɜːrt/         | v      | 伸出、突出。                                                 | The plant exserts its stamens beyond the petals.（这植物的雄蕊伸出花瓣之外。） |
+| 2    | insert              | /ɪnˈsɜːrt/         | v/n    | 动词：插入。<br>名词：插入物。                               | Please insert a coin into the machine.（请将硬币插入机器中。） |
+| 2    | dessert             | /dɪˈzɜːrt/         | n      | 甜点。                                                       | For dessert, we had chocolate cake.（甜点我们吃了巧克力蛋糕。） |
+| 2    | dissert             | /dɪˈsɜːrt/         | n/v    | （不常用，可能是“dissert”的误写，意为论文）。               | （通常应为“dissertation”，意为论文或专题研究文章。）       |
+| 2    | asset               | /ˈæsɛt/            | n      | （重复项）                                                   | （重复项）                                                 |
+| 2    | assent              | /əˈsɛnt/           | n/v    | （重复项）                                                   | （重复项）                                                 |
+| 2    | assess              | /əˈsɛs/            | v      | （重复项）                                                   | （重复项）                                                 |
+| 2    | desert              | /dɪˈzɜːrt/         | n/v    | （重复项）                                                   | （重复项）                                                 |
+
+
+### 分组 1: 关于 "assert" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| assert              | /əˈsɜːrt/          | v      | 断言、主张。                                                 | He asserted his innocence.（他断言自己无辜。）             |
+| assertion           | /əˈsɜːrʃn/         | n      | 断言、声明。                                                 | She made a strong assertion about her findings.（她对自己的发现做了强有力的断言。） |
+| assertive           | /əˈsɜːrtɪv/        | adj    | 果断的、有自信的。                                           | An assertive leader inspires confidence.（一个果断的领导者能激发信心。） |
+| reassert            | /ˌriːəˈsɜːrt/      | v      | 重申、重新断言。                                             | The government reasserted its commitment to peace.（政府重申了其对和平的承诺。） |
+| self-assertion      | /ˌsɛlf əˈsɜːrʃn/   | n      | 自我肯定、自我表现。                                         | Self-assertion is important for personal growth.（自我肯定是个人成长的重要部分。） |
+| self-assertive      | /ˌsɛlf əˈsɜːrtɪv/  | adj    | 自信的、自我肯定的。                                         | A self-assertive person stands up for their rights.（自信的人会为自己的权利挺身而出。） |
+| assertively         | /əˈsɜːrtɪvli/      | adv    | 果断地、有自信地。                                           | She spoke assertively during the meeting.（她在会议中说话很有自信。） |
+| assertiveness       | /əˈsɜːrtɪvnəs/     | n      | 果断、自信。                                                 | Assertiveness is key in effective communication.（自信是有效沟通的关键。） |
+| nonassertive        | /ˌnɒnəˈsɜːrtɪv/    | adj    | 不果断的、不自信的。                                         | His nonassertive manner did not help his case.（他不果断的态度对他没有帮助。） |
+
+### 分组 2: 关于 "assess" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| assess              | /əˈsɛs/            | v      | 评估、评价。                                                 | The teacher will assess the students' progress.（老师将评估学生们的进步。） |
+| assessor            | /əˈsɛsər/          | n      | 评估员。                                                     | The assessor evaluated the property's market value.（评估员评估了该财产的市场价值。） |
+| assessable          | /əˈsɛsəbl/         | adj    | 可评估的。                                                   | The damage was assessable by an expert.（损害由专家进行了评估。） |
+| assessment          | /əˈsɛsmənt/        | n      | 评估、评定。                                                 | An assessment of the situation revealed several issues.（对情况的评估揭示了几个问题。） |
+| unassessed          | /ʌnˈæsɛst/         | adj    | 未评估的。                                                   | The unassessed risks could lead to unexpected problems.（未评估的风险可能导致意外问题。） |
+| self-assessment     | /ˌsɛlf əˈsɛsmənt/  | n      | 自我评估。                                                   | Self-assessment is an important part of personal development.（自我评估是个人发展的重要组成部分。） |
+| reassess            | /ˌriːəˈsɛs/        | v      | 重新评估。                                                   | They decided to reassess their strategy after the setback.（在遭遇挫折后，他们决定重新评估他们的策略。） |
+| obsess              | /əbˈsɛs/           | v      | 着迷、困扰。                                                 | She was obsessed with the idea of perfection.（她对完美的想法着迷。） |
+| possess             | /pəˈzɛs/           | v      | 拥有、占有。                                                 | He possesses a rare talent for music.（他拥有罕见的音乐天赋。） |
+| dispossess          | /dɪsˈpɒsɛs/        | v      | 剥夺…的财产。                                                 | The landowners were dispossessed of their estates.（土地所有者被剥夺了他们的庄园。） |
+| repossess           | /ˌriːpəˈzɛs/       | v      | 收回、再占有。                                               | The bank may repossess the car if payments are missed.（如果错过付款，银行可能会收回汽车。） |
+| prepossess          | /priːˈpɒsɛs/       | v      | 先入为主、预先占有的思想。                                   | Prepossessing thoughts can influence one's judgment.（先入为主的观念可以影响一个人的判断。） |
+| asset               | /ˈæsɛt/            | n      | 资产、有价值的东西。                                         | The company's main asset is its brand.（公司的主要资产是其品牌。） |
+| assent              | /əˈsɛnt/           | n/v    | 名词：同意、赞成。<br>动词：同意。                           | She gave her assent to the proposal.（她同意了这项提议。） |
+| session             | /ˈsɛʃən/           | n      | 期、时段、会议。                                             | The court is in session today.（法院今天开庭。） |
+| sedentary           | /ˈsedənteri/       | adj    | 久坐的、静态的。                                             | A sedentary lifestyle can be harmful to health.（久坐的生活方式可能对健康有害。） |
+| preside             | /prɪˈsaɪd/         | v      | 主持、管理。                                                 | She will preside over the meeting.（她将主持这次会议。） |
+| reside              | /rɪˈzaɪd/          | v      | 居住、存在。                                                 | They reside in a quiet neighborhood.（他们居住在一个安静的社区。） |
+| subside             | /səbˈsaɪd/         | v      | 减弱、平息。                                                 | The noise gradually subsided.（噪音逐渐减弱。） |
+
+
+### 分组 1: 关于 "assiduous" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| assiduous           | /əˈsɪdʒuəs/        | adj    | 勤勉的、勤奋的。                                             | She is known for her assiduous work habits.（她以勤勉的工作习惯著称。） |
+| assiduity           | /əˈsɪdʒuɪti/        | n      | 勤勉、勤奋。                                                 | His assiduity in research has led to many discoveries.（他在研究中的勤奋导致了许多发现。） |
+| assiduousness       | /əˈsɪdʒuəsnəs/     | n      | 勤勉、勤奋的状态。                                           | The assiduousness of the staff was commendable.（员工们的勤勉值得称赞。） |
+
+### 分组 2: 关于 "assuage" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| assuage             | /əˈswedʒ/           | v      | 减轻、缓和。                                                 | He tried to assuage her fears.（他试图减轻她的恐惧。）     |
+| suave               | /suːˈɑːv/           | adj    | 温文尔雅的、优雅的。                                         | His suave manner won him many friends.（他温文尔雅的态度为他赢得了很多朋友。） |
+| soothe              | /suːð/              | v      | 安慰、抚慰。                                                 | She tried to soothe the crying baby.（她试图安慰哭泣的婴儿。） |
+
+### 分组 3: 关于 "astounding" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| astounding          | /əˈstaʊndɪŋ/       | adj    | 令人惊异的、难以置信的。                                     | The news was absolutely astounding.（这个消息绝对令人震惊。） |
+| astonish            | /əˈstɒnɪʃ/          | v      | 使惊讶。                                                     | The results astonished everyone.（结果让每个人都感到惊讶。） |
+| astonishing         | /əˈstɒnɪʃɪŋ/        | adj    | 惊人的、出乎意料的。                                         | It's an astonishing achievement.（这是一个惊人的成就。） |
+| stun                | /stʌn/             | v      | 使目瞪口呆、使震惊。                                         | The sudden noise stunned me into silence.（突然的声音让我惊得说不出话来。） |
+| astonishment        | /əˈstɒnɪʃmənt/      | n      | 惊讶、震惊。                                                 | There was astonishment on everyone's face.（每个人的脸上都显露出惊讶。） |
+| stupefy             | /ˈstuːpɪfaɪ/        | v      | 使惊愕、使茫然。                                             | The news stupefied the audience.（这则新闻使观众们惊愕不已。） |
+| stupor              | /ˈstuːpər/          | n      | 昏迷、茫然状态。                                             | He fell into a stupor after the accident.（事故发生后他陷入了昏迷状态。） |
+
+### 分组 4: 关于 "astute" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| astute              | /əˈstuːt/           | adj    | 精明的、机智的。                                             | An astute observer noticed the discrepancy.（一个精明的观察者注意到了差异。） |
+| astuteness          | /əˈstuːtnəs/        | n      | 精明、机智。                                                 | Her astuteness in business helped her succeed.（她在商业上的精明帮助她成功。） |
+| acuteness           | /əˈkjuːtnəs/        | n      | 敏锐、尖锐。                                                 | The acuteness of his analysis was remarkable.（他的分析敏锐度非常显著。） |
+| acumen              | /ˈækjʊmɛn/          | n      | 见识、判断力。                                               | He showed great business acumen.（他展示了出色的商业见识。） |
+
+### 分组 5: 关于 "asunder" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| asunder             | /əˈsʌndər/          | adv    | 成两半、分裂地。                                             | The tree split asunder in the storm.（树在风暴中裂成两半。） |
+| sunder              | /ˈsʌndər/           | v      | 分离、分裂。                                                 | The family was sundered by disagreements.（家庭因分歧而分裂。） |
+
+### 分组 6: 关于 "asylum" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| asylum              | /ˈæzɪləm/          | n      | 庇护所、避难所。                                             | The refugees sought asylum from persecution.（难民寻求免遭迫害的庇护。） |
+
+### 分组 7: 关于 "asymmetrical" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| asymmetrical        | /ˌæsɪˈmetrɪkl/      | adj    | 不对称的。                                                   | The painting had an asymmetrical design.（这幅画有一个不对称的设计。） |
+| symmetry            | /ˈsɪmɪtri/          | n      | 对称性。                                                     | The building has perfect symmetry.（这座建筑具有完美的对称性。） |
+| symmetrical         | /sɪˈmetrɪkl/        | adj    | 对称的。                                                     | The garden is laid out in a symmetrical pattern.（花园按照对称的模式布置。） |
+| asymmetric          | /ˌæsɪˈmetrɪk/       | adj    | 不对称的。                                                   | The data showed an asymmetric distribution.（数据显示了一个不对称分布。） |
+| asymmetry           | /æˈsɪmɪtri/         | n      | 不对称性。                                                   | The asymmetry of the vase was intentional.（花瓶的不对称性是故意的。） |
+| symmetrize          | /ˈsɪmɪtraɪz/        | v      | 使对称。                                                     | They decided to symmetrize the layout.（他们决定使布局对称。） |
+| symmetrically       | /sɪˈmetrɪklɪ/       | adv    | 对称地。                                                     | The room was decorated symmetrically.（房间被对称地装饰。） |
+| metronome           | /ˈmɛtrənoʊm/        | n      | 节拍器。                                                     | She used a metronome to keep time while playing piano.（她用节拍器在弹钢琴时保持节奏。） |
+| metrology           | /məˈtrɒlədʒi/       | n      | 计量学。                                                     | Metrology is crucial for scientific measurements.（计量学对于科学测量至关重要。） |
+
+
+### 分组 1: 关于 "atone" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| atone               | /əˈtoʊn/           | v      | 赎罪、弥补。                                                 | He tried to atone for his mistakes by doing extra work.（他试图通过额外的工作来弥补自己的错误。） |
+| atonement           | /əˈtoʊnmənt/        | n      | 赎罪、补偿。                                                 | His generous donation was seen as an act of atonement.（他的慷慨捐赠被视为一种赎罪行为。） |
+
+### 分组 2: 关于 "atrocious" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| atrocious           | /əˈtr oʊʃəs/       | adj    | 残忍的、极坏的。                                             | The weather was atrocious, making travel dangerous.（天气恶劣，使得旅行变得危险。） |
+| atrocity            | /əˈtrɒsɪti/         | n      | 残暴的行为、惨案。                                           | War often leads to unspeakable atrocities.（战争常常导致无法言说的暴行。） |
+| atrociously         | /əˈtr oʊʃəsli/     | adv    | 极端糟糕地、残忍地。                                         | The team played atrociously in the final match.（该队在最后一场比赛中表现得极其糟糕。） |
+
+### 分组 3: 关于 "attenuate" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| attenuate           | /əˈtɛnjuˌeɪt/       | v      | 减弱、使变细。                                               | The signal was attenuated by distance.（信号因距离而减弱。） |
+| tenuous             | /ˈtinjʊəs/          | adj    | 纤细的、微弱的。                                             | They had a tenuous connection with each other.（他们彼此之间的联系很微弱。） |
+| attenuation         | /əˌtɛnjuˈeɪʃən/     | n      | 减弱、衰减。                                                 | The attenuation of sound is important in acoustics.（声音的衰减在声学中很重要。） |
+| attenuator          | /əˈtɛnjuˌeɪtər/     | n      | 减弱器。                                                     | An attenuator reduces the strength of a signal.（衰减器降低了信号强度。） |
+
+### 分组 4: 关于 "audacious" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| audacious           | /ɔːˈdeɪʃəs/         | adj    | 大胆的、无畏的。                                             | Her audacious plan surprised everyone.（她大胆的计划让每个人都感到惊讶。） |
+| audacity            | /ɔːˈdæsɪti/         | n      | 大胆、无畏。                                                 | His audacity in challenging the status quo earned him respect.（他挑战现状的大胆赢得了尊重。） |
+
+### 分组 5: 关于 "augur" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| augur               | /ˈɔːgər/           | n/v    | 名词：占卜师。<br>动词：预示、预测。                         | The signs augur well for the future.（这些迹象预示着未来会很好。） |
+| augury              | /ˈɔːɡəri/           | n      | 占卜、预兆。                                                 | The auguries were favorable for the new venture.（这个新项目的预兆是吉利的。） |
+| inaugurate          | /ɪˈnɔːɡəreɪt/       | v      | 开始、就职。                                                 | The president will inaugurate the new policy next week.（总统将在下周启动新政策。） |
+| inauguration        | /ɪˌnɔːɡəˈreɪʃən/    | n      | 就职典礼、开始仪式。                                         | The inauguration of the president was attended by many dignitaries.（许多显要人物出席了总统的就职典礼。） |
+| omen                | /ˈoʊmən/           | n      | 预兆、征兆。                                                 | A dark cloud was considered an omen of bad weather.（乌云被认为是坏天气的预兆。） |
+| portend             | /pɔːrˈtɛnd/         | v      | 预兆、预示。                                                 | Strange events seemed to portend disaster.（奇怪的事件似乎预示着灾难。） |
+
+### 分组 6: 关于 "authentic" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| authentic           | /ɔːˈθɛntɪk/         | adj    | 真实的、可靠的。                                             | This is an authentic piece of art from the Renaissance.（这是一件来自文艺复兴时期的真实艺术品。） |
+| inauthentic         | /ˌɪnɔːˈθɛntɪk/      | adj    | 不真实的、伪造的。                                           | The painting was found to be inauthentic.（这幅画被发现是伪造的。） |
+| authenticate        | /ɔːˈθɛntɪkeɪt/      | v      | 验证、证明真实性。                                           | The museum staff authenticated the artifact.（博物馆工作人员验证了这件文物的真实性。） |
+| authenticity        | /ɔːˌθɛntɪˈsɪti/     | n      | 真实性、可靠性。                                             | The authenticity of the document was questioned.（文件的真实性受到了质疑。） |
+| authentically       | /ɔːˈθɛntɪkli/       | adv    | 真实地、可靠地。                                             | She spoke authentically about her experiences.（她真实地谈论了自己的经历。） |
+| authenticated       | /ɔːˈθɛntɪkeɪtɪd/    | adj    | 已验证的。                                                   | The authenticated letter was accepted as evidence.（已验证的信件被作为证据接受。） |
+| authenticating      | /ɔːˈθɛntɪkeɪtɪŋ/    | v      | 正在验证。                                                   | The system is authenticating the user's credentials.（系统正在验证用户的凭证。） |
+| authentication      | /ɔːˌθɛntɪˈkeɪʃən/   | n      | 验证过程。                                                   | Passwords are used for authentication.（密码用于验证。） |
+| identic             | /aɪˈdɛntɪk/         | adj    | 完全相同的。（注：此词较少见，常用 identical）               | The twins looked identic.（双胞胎看起来完全相同。） |
+| authority           | /ɔːˈθɔːrɪti/        | n      | 权威、权力。                                                 | She has authority over the department.（她对部门有权威。） |
+| author              | /ˈɔːθər/            | n      | 作者。                                                       | He is the author of several books.（他是几本书的作者。） |
+| authorization       | /ɔːˌθɔːrɪˈzeɪʃən/   | n      | 授权、许可。                                                 | You need authorization to access this area.（你需要授权才能进入这个区域。） |
+| authoritative       | /ɔːˈθɔːrɪˌteɪtɪv/   | adj    | 权威的、具有权威性的。                                       | The professor gave an authoritative lecture on the subject.（教授就这一主题做了权威性的讲座。） |
+| autonomy            | /ɔːˈtɑːnəmi/        | n      | 自治、自主权。                                               | The region enjoys a degree of autonomy.（该地区享有一定的自治权。） |
+
+
+### 分组 1: 关于 "author" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| author              | /ˈɔːθər/            | n      | 作者、创作者。                                               | He is the author of several books.（他是几本书的作者。）    |
+| authored            | /ˈɔːθərd/           | v      | 已创作、已撰写。（动词“author”的过去式和过去分词）          | She authored a novel last year.（她去年创作了一部小说。）   |
+| coauthor            | /ˌkoʊˈɔːθər/        | n/v    | 合著者、共同创作。（名词或动词）                             | They coauthored the research paper.（他们合著了这篇研究论文。） |
+| authoress           | /ˈɔːθərɪs/          | n      | 女作家。（注：此词较少使用，通常用 author）                  | She was a renowned authoress in her time.（她在当时是一位著名的女作家。） |
+| authorial           | /ɔːˈθɔːriəl/        | adj    | 作者的、作者身份的。                                         | The authorial voice was clear throughout the book.（书中自始至终有着清晰的作者声音。） |
+| authoring           | /ˈɔːθərɪŋ/          | n/v    | 正在创作、正在撰写。（名词或动词进行时）                     | He is currently authoring a new book.（他目前正在创作一本新书。） |
+| authorise (英)      | /ˈɔːθəraɪz/         | v      | 授权、批准。（英国英语拼写）                                 | The manager authorised the expense.（经理批准了这项费用。） |
+| authorize (美)      | /ˈɔːθəraɪz/         | v      | 授权、批准。（美国英语拼写）                                 | The manager authorized the expense.（经理批准了这项费用。） |
+| authority           | /ɔːˈθɔːrɪti/        | n      | 权威、权力。                                                 | She has authority over the department.（她对部门有权威。）  |
+| co-author           | /ˌkoʊˈɔːθər/        | n      | 合著者。（与 coauthor 相同）                                  | They are co-authors of the study.（他们是这项研究的合著者。） |
+| authorship          | /ˈɔːθərʃɪp/         | n      | 作者身份、著作权。                                           | He gained recognition for his authorship.（他因作者身份获得了认可。） |
+| authorising (英)    | /ˈɔːθəraɪzɪŋ/       | v      | 正在授权。（英国英语拼写）                                   | They are authorising the new policy.（他们正在授权新政策。） |
+| authorizing (美)    | /ˈɔːθəraɪzɪŋ/       | v      | 正在授权。（美国英语拼写）                                   | They are authorizing the new policy.（他们正在授权新政策。） |
+| authorisation (英)  | /ɔːˌθɔːrɪˈzeɪʃən/   | n      | 授权过程。（英国英语拼写）                                   | You need authorisation to access this area.（你需要授权才能进入这个区域。） |
+| authorization (美)  | /ɔːˌθɔːrɪˈzeɪʃən/   | n      | 授权过程。（美国英语拼写）                                   | You need authorization to access this area.（你需要授权才能进入这个区域。） |
+| authoritative       | /ɔːˈθɔːrɪˌteɪtɪv/   | adj    | 权威的、具有权威性的。                                       | The professor gave an authoritative lecture on the subject.（教授就这一主题做了权威性的讲座。） |
+| authoritatively     | /ɔːˈθɔːrɪˌteɪtɪvli/ | adv    | 权威地、有权威地。                                           | She spoke authoritatively about the topic.（她权威地谈论了这个话题。） |
+| authorised (英)     | /ˈɔːθəraɪzd/        | adj    | 被授权的。（英国英语拼写）                                   | Only authorised personnel may enter.（只有被授权的人员可以进入。） |
+| unauthorized (美)   | /ʌnˈɔːθəraɪzd/      | adj    | 未经授权的。（美国英语拼写）                                 | Unauthorized access is prohibited.（未经授权的访问是禁止的。） |
+| unauthorised (英)   | /ʌnˈɔːθəraɪzd/      | adj    | 未经授权的。（英国英语拼写）                                 | Unauthorised access is prohibited.（未经授权的访问是禁止的。） |
+| authenticate        | /ɔːˈθɛntɪkeɪt/      | v      | 验证、证明真实性。                                           | The museum staff authenticated the artifact.（博物馆工作人员验证了这件文物的真实性。） |
+| authentication      | /ɔːˌθɛntɪˈkeɪʃən/   | n      | 验证过程。                                                   | Passwords are used for authentication.（密码用于验证。）    |
+| authenticity        | /ɔːˌθɛntɪˈsɪti/     | n      | 真实性、可靠性。                                             | The authenticity of the document was questioned.（文件的真实性受到了质疑。） |
+
+### 分组 2: 政体相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| autocracy           | /ˈɔːtəkrəsi/        | n      | 独裁政体、专制政体。                                         | Under autocracy, power is concentrated in one person.（在独裁政体下，权力集中在一个人手中。） |
+| democracy           | /dɪˈmɑːkrəsi/       | n      | 民主政体。                                                   | Democracy allows citizens to vote for their leaders.（民主政体允许公民投票选举领导人。） |
+| oligarchy           | /ˈɒlɪɡɑːrkɪ/        | n      | 寡头政治、贵族政治。                                         | An oligarchy is ruled by a small group of people.（寡头政治由一小群人统治。） |
+| theocracy           | /θiˈɒkrəsi/         | n      | 神权政治。                                                   | In a theocracy, religious leaders hold political power.（在神权政治中，宗教领袖掌握政治权力。） |
+| bureaucracy         | /bjuːˈrɒkrəsi/      | n      | 官僚政体。                                                   | Bureaucracy can slow down decision-making processes.（官僚政体可能会拖慢决策过程。） |
+| anarchy             | /ˈænərki/           | n      | 无政府状态。                                                 | Anarchy leads to chaos and disorder.（无政府状态导致混乱和无序。） |
+| autocrat            | /ˈɔːtəkræt/         | n      | 独裁者、专制君主。                                           | The autocrat ruled with an iron fist.（独裁者铁腕统治。） |
+
+
+
+### 分组 1: 关于 "autonomy" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| autonomy            | /ɔːˈtɒnəmi/         | n      | 自治、自主权。                                               | The region enjoys a degree of autonomy.（该地区享有一定的自治权。） |
+| autonomic           | /ɔːˈtɒnəmɪk/        | adj    | 自主神经系统的；自动进行的。                                 | The autonomic nervous system controls involuntary actions.（自主神经系统控制不随意动作。） |
+| autonomous          | /ɔːˈtɒnəməs/        | adj    | 自治的、独立的。                                             | An autonomous robot can operate without human intervention.（一个自治机器人可以无需人类干预地运行。） |
+| autonomously        | /ɔːˈtɒnəməsli/      | adv    | 自主地、独立地。                                             | The system operates autonomously in most situations.（在大多数情况下，系统自主运行。） |
+| economy             | /ɪˈkɒnəmi/          | n      | 经济、节约。                                                 | The country is focusing on its economy to improve living standards.（该国正在关注其经济以提高生活水平。） |
+| agronomy            | /ˈæɡrənəmi/         | n      | 农艺学。                                                     | Agronomy studies focus on crop production and soil management.（农艺学研究集中在作物生产和土壤管理上。） |
+| antinomy            | /ænˈtɪnəmi/         | n      | 矛盾法则、对立原则。                                         | The concept presents an antinomy that challenges traditional thinking.（这个概念提出了一种挑战传统思维的矛盾法则。） |
+| taxonomy            | /tæksˈɒnəmi/        | n      | 分类学。                                                     | Taxonomy is crucial for organizing biological species.（分类学对于组织生物物种至关重要。） |
+| astronomy           | /əˈstrɒnəmi/        | n      | 天文学。                                                     | Astronomy explores the universe beyond our planet.（天文学探索我们星球之外的宇宙。） |
+| bio-economy         | /ˌbaɪoʊˈiːkənəmi/   | n      | 生物经济。                                                   | The bio-economy focuses on sustainable development using biological resources.（生物经济侧重于利用生物资源实现可持续发展。） |
+| automobile          | /ˈɔːtəməbiːl/       | n      | 汽车。                                                       | She drives her automobile to work every day.（她每天开汽车去上班。） |
+| autograph           | /ˈɔːtəɡrɑːf/        | n/v    | 名人签名、亲笔签名。（名词或动词）                           | Fans eagerly sought the celebrity's autograph.（粉丝们急切地寻求名人的签名。） |
+| automatic           | /ˌɔːtəˈmætɪk/       | adj    | 自动的。                                                     | The machine has an automatic shut-off feature.（这台机器有自动关机功能。） |
+
+### 分组 2: 关于 "avarice" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| avarice             | /ˈævərɪs/           | n      | 贪婪、贪心。                                                 | His avarice led him to hoard money.（他的贪婪使他囤积金钱。） |
+| avaricious          | /əˈværɪʃəs/         | adj    | 贪婪的。                                                     | He had an avaricious desire for wealth.（他对财富有着贪婪的渴望。） |
+| avariciously        | /əˈværɪʃəsli/       | adv    | 贪婪地。                                                     | He avariciously collected all the coins.（他贪婪地收集了所有的硬币。） |
+| avariciousness      | /əˈværɪʃnəs/        | n      | 贪婪的状态。                                                 | His avariciousness was known to everyone.（他的贪婪众所周知。） |
+| avid                | /ˈævɪd/             | adj    | 热心的、渴望的。                                             | She is avid about learning new things.（她对学习新事物充满热情。） |
+| avidity             | /æˈvɪdəti/          | n      | 热情、渴望。                                                 | His avidity for knowledge was impressive.（他对知识的渴望令人印象深刻。） |
+| aviary              | /ˈeɪviəri/          | n      | 鸟舍、鸟园。                                                 | The aviary housed various exotic birds.（鸟舍里养着各种异国鸟类。） |
+| aviation            | /ˌeɪviˈeɪʃən/       | n      | 航空。                                                       | Aviation technology has advanced rapidly.（航空技术迅速进步。） |
+| aviator             | /ˌeɪviˈeɪtər/       | n      | 飞行员。                                                     | The aviator flew the plane across the ocean.（飞行员驾驶飞机飞越了海洋。） |
+| aviculture          | /ˈævɪˌkʌltʃər/      | n      | 鸟类养殖、鸟类培育。                                         | Aviculture involves breeding birds in captivity.（鸟类养殖涉及在圈养条件下繁殖鸟类。） |
+
+### 分组 3: 关于 "aver" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| aver                | /əˈvɜːr/            | v      | 断言、声明。                                                 | He averred his innocence in the matter.（他就此事断言自己是无辜的。） |
+| averment            | /əˈvɜːrmənt/        | n      | 断言、声明。                                                 | The lawyer made an averment regarding the client's alibi.（律师就客户的不在场证明作出了声明。） |
+| verity              | /ˈvɛrɪti/           | n      | 真实、真理。                                                 | She spoke with the verity of someone who knows the facts.（她以了解事实的人的真实性发言。） |
+| veracious           | /vəˈreɪʃəs/         | adj    | 真实的、诚实的。                                             | He gave a veracious account of the events.（他对事件作了真实的描述。） |
+
+### 分组 4: 关于 "averse" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| averse              | /əˈvɜːrs/           | adj    | 不愿意的、反感的。                                           | She is averse to taking risks.（她不愿意冒险。）            |
+| aversion            | /əˈvɜːrʒən/         | n      | 反感、厌恶。                                                 | He has an aversion to spicy food.（他对辛辣食物有反感。）  |
+| adverse             | /ædˈvɜːrs/          | adj    | 不利的、有害的。                                             | Adverse weather conditions delayed the flight.（不利的天气条件延误了航班。） |
+| converse            | /ˈkɒnvɜːs/          | n/v    | 对话、交谈。（名词或动词）                                   | They had a long and meaningful converse.（他们进行了长时间而有意义的对话。） |
+| invert              | /ɪnˈvɜːrt/          | v      | 颠倒、反转。                                                 | The image appears inverted in the mirror.（图像在镜中看起来是颠倒的。） |
+| revert              | /rɪˈvɜːrt/          | v      | 回复、恢复原状。                                             | After the experiment, the cells reverted to their original state.（实验后，细胞恢复到了原来的状态。） |
+| subvert             | /səbˈvɜːrt/         | v      | 推翻、颠覆。                                                 | They tried to subvert the government.（他们试图推翻政府。） |
+| version             | /ˈvɜːrʒən/          | n      | 版本、变体。                                                 | This is the latest version of the software.（这是软件的最新版本。） |
+| obverse             | /ˈɒbvɜːs/           | n/adj  | 正面、反面。（名词或形容词）                                 | On the obverse of the coin is the national emblem.（硬币的正面是国徽。） |
+| reverse             | /rɪˈvɜːrs/          | adj/n/v| 相反的、反向；相反的事物；使逆转。（形容词、名词或动词）     | The policy had a reverse effect.（这项政策产生了相反的效果。） |
+
+
+### 分组 1: 关于 "avi-" 的词汇（与鸟类或航空相关）
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| avid                | /ˈævɪd/             | adj    | 热心的、渴望的。                                             | She is avid about learning new things.（她对学习新事物充满热情。） |
+| avarice             | /ˈævərɪs/           | n      | 贪婪、贪心。                                                 | His avarice led him to hoard money.（他的贪婪使他囤积金钱。） |
+| avaricious          | /əˈværɪʃəs/         | adj    | 贪婪的。                                                     | He had an avaricious desire for wealth.（他对财富有着贪婪的渴望。） |
+| avidity             | /æˈvɪdəti/          | n      | 热情、渴望。                                                 | His avidity for knowledge was impressive.（他对知识的渴望令人印象深刻。） |
+| aviary              | /ˈeɪviəri/          | n      | 鸟舍、鸟园。                                                 | The aviary housed various exotic birds.（鸟舍里养着各种异国鸟类。） |
+| aviation            | /ˌeɪviˈeɪʃən/       | n      | 航空。                                                       | Aviation technology has advanced rapidly.（航空技术迅速进步。） |
+| aviator             | /ˌeɪviˈeɪtər/       | n      | 飞行员。                                                     | The aviator flew the plane across the ocean.（飞行员驾驶飞机飞越了海洋。） |
+| aviculture          | /ˈævɪˌkʌltʃər/      | n      | 鸟类养殖、鸟类培育。                                         | Aviculture involves breeding birds in captivity.（鸟类养殖涉及在圈养条件下繁殖鸟类。） |
+
+### 分组 2: 关于 "wash" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| awash               | /əˈwɒʃ/             | adj    | 淹没的、浸湿的。                                             | The ship was awash with water after the storm.（风暴过后，船被水淹没了。） |
+| wash                | /wɒʃ/              | v/n    | 洗涤、清洗。（动词或名词）                                   | She needs to wash her clothes.（她需要洗她的衣服。）        |
+| washer              | /ˈwɒʃər/           | n      | 洗衣机、洗涤器。                                             | The washer is broken and needs repair.（洗衣机坏了，需要修理。） |
+| washcloth           | /ˈwɒʃklɔːθ/        | n      | 洗脸布。                                                     | Use a washcloth to clean your face.（用洗脸布清洁你的脸。） |
+| washout             | /ˈwɒʃaʊt/          | n      | 洗刷、冲走；失败者。（名词）                                 | The heavy rain caused a washout of the event.（大雨导致活动取消。） |
+| washable            | /ˈwɒʃəbl/          | adj    | 可洗的。                                                     | These clothes are machine washable.（这些衣服可以用洗衣机洗。） |
+| washbasin           | /ˈwɒʃbeɪsɪn/       | n      | 洗手盆。                                                     | She washed her hands in the washbasin.（她在洗手盆里洗了手。） |
+| swash               | /swɒʃ/             | n/v    | 波浪拍打声；挥舞。（名词或动词）                             | The swash of the waves against the shore was soothing.（波浪拍打岸边的声音让人感到舒缓。） |
+| washover            | /ˈwɒʃoʊvər/        | n      | 冲刷、覆盖。                                                 | A washover of sand covered the beach.（一层沙子覆盖了海滩。） |
+
+### 分组 3: 关于 "awe" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| awe                 | /ɔː/               | n/v    | 敬畏、惊惧。（名词或动词）                                   | The sight of the mountains filled us with awe.（山的景色让我们充满了敬畏。） |
+| awful               | /ˈɔːfʊl/           | adj    | 极坏的、糟糕的。                                             | The weather was awful, making travel difficult.（天气极差，使得旅行变得困难。） |
+| awfully             | /ˈɔːfəli/          | adv    | 极其、非常。                                                 | It's awfully cold today.（今天非常冷。）                    |
+| aweless             | /ˈɔːləs/           | adj    | 无畏的、无所畏惧的。                                         | An aweless attitude can be both admirable and dangerous.（无畏的态度既令人钦佩又可能危险。） |
+| awesome             | /ˈɔːsəm/           | adj    | 令人敬畏的、极好的。                                         | The view from the top was simply awesome.（从顶部看到的风景简直令人敬畏。） |
+| awesomely           | /ˈɔːsəmli/         | adv    | 令人敬畏地、极好地。                                         | The performance was awesomely executed.（表演执行得极其出色。） |
+| awesomeness         | /ˈɔːsəmnɪs/        | n      | 令人敬畏的性质、极好的状态。                                 | The awesomeness of nature never fails to impress.（自然界的壮丽总是令人印象深刻。） |
+| awestruck           | /ˈɔːstrʌk/         | adj    | 目瞪口呆的、敬畏的。                                         | The audience was awestruck by the performance.（观众被表演震撼得目瞪口呆。） |
+| awe-struck          | /ˈɔː strʌk/        | adj    | （与 awestruck 同义）                                        | They were awe-struck by the beauty of the scene.（他们被场景的美丽震撼得目瞪口呆。） |
+| awe-inspiring       | /ˈɔː ɪnˌspaɪrɪŋ/   | adj    | 令人敬畏的、激励人心的。                                     | The mountain range is truly awe-inspiring.（山脉真是令人敬畏。） |
+
+
+### 分组 1: 关于 "ward" 的词汇（表示方向）
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| backward            | /ˈbækwərd/         | adj/adv| 向后的、向后地。                                             | He took a step backward.（他向后退了一步。）                |
+| downward            | /ˈdaʊnwərd/        | adj/adv| 向下的、向下地。                                             | The path led downward to the valley.（小路通向山谷下方。）  |
+| eastward            | /ˈiːstwərd/        | adj/adv| 向东的、向东地。                                             | They headed eastward towards the sunrise.（他们向东朝日出的方向前进。） |
+| homeward            | /ˈhuːmwərd/        | adj/adv| 回家的、朝家的方向。                                         | After work, everyone was heading homeward.（下班后，每个人都往家走。） |
+| landward            | /ˈlændwərd/        | adj/adv| 向陆地的、朝陆地方向。                                       | The ship moved landward as it approached the shore.（船接近海岸时朝陆地方向移动。） |
+| poleward            | /ˈpoʊlwərd/        | adj/adv| 向极地的、朝极地方向。                                       | The explorers journeyed poleward.（探险家们朝极地方向前进。） |
+| untoward            | /ʌnˈtɔːrd/         | adj    | 不幸的、意外的。                                             | There were no untoward incidents during the event.（活动期间没有发生不幸事件。） |
+| westward            | /ˈwɛstwərd/        | adj/adv| 向西的、向西地。                                             | The travelers set off westward at dawn.（旅行者们在黎明时分向西出发。） |
+| windward            | /ˈwɪndwərd/        | adj/adv| 迎风的、朝风来的方向。                                       | The sailors preferred the windward side of the island.（水手们更喜欢岛屿的迎风面。） |
+| afterward           | /ˈɑːftərwərd/      | adv    | 在那之后、后来。                                             | We went out for dinner afterward.（我们之后出去吃了晚饭。） |
+| earthward           | /ˈɜːrθwərd/        | adj/adv| 向地球的、朝地球方向。                                       | The astronauts looked earthward from space.（宇航员从太空看向地球。） |
+| floorward           | /ˈflɔːrwərd/       | adj/adv| 向地板的、朝地板方向。                                       | She fell floorward after slipping on the stairs.（她在楼梯上滑倒后摔向地板。） |
+| northward           | /ˈnɔːrθwərd/       | adj/adv| 向北的、向北地。                                             | The compass needle points northward.（指南针指针指向北方。） |
+| shoreward           | /ˈʃɔːrwərd/        | adj/adv| 向岸的、朝岸方向。                                           | The waves rolled shoreward.（波浪滚滚涌向岸边。） |
+| southward           | /ˈsaʊθwərd/        | adj/adv| 向南的、向南地。                                             | The bird flew southward for the winter.（鸟儿为了过冬飞向南方。） |
+| heavenward          | /ˈhevnwərd/        | adj/adv| 向天的、朝天上方向。                                         | Her thoughts turned heavenward in prayer.（她在祈祷中思绪转向了天上。） |
+
+### 分组 2: 关于 "forward" 的词汇（时间或方向）
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| carryforward        | /ˈkæriˌfɔːrwərd/    | v      | 结转、带入未来。（会计术语）                                 | The accountant will carryforward the loss to next year.（会计师会将亏损结转到明年。） |
+| henceforward        | /ˈhɛnsˌfɔːrwərd/    | adv    | 从此以后、从现在起。                                         | Henceforward, we will implement new policies.（从现在起，我们将实施新政策。） |
+| thenceforward       | /ˈðɛnsˌfɔːrwərd/    | adv    | 从那时起、此后。                                             | Thenceforward, they focused on improving efficiency.（从那时起，他们专注于提高效率。） |
+| straightforward    | /ˌstreɪtˈfɔːrwərd/ | adj/adv| 直率的、直接的；直截了当地。                                 | She gave a straightforward answer.（她给出了一个直率的答案。） |
+| forward             | /ˈfɔːrwərd/         | adj/adv| 向前的、向前地。                                             | Look forward to the future with hope.（满怀希望地展望未来。） |
+| froward             | /ˈfraʊwərd/         | adj    | 任性难管教的。（较少使用）                                   | The child was sometimes froward and refused to listen.（这孩子有时任性，拒绝听话。） |
+| leeward             | /ˈliːwərd/          | adj/adv| 背风的、避风的地方。                                         | The boat anchored in the leeward side of the island.（船在岛屿的背风侧抛锚。） |
+| outward             | /ˈaʊtwərd/          | adj/adv| 向外的、向外。                                               | The door opened outward.（门向外开。）                      |
+| seaward             | /ˈsiːwərd/          | adj/adv| 向海的、朝海方向。                                           | The village lies seaward of the mountains.（村庄位于山脉的海边。） |
+| skyward             | /ˈskaɪwərd/         | adj/adv| 向天空的、朝天空方向。                                       | The birds flew skyward.（鸟儿飞向天空。）                   |
+| steward             | /ˈstuːwərd/         | n      | 管事、乘务员。                                               | The steward served drinks to the passengers.（乘务员为乘客提供饮料服务。） |
+| sunward             | /ˈsʌnwərd/          | adj/adv| 向太阳的、朝太阳方向。                                       | The flowers turned sunward.（花转向太阳。）                 |
+| wayward             | /ˈweɪwərd/          | adj    | 淘气的、任性的；偏离正道的。                                 | The wayward child often got into trouble.（淘气的孩子常常惹麻烦。） |
+
+### 分组 3: 其他 "-ward" 词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| awkward             | /ˈɔːkwərd/         | adj    | 笨拙的、尴尬的。                                             | He felt awkward at the party.（他在聚会上感到尴尬。）      |
+| awkwardly           | /ˈɔːkwərdli/       | adv    | 笨拙地、尴尬地。                                             | She answered the question awkwardly.（她笨拙地回答了问题。） |
+| awkwardness         | /ˈɔːkwərdnəs/      | n      | 笨拙、尴尬。                                                 | There was an awkwardness in the conversation.（谈话中有一种尴尬。） |
+| award               | /əˈwɔːrd/          | n/v    | 奖励、授予。（名词或动词）                                   | She received an award for her contribution.（她因贡献获得了奖励。） |
+| sward               | /swɔːrd/           | n      | 草皮、草地。                                                 | They sat on the lush sward by the river.（他们在河边的茂密草地上坐了下来。） |
+| coward              | /ˈkaʊərd/          | n      | 懦夫、胆小鬼。                                               | He called him a coward for running away.（他称他为懦夫，因为他逃跑了。） |
+| inward              | /ˈɪnwərd/          | adj/adv| 向内的、向内。                                               | He turned his attention inward.（他把注意力转向内心。）     |
+| onward              | /ˈɒnwərd/          | adj/adv| 向前的、继续地。                                             | The journey continued onward.（旅程继续前进。）             |
+| reward              | /rɪˈwɔːrd/         | n/v    | 报酬、奖励。（名词或动词）                                   | Hard work brings its own reward.（努力工作会有回报。）     |
+| toward              | /ˈtɔːrd/           | prep   | 朝向、对于。                                                 | They are moving toward a solution.（他们正在朝向解决方案迈进。） |
+| upward              | /ˈʌpwərd/          | adj/adv| 向上的、向上。                                               | The prices are going upward.（价格在上涨。）                |
+
+
+### 分组 1: 关于 "guard" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| avant-garde         | /ˌævɑːntˈɡɑːrd/     | n/adj  | 先锋派、前卫的。（名词或形容词）                             | The artist is part of the avant-garde movement.（这位艺术家是先锋派运动的一部分。） |
+| advance             | /ədˈvæns/           | v/n    | 前进、进展；预先支付、提前。（动词或名词）                   | They made steady advances in technology.（他们在技术上取得了稳步进展。） |
+| advanced            | /ədˈvænst/          | adj    | 先进的、高级的。                                             | She took an advanced course in physics.（她选修了高级物理课程。） |
+| advancement         | /ədˈvænmənt/        | n      | 发展、进步。                                                 | The company's focus on innovation led to significant advancements.（公司对创新的关注带来了重大进步。） |
+| guard               | /ɡɑːrd/             | n/v    | 守卫、保护。（名词或动词）                                   | He stood guard at the entrance.（他在入口处站岗。）        |
+| guardsman           | /ˈɡɑːrdsmæn/        | n      | 护卫、警卫员。                                               | The guardsman was stationed outside the building.（警卫员被安排在大楼外。） |
+| guardian            | /ˈɡɑːrdɪən/         | n      | 监护人、保护者。                                             | She became the child's legal guardian.（她成为了孩子的法定监护人。） |
+| safeguard           | /ˈseɪfgɑːrd/        | n/v    | 保障、保护措施。（名词或动词）                               | Safety protocols are a safeguard against accidents.（安全协议是对事故的一种预防措施。） |
+| banguard            | /ˈbæŋɡɑːrd/         | n      | （军事术语，较少使用）后卫部队。                             | The banguard provided cover for the retreat.（后卫部队为撤退提供了掩护。） |
+| rearguard           | /ˈriːɑːrɡɑːrd/      | n      | 后卫、后卫队。                                               | The rearguard protected the troops from attacks from behind.（后卫队保护部队免受后方攻击。） |
+| guardrail           | /ˈɡɑːrdreɪl/        | n      | 护栏。                                                       | Guardrails along the road protect drivers.（道路两旁的护栏保护司机。） |
+
+### 分组 2: 关于 "wry" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| awry                | /əˈraɪ/             | adj/adv| 歪斜的、错误地。                                             | Something went awry with the experiment.（实验出了问题。）  |
+| wry                 | /raɪ/               | adj    | 扭曲的、讽刺的。                                             | He gave a wry smile.（他露出了一个扭曲的笑容。）          |
+| wring               | /rɪŋ/               | v      | 拧、绞。                                                     | She had to wring out the wet cloth.（她得拧干湿布。）       |
+| wrinkle             | /ˈrɪŋkl/            | n/v    | 皱纹；使起皱。（名词或动词）                                 | Years have added many wrinkles to his face.（岁月在他的脸上增添了无数皱纹。） |
+| wrack               | /ræk/               | n/v    | 破碎、折磨；毁坏。（名词或动词）                             | The storm left the ship in wrack.（风暴把船弄得破烂不堪。） |
+| wrench              | /rentʃ/             | n/v    | 扳手；扭伤、拧紧。（名词或动词）                             | He used a wrench to tighten the bolt.（他用扳手拧紧了螺栓。） |
+| wrest               | /rɛst/              | v      | 夺取、抢夺。                                                 | They had to wrest control from the opposition.（他们不得不从反对派手中夺取控制权。） |
+| wreathe             | /riːð/              | v      | 缠绕、环绕。                                                 | Flowers were used to wreathe the memorial.（鲜花被用来环绕纪念碑。） |
+
+### 分组 3: 关于 "axiom" 的词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| axiomatic           | /ˌæksiəˈmætɪk/      | adj    | 自明的、不证自明的。                                         | The principle that all men are created equal is axiomatic.（所有人生而平等的原则是不证自明的。） |
+| axiom               | /ˈæksɪəm/           | n      | 公理、自明之理。                                             | An axiom in mathematics is a statement accepted as true without proof.（数学中的公理是无需证明就被接受为真的陈述。） |
+| axiomatize          | /ˌæksiˈɒmətaɪz/     | v      | 形成公理体系。                                               | Mathematicians work to axiomatize their theories.（数学家致力于将其理论公理化。） |
+| axiological         | /ˌæksiəˈlɒdʒɪkl/    | adj    | 价值论的、关于价值与义务的。                                 | Axiological studies explore the nature of value and ethics.（价值论研究探讨价值和伦理的本质。） |
+| axiomatically       | /ˌæksiəˈmætɪkli/    | adv    | 依据公理地、不证自明地。                                     | The theorem can be proven axiomatically.（该定理可以依据公理来证明。） |
