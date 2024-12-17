@@ -934,3 +934,178 @@
 
 
 
+### 分组 1: 关于 "bruit" 和相关词汇
+
+| 单词            | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-----------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| bruit           | /bruːt/            | n/v    | 传闻、谣言；传播。（名词或动词）                             | The hospital is in a hubbub of bruit about the new merger.（医院里关于新合并的传闻沸沸扬扬。） |
+| rumor           | /ˈruːmər/          | n      | 谣言、传闻。（名词）                                         | A rumor spread quickly through the office.（谣言在办公室迅速传开。） |
+| fructify        | /ˈfrʌktɪfaɪ/       | v      | 结果、使结果。（动词）                                       | The tree began to fructify in spring.（这棵树在春天开始结果。） |
+| fruit           | /fruːt/            | n/v    | 水果；结果、结出果实。（名词或动词）                         | She picked some fresh fruit from the garden.（她从花园里摘了一些新鲜水果。） |
+| brutal          | /ˈbruːtl/          | adj    | 残忍的、野蛮的。（形容词）                                   | The movie showed brutal scenes of war.（电影展示了战争中残酷的场景。） |
+
+### 分组 2: 关于 "buck" 和相关词汇
+
+| 单词            | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-----------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| buck            | /bʌk/              | n/v    | 公鹿；抵抗、反叛。（名词或动词）                             | He bucked against the rules.（他反抗规则。）                |
+| bucolic         | /bʊˈkɒlɪk/         | adj    | 田园的、牧歌式的。（形容词）                                 | The painting depicted a bucolic scene of rural life.（这幅画描绘了一幅田园风光的农村生活场景。） |
+| buckskin        | /ˈbʌkskɪn/         | n      | 鹿皮、浅棕色皮革。（名词）                                   | He wore a jacket made of buckskin.（他穿了一件由鹿皮制成的夹克。） |
+| bucksaw         | /ˈbʌksɔː/          | n      | 锯木用的手锯。（名词）                                       | The woodsman used a bucksaw to cut down trees.（樵夫用锯木手锯砍树。） |
+| resist          | /rɪˈzɪst/          | v      | 抵抗、抵制。（动词）                                         | They decided to resist the changes.（他们决定抵制这些变化。） |
+| rebel           | /ˈriːbel/          | v/n    | 反叛、造反。（动词或名词）                                   | The students rebelled against the school's strict rules.（学生们反抗学校的严格规定。） |
+| frame           | /freɪm/            | n/v    | 框架、边框；构架、组成。（名词或动词）                       | The carpenter framed the house with strong wood.（木匠用坚固的木材为房子搭建框架。） |
+
+### 分组 3: 关于 "budge" 和相关词汇
+
+| 单词            | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-----------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| budge           | /bʌdʒ/             | v      | 移动、挪动。（动词）                                         | No matter how hard he pushed, the car wouldn't budge.（无论他怎么用力推，车都不动。） |
+| budget          | /ˈbʌdʒɪt/          | n/v    | 预算；做预算。（名词或动词）                                 | We need to budget carefully for the trip.（我们需要仔细为这次旅行做预算。） |
+
+### 分组 4: 关于 "bulge" 
+
+| 单词            | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-----------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| bulge           | /bʌldʒ/            | n/v    | 凸起、鼓包；膨胀、凸出。（名词或动词）                       | There was a noticeable bulge in his pocket.（他的口袋里有一个明显的鼓包。） |
+
+### 分组 5: 关于 "bully" 和相关词汇
+
+| 单词            | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-----------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| bully           | /ˈbʊli/            | n/v    | 恃强凌弱者、恶霸；欺凌、恐吓。（名词或动词）                 | The teacher told the bully to stop picking on smaller kids.（老师告诉那个恶霸不要再欺负小同学。） |
+| bully pulpit    | /ˈbʊli ˈpʊlpɪt/    | n      | 强势讲台、利用权威地位发表意见的地方。（名词短语）           | Politicians often use social media as a bully pulpit.（政客们经常利用社交媒体作为强势讲台。） |
+| cyberbullying   | /ˈsaɪbərˌbʊliɪŋ/   | n      | 网络欺凌。（名词）                                           | Cyberbullying has become a serious issue among teenagers.（网络欺凌在青少年中已经成为一个严重的问题。） |
+
+### 分组 6: 关于 "bumptious" 和相关词汇
+
+| 单词            | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-----------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| bumptious       | /ˈbʌmpʃəs/         | adj    | 自大、傲慢的。（形容词）                                     | His bumptious attitude annoyed everyone at the meeting.（他在会议上的自大态度惹恼了所有人。） |
+| bump            | /bʌmp/             | n/v    | 碰撞、肿块；碰撞、撞击。（名词或动词）                       | She got a bump on her head from hitting the low ceiling.（她的头因为撞到低矮的天花板而起了个包。） |
+| bumpy           | /ˈbʌmpi/           | adj    | 不平的、崎岖的。（形容词）                                   | The road was very bumpy and uncomfortable to drive on.（这条路非常崎岖，开车很不舒服。） |
+| bumper          | /ˈbʌmpər/          | n      | 减震器、保险杠。（名词）                                     | The car had a shiny chrome bumper.（这辆车有一个闪亮的镀铬保险杠。） |
+| arrogant        | /ˈærəɡənt/         | adj    | 傲慢的、自大的。（形容词）                                   | He had an arrogant manner that put people off.（他有一种让人反感的傲慢态度。） |
+| conceited       | /kənˈsiːtɪd/       | adj    | 自负的、自以为是的。（形容词）                               | Her conceited behavior alienated her friends.（她的自负行为疏远了她的朋友。） |
+| pompous         | /ˈpɑːmpəs/         | adj    | 夸张的、装腔作势的。（形容词）                               | The politician gave a pompous speech full of empty promises.（这位政治家发表了一篇夸夸其谈、充满空洞承诺的演讲。） |
+| haughty         | /ˈhɔːfti/          | adj    | 傲慢的、盛气凌人的。（形容词）                               | His haughty demeanor made him unpopular.（他那傲慢的态度让他不受欢迎。） |
+| overbearing     | /ˌoʊvərˈberɪŋ/     | adj    | 盛气凌人的、专横的。（形容词）                               | She found his overbearing personality difficult to tolerate.（她觉得他专横的性格难以忍受。） |
+| bumptiously     | /ˈbʌmpʃəsli/       | adv    | 自大地、傲慢地。（副词）                                     | He spoke bumptiously about his achievements.（他自大地谈论着自己的成就。） |
+| bumptiousness   | /ˈbʌmpʃəsnəs/      | n      | 自大、傲慢。（名词）                                         | The bumptiousness of the new manager upset the team.（新经理的傲慢让团队成员感到不满。） |
+
+
+
+### 分组 1: 关于 "bungle" 和相关词汇
+
+| 单词            | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-----------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| bungle          | /ˈbʌŋɡl/           | v/n    | 搞砸、处理不当；笨拙的行为。（动词或名词）                   | He made a complete bungle of the job.（他把这个工作搞砸了。） |
+| bungler         | /ˈbʌŋɡlər/         | n      | 笨手笨脚的人、做事不力的人。（名词）                         | The project was delayed by the work of an inexperienced bungler.（这个项目因为一个没有经验的笨手笨脚的人而延误了。） |
+| blunder         | /ˈblʌndər/         | v/n    | 犯错、莽撞行事；错误、大错。（动词或名词）                   | She realized she had made a terrible blunder.（她意识到自己犯了一个严重的错误。） |
+| mistake         | /mɪˈsteɪk/         | n/v    | 错误、误解；弄错。（名词或动词）                             | Everyone makes mistakes sometimes.（每个人有时候都会犯错。） |
+| fumble          | /ˈfʌmbl/           | v/n    | 笨拙地处理、摸索；笨拙的动作。（动词或名词）                 | He fumbled with the keys in the dark.（他在黑暗中摸索着钥匙。） |
+| flounder        | /ˈflaʊndər/        | v      | 茫然无措、挣扎。（动词）                                     | After losing his job, he felt like he was floundering.（失业后，他感到茫然无措。） |
+
+### 分组 2: 关于 "buoy" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| buoy                | /bɔɪ/              | n/v    | 浮标、浮筒；使浮起。（名词或动词）                           | The lifeguard threw a buoy to the swimmer in distress.（救生员向处于困境中的游泳者扔了一个浮标。） |
+| bullion             | /ˈbuljən/          | n      | 条块金属、金银条。（名词）                                   | The vault stored gold and silver bullion.（金库储存了金条和银条。） |
+| bull                | /bʊl/              | n      | 公牛、雄性哺乳动物；股市牛市。（名词）                       | The farmer owned several bulls for breeding.（农民养了几头公牛用于繁殖。） |
+| bulb                | /bʌlb/             | n      | 灯泡、球茎。（名词）                                         | She replaced the old light bulb with a new one.（她用新的灯泡换掉了旧的。） |
+| float               | /floʊt/            | v/n    | 漂浮、浮动；游行花车。（动词或名词）                         | The logs floated down the river.（木头顺着河流漂浮下来。） |
+| marker              | /ˈmɑːrkər/         | n      | 标记、记号笔。（名词）                                       | He used a marker to label the boxes.（他用记号笔给箱子做标记。） |
+| beacon              | /ˈbiːkən/          | n      | 灯塔、信标。（名词）                                         | The lighthouse served as a beacon for ships at sea.（灯塔为海上的船只提供指引。） |
+| buoyancy            | /ˈbɔɪənsi/         | n      | 浮力。（名词）                                               | The life jacket provided excellent buoyancy.（救生衣提供了极佳的浮力。） |
+| buoyant             | /ˈbɔɪənt/          | adj    | 浮起的、乐观的。（形容词）                                   | A buoyant spirit helped her through tough times.（乐观的精神帮助她度过了艰难时期。） |
+| buoyantly           | /ˈbɔɪəntli/        | adv    | 乐观地、充满活力地。（副词）                                 | She spoke buoyantly about her future plans.（她充满活力地谈论着她的未来计划。） |
+| mooring buoy        | /ˈmʊrɪŋ bɔɪ/       | n      | 锚泊浮标。（名词短语）                                       | The boat was tied to a mooring buoy.（船被系在一个锚泊浮标上。） |
+| navigation buoy     | /ˌnævɪˈɡeɪʃən bɔɪ/ | n      | 导航浮标。（名词短语）                                       | Navigation buoys guide ships through channels.（导航浮标引导船只通过航道。） |
+
+### 分组 3: 关于 "burgeon" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| burgeon             | /ˈbɜːrdʒən/        | v      | 迅速发展、萌芽。（动词）                                     | New businesses are burgeoning in the area.（新企业在该地区迅速发展。） |
+| bud                 | /bʌd/              | n/v    | 花蕾、萌芽；发芽、开始成长。（名词或动词）                   | Springtime sees buds appearing on trees.（春天可以看到树上出现花蕾。） |
+| bourgeoisie         | /ˌbʊrʒwɑːˈziː/     | n      | 资产阶级。（名词）                                           | The bourgeoisie enjoyed a privileged position in society.（资产阶级在社会中享有特权地位。） |
+| borough             | /ˈbʌroʊ/           | n      | 市政区、自治市镇。（名词）                                   | The city is divided into several boroughs.（这座城市被划分为几个市政区。） |
+| thrive              | /θraɪv/            | v      | 繁荣、兴旺。（动词）                                         | The plants thrived in the rich soil.（植物在肥沃的土壤中茁壮成长。） |
+| flourish            | /ˈflɜːrɪʃ/         | v      | 繁荣、茂盛。（动词）                                         | The economy began to flourish under new policies.（经济在新政策下开始繁荣。） |
+| sprout              | /sprаʊt/           | v/n    | 发芽、抽芽；嫩芽。（动词或名词）                             | Seeds sprout quickly in moist soil.（种子在潮湿的土壤中很快发芽。） |
+
+### 分组 4: 关于 "burlesque" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| burlesque           | /ˈbɜːrlɪsk/         | n/adj  | 讽刺剧、滑稽模仿；讽刺的、滑稽的。（名词或形容词）           | The show included a burlesque performance that poked fun at classic plays.（演出包括了一段讽刺经典戏剧的滑稽模仿表演。） |
+| burla               | /ˈbɜːrlə/           | n      | 讽刺、嘲笑。（名词）                                         | In Italian comedy, burla refers to a humorous or satirical act.（在意大利喜剧里，burla指的是幽默或讽刺的表演。） |
+| burlesco            | /bɜːrˈleskoʊ/       | adj    | 讽刺的、滑稽的。（形容词）                                   | His burlesco style of writing amused readers.（他讽刺式的写作风格让读者们忍俊不禁。） |
+| burlesquerie        | /ˌbɜːrlɪˈskeri/     | n      | 讽刺作品、滑稽模仿。（名词）                                 | The magazine published a burlesquerie of popular novels.（杂志发表了一篇流行小说的滑稽模仿作品。） |
+| burlesquely         | /ˌbɜːrlɪˈskeli/     | adv    | 以滑稽模仿的方式、讽刺地。（副词）                           | She performed the role burlesquely, exaggerating every gesture.（她以滑稽模仿的方式表演这个角色，夸大每一个动作。） |
+| burlesque show      | /ˈbɜːrlɪsk ʃoʊ/    | n      | 讽刺剧表演、滑稽秀。（名词短语）                             | The burlesque show entertained the crowd with its humorous skits.（滑稽秀以其幽默的短剧娱乐了观众。） |
+| burlesque theater   | /ˈbɜːrlɪsk ˈθiːətər/| n      | 讽刺剧院、滑稽剧院。（名词短语）                             | The burlesque theater attracted audiences with its unique performances.（滑稽剧院以其独特的表演吸引了观众。） |
+
+
+
+### 分组 1: 关于 "burnish" 和相关词汇
+
+| 单词            | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-----------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| burnish         | /ˈbɜːrnɪʃ/         | v      | 磨光、擦亮。（动词）                                         | The jeweler burnished the silver to a high shine.（珠宝商把银器磨得闪闪发亮。） |
+| brilliant       | /ˈbrɪliənt/        | adj    | 光辉的、极好的。（形容词）                                   | She wore a brilliant diamond necklace.（她戴着一条璀璨的钻石项链。） |
+| brimstone       | /ˈbrɪmstoʊn/       | n      | 硫磺。（名词）                                               | In literature, brimstone often symbolizes hellfire.（在文学中，硫磺常象征地狱之火。） |
+| brunette        | /ˌbrʌnˈet/         | n/adj  | 深褐色头发的人；深褐色头发的。（名词或形容词）               | The painting featured a beautiful brunette.（这幅画描绘了一位美丽的深褐色头发女子。） |
+| polish          | /ˈpɑːlɪʃ/          | v/n    | 打磨、抛光；光泽、礼貌。（动词或名词）                       | He polished his shoes until they shone.（他把鞋子擦得发亮。） |
+| buff            | /bʌf/              | v/n    | 用布擦拭、打磨；浅黄色。（动词或名词）                       | He used a buff cloth to clean the surface.（他用一块软布擦拭表面。） |
+| shine           | /ʃaɪn/             | v/n    | 发光、照耀；光辉。（动词或名词）                             | The sun shone brightly in the sky.（阳光灿烂地照耀天空。） |
+| gloss           | /ɡlɑːs/            | n/v    | 光泽、光亮；粉饰、美化。（名词或动词）                       | The magazine gave a glossy finish to its cover.（杂志给封面加上了光亮的涂层。） |
+| luster          | /ˈlʌstər/          | n      | 光泽、光彩。（名词）                                         | The pearls had a natural luster.（珍珠有天然的光泽。） |
+
+### 分组 2: 关于 "buttress" 和相关词汇
+
+| 单词            | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-----------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| buttress        | /ˈbʌtrəs/          | n/v    | 支撑物、扶壁；支撑、加固。（名词或动词）                     | The cathedral was supported by massive buttresses.（大教堂由巨大的扶壁支撑着。） |
+| butt            | /bʌt/              | n/v    | 臀部；撞击、抵触。（名词或动词）                             | He gave the door a quick butt with his shoulder.（他用肩膀快速撞开了门。） |
+| abut            | /əˈbʌt/            | v      | 相邻、毗连。（动词）                                         | The two properties abut each other.（这两处房产相邻。） |
+| buttock         | /ˈbʌtək/           | n      | 臀部。（名词）                                               | He felt pain in his buttocks after sitting for hours.（坐了几个小时后，他的臀部感到疼痛。） |
+| support         | /səˈpɔːrt/         | v/n    | 支持、支撑；支持物。（动词或名词）                           | The table requires additional support to hold heavy items.（桌子需要额外的支持来承载重物。） |
+| reinforce       | /ˌriːɪnˈfɔːrs/     | v      | 加固、增强。（动词）                                         | They reinforced the walls of the old building.（他们加固了旧建筑的墙壁。） |
+| prop            | /prɑːp/            | n/v    | 支撑物、支柱；支撑、支撑住。（名词或动词）                   | She used a stick as a prop to keep the door open.（她用一根棍子作为支撑物让门开着。） |
+| scaffold        | /ˈskæfəld/         | n      | 脚手架。（名词）                                             | Workers erected scaffolding around the building for repairs.（工人们在建筑物周围搭建了脚手架进行维修。） |
+| pillar          | /ˈpɪlər/           | n      | 柱子、支柱。（名词）                                         | The ancient temple stood on four stone pillars.（古老的寺庙矗立在四根石柱上。） |
+
+### 分组 3: 关于 "byzantine" 和相关词汇
+
+| 单词                    | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|-------------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| byzantine               | /bɪˈzæntaɪn/       | adj    | 拜占庭式的、复杂的、官僚的。（形容词）                         | Byzantine regulations made it hard to start a business.（拜占庭式的规章制度使得开办企业困难重重。） |
+| byzantium               | /bɪˈzæntiəm/       | n      | 拜占庭帝国的首都君士坦丁堡。（名词）                           | Byzantium was once the capital of the Eastern Roman Empire.（拜占庭曾是东罗马帝国的首都。） |
+| complex                 | /ˈkɑːmplɛks/       | adj    | 复杂的、错综复杂的。（形容词）                               | The situation is far more complex than we thought.（情况比我们想象的复杂得多。） |
+| intricate               | /ˈɪntrɪkət/        | adj    | 错综复杂的、精巧的。（形容词）                               | The design was incredibly intricate.（这个设计非常错综复杂。） |
+| bureaucratic            | /bjuːrəʊˈkrætɪk/   | adj    | 官僚主义的、繁文缛节的。（形容词）                           | The bureaucratic process slowed down our project.（官僚程序拖慢了我们的项目进度。） |
+| maze                    | /meɪz/             | n      | 迷宫。（名词）                                               | We got lost in the maze of narrow streets.（我们在狭窄街道组成的迷宫中迷失了方向。） |
+| labyrinthine            | /læbˈɪrɪnθɪn/      | adj    | 迷宫般的、曲折复杂的。（形容词）                             | The labyrinthine corridors of the palace confused visitors.（宫殿里迷宫般的走廊让游客们困惑不已。） |
+| byzantine empire        | /bɪˈzæntaɪn ˈempaɪər/ | n      | 拜占庭帝国。（名词短语）                                     | The Byzantine Empire lasted for over a thousand years.（拜占庭帝国延续了一千多年。） |
+| byzantine architecture   | /bɪˈzæntaɪn ɑːrˈkɪtektʃər/ | n      | 拜占庭建筑。（名词短语）                                     | Byzantine architecture is known for its domes and mosaics.（拜占庭建筑以其圆顶和马赛克而闻名。） |
+| byzantine art           | /bɪˈzæntaɪn ɑːrt/  | n      | 拜占庭艺术。（名词短语）                                     | Byzantine art features religious themes and gold backgrounds.（拜占庭艺术以宗教主题和金色背景为特色。） |
+| byzantine politics       | /bɪˈzæntaɪn ˈpɑːlɪtɪks/ | n      | 拜占庭政治。（名词短语）                                     | Byzantine politics involved complex intrigues.（拜占庭政治涉及复杂的阴谋。） |
+
+### 分组 4: 关于 "cache" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| cache               | /kæʃ/              | n/v    | 储藏、隐藏；储藏库、缓存。（名词或动词）                     | The hikers kept a food cache for emergencies.（徒步旅行者为紧急情况准备了一个食物储藏。） |
+| cachette            | /kæˈʃɛt/           | n      | 秘密储藏处。（名词）                                         | The spy hid documents in a cachette behind the mirror.（间谍在镜子后面的一个秘密储藏处藏匿文件。） |
+| cachet              | /kæˈʃeɪ/           | n      | 印记、特征；声望、魅力。（名词）                             | The restaurant has a cachet among locals.（这家餐馆在当地人中有很高的声望。） |
+| hide                | /haɪd/             | v      | 隐藏、遮蔽。（动词）                                         | The children played hide-and-seek in the garden.（孩子们在花园里玩捉迷藏。） |
+| stash               | /stæʃ/             | v/n    | 藏匿、隐秘储存；藏匿的地方。（动词或名词）                   | The smugglers stashed the goods in a secret location.（走私者把货物藏在一个秘密地点。） |
+| store               | /stɔːr/            | v/n    | 储存、存储；商店。（动词或名词）                             | She stored her winter clothes in the attic.（她把冬衣储存在阁楼里。） |
+| conceal             | /kənˈsiːl/         | v      | 隐瞒、掩盖。（动词）                                         | He tried to conceal his nervousness during the interview.（他在面试中试图掩饰自己的紧张。） |
+| secret              | /ˈsiːkrət/         | adj/n  | 秘密的；秘密。（形容词或名词）                               | The agent revealed a state secret.（特工揭露了一个国家机密。） |
+| cache memory        | /kæʃ ˈmeməri/      | n      | 缓存内存。（名词短语）                                       | Cache memory speeds up data access.（缓存内存加速了数据访问速度。） |
+| weapon cache        | /ˈwɛpən kæʃ/       | n      | 武器库。（名词短语）                                         | Authorities discovered a hidden weapon cache.（当局发现了一个隐藏的武器库。） |
+| food cache          | /fud kæʃ/          | n      | 食物储藏。（名词短语）                                       | Bears build up a food cache for winter.（熊为冬天建立食物储备。） |
+| cache site          | /kæʃ saɪt/         | n      | 缓存站点。（名词短语）                                       | The web page uses a cache site to improve loading speed.（网页使用缓存站点来提高加载速度。） |
