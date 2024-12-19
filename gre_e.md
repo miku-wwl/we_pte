@@ -1203,3 +1203,702 @@
 | scalar              | /ˈskeɪ.lər/         | adj/n  | 标量的；标量。（形容词或名词）                               | In physics, temperature is a scalar quantity.（在物理学中，温度是一个标量量。） |
 
 以上是根据给定词汇的含义和词根关系进行的分类整理。每个单词都提供了音标、词性、解释以及一个例句。如果有任何特定需求或者需要进一步的信息，请告知。
+
+
+根据提供的词汇列表，我将按照词根和含义的关联性进行分类整理，并归档如下：
+
+### 分组 131: 关于 "eschew" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| eschew              | /ɪsˈtʃuː/           | v      | 避免、不采用（尤指不好的事物）。（动词）                     | He decided to eschew fast food for healthier options.（他决定避免快餐，选择更健康的食物。） |
+| avoid               | /əˈvɔɪd/            | v      | 避免、躲避。（动词）                                         | It's important to avoid distractions when studying.（学习时避免分心很重要。） |
+| shun                | /ʃʌn/               | v      | 回避、避开。（动词）                                         | She tends to shun social gatherings.（她倾向于回避社交聚会。） |
+| abstain             | /æbˈsteɪn/          | v      | 戒除、节制不做某事。（动词）                                 | Many people choose to abstain from alcohol during certain times.（许多人选择在某些时候戒酒。） |
+| refrain             | /rɪˈfreɪn/          | v      | 克制、抑制自己做某事。（动词）                               | Please refrain from smoking in the building.（请勿在建筑物内吸烟。） |
+| dodge               | /dɒdʒ/              | v      | 规避、躲闪。（动词）                                         | He had to dodge the ball that was thrown at him.（他不得不躲开扔给他的球。） |
+| evade               | /ɪˈveɪd/            | v      | 逃避、规避（责任、义务等）。（动词）                         | The suspect managed to evade capture by the police.（嫌疑人设法逃避了警方的抓捕。） |
+| elude               | /ɪˈluːd/            | v      | 逃避、摆脱（难以抓住的事物或人）。（动词）                   | The butterfly eluded my attempts to photograph it.（那只蝴蝶逃脱了我的拍照尝试。） |
+
+### 分组 132: 关于 "esoteric" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| esoteric            | /ˌɛs.əˈter.ɪk/      | adj    | 深奥的、难懂的；限于少数人的。（形容词）                     | The book contains many esoteric concepts that are hard to understand.（这本书包含了许多难以理解的深奥概念。） |
+| exoteric            | /ˌɛks.əˈter.ɪk/     | adj    | 外行的、大众的（与“esoteric”相对）。（形容词）               | His writings have both esoteric and exoteric elements.（他的作品既有深奥的一面也有通俗易懂的一面。） |
+| endogenous          | /ɛnˈdɒdʒ.ə.nəs/    | adj    | 内生的、内在产生的。（形容词）                               | The plant exhibits endogenous growth patterns.（这种植物表现出内生增长模式。） |
+| exogenous           | /ɛkˈsɒdʒ.ə.nəs/     | adj    | 外来的、外部产生的。（形容词）                               | Exogenous factors like weather can affect crop yields.（像天气这样的外在因素可以影响作物产量。） |
+| esoterica           | /ˌɛs.əˈter.i.kə/    | n      | 深奥的知识或物品的集合。（名词）                             | The library has a special section dedicated to esoterica.（图书馆有一个专门收藏深奥知识和物品的区域。） |
+
+### 分组 133: 关于 "espouse" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| espouse             | /ɪˈspaʊz/           | v      | 支持、拥护；结婚（古语）。（动词）                           | She decided to espouse the cause of environmental protection.（她决定支持环境保护事业。） |
+| sponsor             | /ˈspɒn.sər/         | n/v    | 赞助者；赞助。（名词或动词）                                 | The event was sponsored by several local businesses.（这个活动由几家当地企业赞助。） |
+| spouse              | /spaʊs/             | n      | 配偶。（名词）                                               | After the wedding, they became spouses.（婚礼后，他们成为了配偶。） |
+| ponder              | /ˈpɒnd.ər/          | v      | 沉思、仔细考虑。（动词）                                     | He took some time to ponder his next move.（他花了一些时间思考下一步该怎么走。） |
+| response            | /rɪˈspɒns/           | n      | 回应、反应。（名词）                                         | The response to the new policy was mostly positive.（对新政策的反应大多是积极的。） |
+| responsible         | /rɪˈspɒns.ə.bəl/    | adj    | 负责的、有责任感的。（形容词）                               | Being responsible is an important quality in a leader.（负责任是一个领导者的重要品质。） |
+| responsive          | /rɪˈspɒns.ɪv/       | adj    | 反应灵敏的、有回应的。（形容词）                             | The company is very responsive to customer needs.（这家公司对客户需求反应非常灵敏。） |
+
+以上是根据给定词汇的含义和词根关系进行的分类整理。每个单词都提供了音标、词性、解释以及一个例句。如果有任何特定需求或者需要进一步的信息，请告知。
+
+根据提供的词汇列表，我将按照词根和含义的关联性进行分类整理，并归档如下：
+
+### 分组 134: 关于 "ethereal" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| ethereal            | /ɪˈθɪr.i.əl/        | adj    | 轻盈的、空灵的；似空气般的。（形容词）                       | The music had an ethereal quality that made it seem otherworldly.（这段音乐有一种空灵的特质，使它显得超凡脱俗。） |
+| ether               | /ˈiːð.ər/           | n      | （古语）以太、太空中的稀薄物质。（名词）                     | In ancient times, ether was considered the element of the heavens.（在古代，以太被认为是天界的元素。） |
+| aetherial           | /ɪˈθɪr.i.əl/        | adj    | 同“ethereal”，指与以太有关的。（形容词）                     | The aetherial light seemed to come from nowhere.（这种空灵的光芒似乎来自虚无。） |
+| atmosphere          | /ˈæt.mə.sfɪr/       | n      | 大气层；气氛、氛围。（名词）                                 | The restaurant has a cozy and inviting atmosphere.（这家餐厅有一种温馨而诱人的氛围。） |
+| celestial           | /səˈlestʃ.əl/       | adj    | 天上的、天体的。（形容词）                                   | The celestial bodies in the night sky inspire wonder.（夜空中天体令人赞叹不已。） |
+| astral              | /ˈæs.trəl/          | adj    | 星辰的、星体的。（形容词）                                   | Astral projections are often discussed in mystical contexts.（星辰投射常常在神秘的背景下讨论。） |
+
+### 分组 135: 关于 "ethics" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| ethics              | /ˈɛθ.ɪks/           | n      | 伦理学、道德规范。（名词）                                   | Ethics is a branch of philosophy dealing with moral principles.（伦理学是处理道德原则的哲学分支。） |
+| ethical             | /ˈɛθ.ɪ.kəl/         | adj    | 符合伦理的、道德的。（形容词）                               | Ethical considerations guide many decisions in business.（道德考量指导了许多商业决策。） |
+| unethical           | /ʌnˈɛθ.ɪ.kəl/       | adj    | 不道德的、不符合伦理的。（形容词）                           | Unethical behavior can lead to serious consequences.（不道德的行为可能会导致严重的后果。） |
+| ethicist            | /ˈɛθ.ɪ.sɪst/        | n      | 伦理学家。（名词）                                           | The ethicist gave a lecture on the importance of integrity.（这位伦理学家发表了一篇关于诚信重要性的演讲。） |
+| bioethics           | /ˌbaɪ.oʊˈɛθ.ɪks/    | n      | 生物伦理学。（名词）                                         | Bioethics addresses the moral issues in medical research.（生物伦理学处理医学研究中的道德问题。） |
+| business ethics     | /ˈbɪznəs ˈɛθ.ɪks/   | n      | 商业伦理。（名词短语）                                       | Business ethics ensures fair practices in commerce.（商业伦理确保了商业中的公平实践。） |
+
+### 分组 136: 关于 "eulogize" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| eulogize            | /ˈjuː.lə.dʒaɪz/     | v      | 赞美、颂扬。（动词）                                         | She decided to eulogize her mentor at the conference.（她决定在会议上赞美她的导师。） |
+| eulogy              | /ˈjuː.lə.dʒi/       | n      | 悼词、颂辞。（名词）                                         | The eulogy was heartfelt and moved everyone present.（这篇悼词发自肺腑，感动了在场的每一个人。） |
+| logos               | /ˈloʊɡɒs/           | n      | （哲学）理性、道理；（神学）道。（名词）                     | In Greek philosophy, logos refers to the principle of reason.（在希腊哲学中，logos指的是理性原则。） |
+| apology             | /əˈpɒl.ə.dʒi/       | n      | 道歉、谢罪。（名词）                                         | He offered a sincere apology for his actions.（他为自己的行为表示诚挚的歉意。） |
+| dialogue            | /ˈdaɪ.ə.lɒɡ/        | n/v    | 对话、交谈；对话形式的作品。（名词或动词）                   | The dialogue between the characters was witty and engaging.（角色之间的对话机智且引人入胜。） |
+| monologue           | /ˈmɒn.ə.lɒɡ/        | n      | 独白、独角戏。（名词）                                       | The actor delivered a powerful monologue during the play.（演员在剧中献上了一段有力的独白。） |
+
+### 分组 137: 关于 "euphemism" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| euphemism           | /ˈjuː.fə.mɪz.əm/    | n      | 委婉语、婉转表达。（名词）                                   | Using "passed away" instead of "died" is a common euphemism.（用“过世”代替“死亡”是一种常见的委婉语。） |
+| phone               | /foʊn/              | n      | 电话；（语音学）音素。（名词）                               | I called him on my mobile phone.（我用手机给他打了电话。） |
+| phonetic           | /fəˈnet.ɪk/         | adj    | 音标的、发音的。（形容词）                                   | Phonetic spelling helps in learning pronunciation.（音标拼写有助于学习发音。） |
+| symphony            | /ˈsɪmf.ə.ni/        | n      | 交响乐、和谐。（名词）                                       | The orchestra performed a beautiful symphony last night.（昨晚乐团演奏了一首美丽的交响乐。） |
+| microphone          | /ˈmaɪ.kroʊ.fəʊn/    | n      | 微型扩音器、麦克风。（名词）                                 | The singer adjusted the microphone before starting to sing.（歌手开始唱歌前调整了麦克风。） |
+| euphony             | /ˈjuː.fə.ni/        | n      | 和谐悦耳的声音。（名词）                                     | The poem's words create a sense of euphony.（这首诗的词语营造出一种和谐悦耳的感觉。） |
+| cacophony           | /kəˈkɒf.ə.ni/       | n      | 刺耳的声音、不和谐音。（名词）                               | The construction site was filled with cacophony all day.（建筑工地整天充满了刺耳的声音。） |
+| homophone           | /ˈhɒm.ə.fəʊn/       | n      | 同音异义词。（名词）                                         | "Flour" and "flower" are examples of homophones.（“面粉”和“花”是同音异义词的例子。） |
+| telephone           | /ˈtɛl.ɪ.fəʊn/       | n      | 电话。（名词）                                               | Please leave a message after the beep on the telephone.（请在电话提示音后留言。） |
+| megaphone           | /ˈmɛɡ.ə.fəʊn/       | n      | 扩音喇叭。（名词）                                           | The coach used a megaphone to be heard over the crowd.（教练使用扩音喇叭让声音盖过人群。） |
+
+以上是根据给定词汇的含义和词根关系进行的分类整理。每个单词都提供了音标、词性、解释以及一个例句。如果有任何特定需求或者需要进一步的信息，请告知。
+
+
+根据提供的词汇列表，我将按照词根和含义的关联性进行分类整理，并归档如下：
+
+### 分组 138: 关于 "euphonious" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| euphonious          | /juːˈfəʊ.ni.əs/     | adj    | 悦耳的、和谐的。（形容词）                                   | The choir's performance was truly euphonious.（合唱团的表演确实悦耳动听。） |
+| phone               | /foʊn/              | n      | 电话；（语音学）音素。（名词）                               | I called her on my mobile phone.（我用手机给她打了电话。） |
+| phonetic            | /fəˈnet.ɪk/         | adj    | 音标的、发音的。（形容词）                                   | Phonetic spelling helps children learn to read.（音标拼写帮助孩子们学习阅读。） |
+| symphony            | /ˈsɪmf.ə.ni/        | n      | 交响乐、和谐。（名词）                                       | The orchestra performed a beautiful symphony last night.（昨晚乐团演奏了一首美丽的交响乐。） |
+| microphone          | /ˈmaɪ.kroʊ.fəʊn/    | n      | 微型扩音器、麦克风。（名词）                                 | The singer adjusted the microphone before starting to sing.（歌手开始唱歌前调整了麦克风。） |
+| euphony             | /ˈjuː.fə.ni/        | n      | 和谐悦耳的声音。（名词）                                     | The poem's words create a sense of euphony.（这首诗的词语营造出一种和谐悦耳的感觉。） |
+| cacophony           | /kəˈkɒf.ə.ni/       | n      | 刺耳的声音、不和谐音。（名词）                               | The construction site was filled with cacophony all day.（建筑工地整天充满了刺耳的声音。） |
+| homophone           | /ˈhɒm.ə.fəʊn/       | n      | 同音异义词。（名词）                                         | "Flour" and "flower" are examples of homophones.（“面粉”和“花”是同音异义词的例子。） |
+| telephone           | /ˈtɛl.ɪ.fəʊn/       | n      | 电话。（名词）                                               | Please leave a message after the beep on the telephone.（请在电话提示音后留言。） |
+| megaphone           | /ˈmɛɡ.ə.fəʊn/       | n      | 扩音喇叭。（名词）                                           | The coach used a megaphone to be heard over the crowd.（教练使用扩音喇叭让声音盖过人群。） |
+
+### 分组 139: 关于 "euphoria" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| euphoria            | /juːˈfɔːr.i.ə/      | n      | 兴奋、极度愉快的情绪。（名词）                               | Winning the prize brought him a brief moment of euphoria.（赢得奖品让他感到一阵短暂的兴奋。） |
+| eulogy              | /ˈjuː.lə.dʒi/       | n      | 悼词、颂辞。（名词）                                         | The eulogy was heartfelt and moved everyone present.（这篇悼词发自肺腑，感动了在场的每一个人。） |
+| euthanasia          | /ˌjuːθəˈneɪ.zi.ə/   | n      | 安乐死。（名词）                                             | In some countries, euthanasia is a controversial topic.（在一些国家，安乐死是一个有争议的话题。） |
+| utopia              | /juːˈtoʊ.pi.ə/      | n      | 乌托邦、理想社会。（名词）                                   | The book describes a utopia where everyone lives in harmony.（这本书描述了一个每个人和谐共处的乌托邦。） |
+| dysphoria           | /dɪsˈfɔːr.i.ə/      | n      | 痛苦、不安的情绪。（名词）                                   | She experienced intense dysphoria during the stormy weather.（在暴风雨天气中，她经历了强烈的痛苦情绪。） |
+| phoresy             | /ˈfɔːr.ə.si/        | n      | （生物学）共生关系中一方利用另一方进行运输的现象。（名词）   | Phoresy is common among certain species of insects.（某些昆虫物种之间普遍存在这种共生运输现象。） |
+
+### 分组 140: 关于 "evacuate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| evacuate            | /ɪˈvæk.ju.eɪt/      | v      | 疏散、撤离。（动词）                                         | They had to evacuate the building due to a fire alarm.（由于火警，他们不得不疏散大楼。） |
+| vacant              | /ˈveɪ.kənt/         | adj    | 空的、无人居住的。（形容词）                                 | The office was vacant after the company moved out.（公司搬走后，办公室空置了。） |
+| vacancy             | /ˈveɪ.kən.si/       | n      | 空缺、空位。（名词）                                         | There is a vacancy for a marketing manager at the firm.（公司有一个市场经理职位空缺。） |
+| vacuum              | /ˈvæk.ju.əm/        | n      | 真空；吸尘器。（名词）                                       | The vacuum cleaner picked up all the dirt from the carpet.（吸尘器把地毯上的所有灰尘都吸走了。） |
+| vacation            | /vəˈkeɪ.ʃən/        | n      | 假期、休假。（名词）                                         | We're planning our summer vacation next week.（我们正在计划下周的暑假。） |
+| vacate              | /ˈveɪ.keɪt/         | v      | 离开、腾出。（动词）                                         | The tenants were asked to vacate the apartment by the end of the month.（租户被要求在月底前腾出公寓。） |
+
+### 分组 141: 关于 "evanescent" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| evanescent          | /ɪˈvæn.ə.sənt/      | adj    | 转瞬即逝的、易消逝的。（形容词）                             | The beauty of the sunset was evanescent but unforgettable.（日落的美丽转瞬即逝但令人难忘。） |
+| vanish              | /ˈvæn.ɪʃ/           | v      | 消失、突然不见。（动词）                                     | The magician made the rabbit vanish in an instant.（魔术师让兔子瞬间消失。） |
+| evanescence         | /ɪˌvæn.əˈsens/       | n      | 消逝、渐渐消失的状态。（名词）                               | The evanescence of childhood memories can be bittersweet.（童年记忆的消逝可能是苦乐参半的。） |
+| fleeting            | /ˈfliː.tɪŋ/         | adj    | 稍纵即逝的、短暂的。（形容词）                               | Fleeting moments of joy can brighten even the darkest days.（稍纵即逝的快乐时刻可以使最黑暗的日子变得明亮。） |
+| ephemeral           | /ɪˈfɛm.ər.əl/       | adj    | 短暂的、朝生暮死的。（形容词）                               | Ephemeral flowers bloom and fade within a single day.（朝生暮死的花朵在一天内绽放又凋谢。） |
+| transient           | /ˈtræn.zi.ənt/      | adj    | 短暂的、过渡性的。（形容词）                                 | The transient nature of life teaches us to cherish every moment.（生命的短暂性教会我们要珍惜每一刻。） |
+| momentary           | /ˈmoʊ.mən.tər.i/    | adj    | 瞬间的、片刻的。（形容词）                                   | He felt a momentary pang of guilt.（他感到片刻的愧疚。） |
+| impermanent         | /ɪmˈpɜːr.mən.ənt/   | adj    | 不永久的、临时的。（形容词）                                 | The tent provided only impermanent shelter.（帐篷只提供了临时的庇护所。） |
+
+以上是根据给定词汇的含义和词根关系进行的分类整理。每个单词都提供了音标、词性、解释以及一个例句。如果有任何特定需求或者需要进一步的信息，请告知。
+
+
+根据提供的词汇列表，我将按照词根和含义的关联性进行分类整理，并归档如下：
+
+### 分组 142: 关于 "exasperate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exasperate          | /ɪɡˈzæs.pə.reɪt/    | v      | 激怒、使恼火。（动词）                                       | His constant interruptions exasperated the speaker.（他不断的打断激怒了演讲者。） |
+| asperity            | /æsˈpɛr.ɪ.ti/       | n      | 粗糙；严厉、苛刻。（名词）                                   | The teacher's asperity in tone made students uneasy.（老师语气中的严厉让学生感到不安。） |
+| exasperation        | /ɪɡˌzæs.pəˈreɪ.ʃən/ | n      | 恼怒、极度不满。（名词）                                     | She expressed her exasperation with a loud sigh.（她用一声长叹表达了她的极度不满。） |
+| persevere           | /ˌpɜːrs.əˈvɪr/       | v      | 坚持不懈、不屈不挠。（动词）                                 | Despite difficulties, she persevered in her studies.（尽管困难重重，她仍然坚持不懈地学习。） |
+
+### 分组 143: 关于 "excavate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| excavate            | /ˈɛks.kə.veɪt/      | v      | 挖掘、开掘。（动词）                                         | Archaeologists carefully excavate ancient sites.（考古学家小心翼翼地挖掘古代遗址。） |
+| cave                | /keɪv/              | n      | 山洞、洞穴。（名词）                                         | They explored a vast network of caves.（他们探索了一个庞大的洞穴网络。） |
+| cavity              | /ˈkæv.ɪ.ti/         | n      | 空腔、洞。（名词）                                           | The dentist found a cavity in his tooth.（牙医在他的牙齿上发现了一个洞。） |
+| concave             | /ˈkɒn.keɪv/         | adj    | 凹形的。（形容词）                                           | The mirror had a concave surface to focus light.（镜子有一个凹面用来聚焦光线。） |
+| excavation          | /ˌɛks.kəˈveɪ.ʃən/   | n      | 挖掘、发掘行动或过程。（名词）                               | The excavation of the site took several months.（这个遗址的挖掘工作持续了几个月。） |
+| excavator           | /ˈɛks.kəˌveɪ.tər/   | n      | 挖掘机、挖掘机操作员。（名词）                               | The excavator was used to dig a large hole.（挖掘机被用来挖一个大洞。） |
+| cavitation          | /ˌkæv.iˈteɪ.ʃən/    | n      | 气蚀、空化现象。（名词）                                     | Cavitation can cause damage to pumps and turbines.（气蚀可能会损坏泵和涡轮机。） |
+| cavalcade           | /ˈkæv.ə.leɪd/       | n      | 骑兵队列、游行队伍。（名词）                                 | A cavalcade of cars drove through the city for the parade.（为庆祝游行，一队汽车穿过城市。） |
+
+### 分组 144: 关于 "exceptional" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exceptional         | /ɪkˈsep.ʃə.nl/      | adj    | 异常的、杰出的。（形容词）                                   | He showed exceptional talent from a young age.（他从小就展现出非凡的才能。） |
+| except              | /ɪkˈsept/           | prep/v | 除...之外；除外。（介词或动词）                             | Everyone was invited except John.（所有人都被邀请了，除了约翰。） |
+| exception           | /ɪkˈsep.ʃən/        | n      | 例外、除外的事物。（名词）                                  | There are no exceptions to this rule.（这条规则没有例外。） |
+| excepting           | /ɪkˈsept.ɪŋ/        | prep   | 除...之外（较正式或文学性的“except”形式）。（介词）         | All were present excepting the CEO who was abroad.（所有人都出席了，除了在国外的CEO。） |
+| exceptionable        | /ɪkˈsep.ʃə.nə.bəl/ | adj    | 可以反对的、有争议的。（形容词）                            | Some found the policy exceptionable on ethical grounds.（一些人基于道德理由认为这项政策是有争议的。） |
+| exceptionally       | /ɪkˈsep.ʃə.nl.i/    | adv    | 异常地、特别地。（副词）                                     | The results were exceptionally good.（结果异常好。） |
+| exceptionalism      | /ɪkˈsep.ʃə.nl.ɪz.əm/| n      | 例外主义、特殊论。（名词）                                  | American exceptionalism is a belief that the U.S. has a unique mission.（美国例外主义是一种认为美国具有独特使命的信念。） |
+
+### 分组 145: 关于 "excoriate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| excoriate           | /ɪkˈskɔːr.i.eɪt/    | v      | 痛斥、严厉批评。（动词）                                     | The critics excoriated the film for its poor quality.（评论家痛斥这部电影质量差。） |
+| crucify             | /ˈkruː.sɪ.faɪ/      | v      | 钉死在十字架上；（比喻）严厉批评。（动词）                   | Public opinion seemed to crucify him for his mistakes.（公众舆论似乎因为他犯下的错误而对他进行了猛烈批评。） |
+| crucifix            | /ˈkruː.sɪ.fɪks/     | n      | 十字架（通常带有耶稣像）。（名词）                           | The church displayed an ornate crucifix above the altar.（教堂在祭坛上方展示了一个华丽的十字架。） |
+| crucible            | /ˈkruː.sɪ.bəl/      | n      | 冶金用坩埚；严峻考验。（名词）                               | The new alloy was tested in a crucible at high temperatures.（这种新合金在高温坩埚中进行了测试。） |
+| excruciating        | /ɪkˈskruː.ʃi.eɪ.tɪŋ/| adj    | 极度痛苦的。（形容词）                                       | She endured excruciating pain during the surgery.（她在手术过程中忍受了极度的痛苦。） |
+| crucial             | /ˈkruː.ʃəl/         | adj    | 至关重要的、决定性的。（形容词）                             | This decision is crucial for the company's future.（这个决定对公司的未来至关重要。） |
+| cruciferous         | /ˈkruː.sɪ.fə.rəs/   | adj    | 十字花科的。（形容词）                                       | Broccoli and cauliflower are examples of cruciferous vegetables.（西兰花和花椰菜是十字花科蔬菜的例子。） |
+| recrudesce          | /riːˈkrʌd.ɪs/       | v      | 复发、再度出现（尤指疾病）。（动词）                         | After treatment, the disease recrudesced unexpectedly.（治疗后，疾病意外复发。） |
+
+以上是根据给定词汇的含义和词根关系进行的分类整理。每个单词都提供了音标、词性、解释以及一个例句。如果有任何特定需求或者需要进一步的信息，请告知。
+
+
+
+根据提供的词汇列表，我将按照词根和含义的关联性进行分类整理，并归档如下：
+
+### 分组 146: 关于 "excrete" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| excrete             | /ɪkˈskriːt/         | v      | 排泄、分泌（废物或不需要的物质）。（动词）                   | Plants excrete oxygen as a byproduct of photosynthesis.（植物在光合作用过程中排泄氧气作为副产品。） |
+| excretion           | /ɛksˈkriːʃən/       | n      | 排泄作用、排泄物。（名词）                                   | The kidneys play a major role in excretion.（肾脏在排泄中起着重要作用。） |
+| secrete             | /sɪˈkrit/           | v      | 分泌（液体等）。（动词）                                     | Glands secrete hormones into the bloodstream.（腺体将激素分泌到血液中。） |
+| secretion           | /sɪˈkriːʃən/        | n      | 分泌作用、分泌物。（名词）                                   | The salivary glands are responsible for saliva secretion.（唾液腺负责唾液的分泌。） |
+
+### 分组 147: 关于 "excruciate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| excruciate          | /ɪkˈskruːʃi.eɪt/    | v      | 极度痛苦；折磨。（动词）                                     | He was excruciated by the intense pain from his injury.（他因伤势带来的剧烈疼痛而备受折磨。） |
+| corium              | /ˈkɔːr.i.əm/        | n      | （解剖学）真皮层。（名词）                                   | The corium contains blood vessels and nerve endings.（真皮层包含血管和神经末梢。） |
+| incoriate           | /ˌɪnkəˈriːeɪt/      | v      | （罕见）使...坚硬如皮革；比喻：严厉批评。（动词）            | The critics incoriated the film's lack of depth.（评论家严厉批评了这部电影缺乏深度。） |
+| excoriate           | /ɪkˈskɔːr.i.eɪt/    | v      | 痛斥、严厉批评。（动词）                                     | The critics excoriated the film for its poor quality.（评论家痛斥这部电影质量差。） |
+| castigate           | /ˈkæst.ɪ.geɪt/     | v      | 批评、惩罚。（动词）                                         | The teacher castigated the student for cheating on the test.（老师因为考试作弊而批评学生。） |
+| vituperate          | /vɪˈtuː.pə.reɪt/    | v      | 痛骂、恶语中伤。（动词）                                     | She vituperated against the unfair treatment she received.（她对所受到的不公平待遇进行了痛骂。） |
+| censure             | /ˈsɛn.ʃər/          | v/n    | 谴责、非难；谴责的行为。（动词/名词）                        | The committee decided to censure the member for misconduct.（委员会决定谴责该成员的不当行为。） |
+| rebuke              | /rɪˈbjuːk/          | v      | 责备、训斥。（动词）                                         | His parents rebuked him for coming home late.（他的父母因为他晚归而责备他。） |
+
+### 分组 148: 关于 "exculpate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exculpate           | /ɪkˈskʌl.peɪt/      | v      | 证明...无罪、开脱。（动词）                                 | New evidence helped to exculpate the suspect.（新证据帮助证明嫌疑人无罪。） |
+| culprit             | /ˈkʌl.prɪt/         | n      | 罪犯、责任人。（名词）                                       | The police identified the culprit behind the crime.（警方确认了犯罪背后的罪犯。） |
+| inculpate           | /ɪnˈkʌl.peɪt/       | v      | 指责、指控。（动词）                                         | Evidence began to inculpate the suspect in the crime.（证据开始指责嫌疑人在犯罪中的角色。） |
+| culpable            | /ˈkʌl.pə.bəl/       | adj    | 有责任的、应受责备的。（形容词）                             | The driver was found culpable for the accident.（司机被认定应对事故负责。） |
+| inculpation         | /ɪnˌkʌl.peɪˈʃən/    | n      | 指控、指责。（名词）                                         | There was no clear inculpation against the accused.（没有明确的指控针对被告。） |
+| exculpation         | /ɛksˌkʌl.peɪˈʃən/   | n      | 开脱、免责。（名词）                                         | The lawyer argued for exculpation based on new findings.（律师根据新的发现为当事人辩解求免责。） |
+
+### 分组 149: 关于 "excursive" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| excursive           | /ɪkˈskɜːrsɪv/       | adj    | 广泛的、漫游的。（形容词）                                   | An excursive exploration covered many aspects of the topic.（广泛的探索涵盖了这个主题的许多方面。） |
+| cursor              | /ˈkɜːrsər/          | n      | 光标、指示器。（名词）                                       | Move the cursor to select text.（移动光标以选择文本。） |
+| current             | /ˈkɜːrənt/          | adj/n  | 当前的、流通的；水流、电流。（形容词/名词）                  | Stay informed with the latest current events.（通过最新的时事保持消息灵通。） |
+| currency            | /ˈkɜːrənsi/         | n      | 货币、通行状态。（名词）                                     | The euro is the official currency of many European countries.（欧元是许多欧洲国家的官方货币。） |
+| concur              | /kənˈkɜːr/          | v      | 同意、一致。（动词）                                         | We all concur with the decision made by the leader.（我们都同意领导作出的决定。） |
+| concurrence         | /kənˈkɜːrəns/       | n      | 一致、同时发生。（名词）                                     | There was a concurrence of opinion among the experts.（专家们的意见一致。） |
+| recurrent           | /rɪˈkɜːrənt/        | adj    | 反复出现的、周期性的。（形容词）                             | Recurrent headaches can be a sign of stress.（反复出现的头痛可能是压力的征兆。） |
+| precursor           | /ˈpriː.kərsər/     | n      | 前驱、先驱。（名词）                                         | The Renaissance was a precursor to the modern era.（文艺复兴是现代时代的先驱。） |
+| excursion           | /ɪkˈskɜːrʃən/       | n      | 短途旅行、远足。（名词）                                     | They planned an excursion to the mountains for the weekend.（他们计划周末去山里远足。） |
+| incursion           | /ɪnˈkɜːrʃən/        | n      | 侵入、突然闯入。（名词）                                     | Enemy forces made an incursion across the border.（敌军越境侵入。） |
+
+以上是根据给定词汇的含义和词根关系进行的分类整理。每个单词都提供了音标、词性、解释以及一个例句。如果有任何特定需求或者需要进一步的信息，请告知。
+
+
+根据提供的词汇列表，我将按照词根和含义的关联性进行分类整理，并归档如下：
+
+### 分组 150: 关于 "extinct" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| extinct             | /ɪkˈstɪŋkt/         | adj    | 灭绝的、已不存在的。（形容词）                               | The dinosaurs became extinct millions of years ago.（恐龙在数百万年前灭绝了。） |
+| extinguish          | /ɪkˈstɪŋɡ.wɪʃ/     | v      | 扑灭、熄灭。（动词）                                         | Firefighters worked hard to extinguish the blaze.（消防员努力扑灭大火。） |
+| distinguish         | /dɪˈstɪŋɡ.wɪʃ/     | v      | 区分、辨别。（动词）                                         | It's important to distinguish fact from fiction.（区分事实与虚构很重要。） |
+| distinction         | /dɪˈstɪŋk.ʃən/     | n      | 区别、差异；荣誉。（名词）                                   | She received an award in recognition of her distinction in science.（她因在科学上的卓越成就而获得了一项奖项。） |
+| indistinct          | /ˌɪn.dɪˈstɪŋkt/     | adj    | 不清楚的、模糊的。（形容词）                                 | The figure in the distance was indistinct.（远处的人物轮廓模糊不清。） |
+| extinction          | /ɪkˈstɪŋk.ʃən/     | n      | 灭绝、消失。（名词）                                         | The species is facing imminent extinction.（这个物种正面临即将灭绝的危险。） |
+| inextinguishable    | /ɪnɪkˈstɪŋɡ.wɪʃ.ə.bəl/ | adj  | 无法扑灭的、不可毁灭的。（形容词）                           | The fire proved to be inextinguishable due to the chemicals involved.（由于涉及化学物质，这场火证明是无法扑灭的。） |
+| conspicuous         | /kənˈspɪ.kju.əs/   | adj    | 显著的、引人注目的。（形容词）                               | The building's design is conspicuous for its innovative architecture.（这栋建筑的设计因其创新的建筑风格而引人注目。） |
+| discreet            | /dɪˈskriːt/         | adj    | 谨慎的、慎重的。（形容词）                                   | He was very discreet about his personal life.（他对自己的私生活非常谨慎。） |
+
+### 分组 151: 关于 "extol" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| extol               | /ɪkˈstoʊl/          | v      | 称赞、颂扬。（动词）                                         | The poet extolled the beauty of nature in his work.（诗人在他的作品中颂扬了自然之美。） |
+| extoll              | /ɪkˈstoʊl/          | v      | 同“extol”，称赞、颂扬。（动词）                             | They extolled the bravery of the firefighters.（他们颂扬了消防员的勇敢。） |
+| subtle              | /ˈsʌt.l/            | adj    | 微妙的、难以察觉的。（形容词）                               | Her argument was too subtle for most people to grasp.（她的论点太微妙，大多数人无法理解。） |
+| detain              | /dɪˈteɪn/           | v      | 拘留、耽搁。（动词）                                         | The police decided to detain him overnight.（警方决定拘留他一晚。） |
+| obtain              | /əbˈteɪn/           | v      | 获得、得到。（动词）                                         | He managed to obtain a rare book for his collection.（他设法为自己的收藏获得了一本稀有的书。） |
+| retain              | /rɪˈteɪn/           | v      | 保留、保持。（动词）                                         | She retained her sense of humor even in difficult times.（即使在困难时期，她也保持着幽默感。） |
+| contemn            | /kənˈtem/           | v      | 轻视、鄙视。（动词）                                         | He contemned those who acted without honor.（他轻视那些没有荣誉感行事的人。） |
+
+### 分组 152: 关于 "extort" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| extort              | /ɪkˈstɔːrt/         | v      | 勒索、敲诈。（动词）                                         | Criminals attempted to extort money from the business owner.（罪犯试图勒索该企业主的钱财。） |
+| extortion           | /ɪkˈstɔːr.ʃən/      | n      | 敲诈行为、勒索。（名词）                                     | Extortion is a serious crime punishable by law.（敲诈是一种严重的犯罪行为，法律有相应的惩罚。） |
+| torture             | /ˈtɔːr.tʃər/        | n/v    | 刑讯、折磨；使受折磨。（名词/动词）                           | The prisoner was subjected to torture.（囚犯被施以酷刑。） |
+| contort             | /kənˈtɔːrt/         | v      | 扭曲、歪曲。（动词）                                         | His face contorted with pain.（他的脸因痛苦而扭曲。） |
+| tortuous            | /ˈtɔːr.tʃu.əs/      | adj    | 曲折的、复杂的。（形容词）                                   | The path through the forest was tortuous and difficult to follow.（穿过森林的小径曲折难行。） |
+| distort             | /dɪˈstɔːrt/         | v      | 歪曲、变形。（动词）                                         | The mirror distorted his reflection.（镜子使他的倒影变形。） |
+| torque              | /tɔːrk/             | n      | 力矩、转矩。（名词）                                         | The engine delivers high torque at low speeds.（发动机在低速时提供高扭矩。） |
+
+以上是根据给定词汇的含义和词根关系进行的分类整理。每个单词都提供了音标、词性、解释以及一个例句。如果有任何特定需求或者需要进一步的信息，请告知。
+
+
+
+根据提供的词汇列表，我将按照词根和含义的关联性进行分类整理，并归档如下：
+
+### 分组 153: 关于 "extravagant" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| extravagant         | /ɪkˈstræv.əɡ.ənt/   | adj    | 奢侈的、浪费的。（形容词）                                   | She was known for her extravagant lifestyle and lavish parties.（她以奢侈的生活方式和豪华的派对闻名。） |
+| extravagance        | /ɪkˈstræv.əɡ.əns/   | n      | 奢侈、浪费的行为或习惯。（名词）                             | His extravagance put him into debt.（他的奢侈使他负债。） |
+| vagrant             | /ˈveɪɡ.rənt/        | n      | 流浪汉、无固定居所的人。（名词）                             | The city provided shelter for the homeless and vagrants.（城市为无家可归者和流浪汉提供了庇护所。） |
+| wander              | /ˈwɒn.dər/          | v      | 漫步、徘徊。（动词）                                         | We wandered through the old town, enjoying its charm.（我们漫步在老城中，享受着它的魅力。） |
+| pervasive           | /pərˈveɪ.sɪv/       | adj    | 广泛存在的、普遍的。（形容词）                               | The smell of fresh bread was pervasive throughout the house.（新鲜面包的味道弥漫了整个房子。） |
+| derive              | /dɪˈraɪv/           | v      | 得出、导出；源于。（动词）                                   | Many English words derive from Latin.（许多英语单词源于拉丁语。） |
+| vagary              | /ˈveɪɡ.əri/         | n      | 变幻莫测的事物、古怪念头。（名词）                           | Her mind was full of vagaries and whimsical ideas.（她的脑海中充满了变幻莫测的事物和奇思妙想。） |
+
+### 分组 154: 关于 "extricate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| extricate           | /ɪkˈstrɪ.kət/       | v      | 使解脱、使脱身。（动词）                                     | It took hours to extricate the car from the snowdrift.（花了好几个小时才把车从雪堆中解救出来。） |
+| extrication         | /ɪkˌstrɪ.kəˈʃən/    | n      | 解救、脱身的行为或过程。（名词）                             | The extrication of the trapped hikers required a helicopter.（解救被困的徒步旅行者需要直升机。） |
+| disentangle         | /ˌdɪs.ɛnˈtæŋ.ɡəl/   | v      | 使松开、解开缠结。（动词）                                   | He carefully disentangled the wires.（他小心翼翼地解开了电线。） |
+| unravel             | /ʌnˈræv.əl/         | v      | 解开、拆开；解释清楚。（动词）                               | She unraveled the mystery with careful investigation.（她通过仔细调查解开了这个谜团。） |
+| untangle            | /ʌnˈtæŋ.ɡəl/        | v      | 解开、使不纠缠。（动词）                                     | They worked together to untangle the mess.（他们一起努力解开了这个混乱的局面。） |
+| liberation          | /ˌliː.bəˈreɪ.ʃən/   | n      | 解放、释放。（名词）                                         | The liberation of the country marked the end of the war.（国家的解放标志着战争的结束。） |
+
+### 分组 155: 关于 "exuberant" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exuberant           | /ɪɡˈzuː.bər.ənt/    | adj    | 充满活力的、热情洋溢的。（形容词）                           | The children were exuberant at the sight of the playground.（孩子们一看到操场就变得充满活力。） |
+| superb              | /sʊˈpɜːrb/          | adj    | 极好的、杰出的。（形容词）                                   | The performance was simply superb.（演出简直太棒了。） |
+| abundant            | /əˈbʌnd.ənt/        | adj    | 丰富的、充裕的。（形容词）                                   | The region is abundant in natural resources.（该地区自然资源丰富。） |
+| intoxicant          | /ɪnˈtɒks.ɪ.kənt/    | n      | 醉人的物质、使人兴奋的东西。（名词）                         | Alcohol is a common intoxicant at parties.（酒精是聚会中常见的令人兴奋的物质。） |
+| tolerant            | /ˈtɒl.ər.ənt/       | adj    | 宽容的、容忍的。（形容词）                                   | A tolerant society values diversity.（一个宽容的社会重视多样性。） |
+| vibrant             | /ˈvaɪ.brənt/        | adj    | 生机勃勃的、充满活力的。（形容词）                           | The market was vibrant with colors and sounds.（市场充满色彩和声音，生机勃勃。） |
+
+### 分组 156: 关于 "exude" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exude               | /ɪɡˈzjuːd/          | v      | 渗出、分泌；表现出（情感等）。（动词）                       | She exuded confidence as she walked onto the stage.（她走上舞台时表现出十足的信心。） |
+| exudation           | /ˌɛks.juːˈdeɪ.ʃən/  | n      | 渗出作用、渗出物。（名词）                                   | Exudation from the wound was treated by the doctor.（医生治疗了伤口的渗出物。） |
+| exudative           | /ɪɡˈzjuː.də.tɪv/    | adj    | 有渗出特性的。（形容词）                                     | The plant has exudative properties that help it survive dry conditions.（这种植物具有渗出特性，有助于它在干燥条件下生存。） |
+
+以上是根据给定词汇的含义和词根关系进行的分类整理。每个单词都提供了音标、词性、解释以及一个例句。如果有任何特定需求或者需要进一步的信息，请告知。
+
+
+
+
+根据您提供的词汇列表，我将按照相关性对这些词汇进行分类整理，并补充必要的音标、词性和解释信息。以下是分组归档后的词汇：
+
+### 分组 310: 关于 "esoteric" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| esoteric            | /ˌɛsəˈtɛrɪk/        | adj    | 深奥的、难懂的；限于少数人的。（形容词）                      | The lecture covered some esoteric concepts in physics.（讲座涵盖了一些物理学中的深奥概念。） |
+| exoteric            | /ˌɛksəˈtɛrɪk/       | adj    | 浅显易懂的；大众化的。（形容词）                             | His exoteric works are more accessible to the general public.（他的浅显作品更容易被大众接受。） |
+| endogenous          | /ɛnˈdɒdʒɪnəs/       | adj    | 内生的、内部产生的。（形容词）                               | Endogenous growth is driven by factors within the economy.（内生增长是由经济内部的因素驱动的。） |
+| exogenous           | /ɛkˈsɒdʒɪnəs/        | adj    | 外生的、外部产生的。（形容词）                               | Exogenous shocks can affect the stability of financial markets.（外生冲击可能影响金融市场的稳定性。） |
+| esoterica           | /ˌɛsəˈtɛrɪkə/       | n      | 深奥的事物或知识。（名词，通常用复数形式）                   | The library's collection includes rare esoterica on ancient philosophies.（图书馆的藏书包括关于古代哲学的稀有深奥资料。） |
+
+### 分组 311: 关于 "espouse" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| espouse             | /ɪˈspaʊz/           | v      | 支持、拥护；结婚。（动词）                                   | She decided to espouse the cause of environmental protection.（她决定支持环境保护事业。） |
+| sponsor             | /ˈspɒnsər/          | n/v    | 赞助者；赞助。（名词或动词）                                 | The company sponsors several local sports teams.（这家公司赞助了几支当地的运动队。） |
+| spouse              | /spaʊz/             | n      | 配偶。（名词）                                               | After the wedding, they became spouses.（婚礼后，他们成为了配偶。） |
+| ponder              | /ˈpɒndər/           | v      | 思考、考虑。（动词）                                         | He took a moment to ponder the question before answering.（他花了一点时间思考这个问题然后才回答。） |
+| response            | /rɪˈspɒns/           | n      | 回应、反应。（名词）                                         | Her response was quick and thoughtful.（她的回应既快又周到。） |
+| responsible         | /rɪˈspɒnsəbl/       | adj    | 有责任的、负责的。（形容词）                                 | He is very responsible in his work.（他在工作中非常负责任。） |
+| responsive          | /rɪˈspɒnsɪv/        | adj    | 反应灵敏的、有响应的。（形容词）                             | The team was responsive to the client's needs.（团队对客户的需求反应灵敏。） |
+
+### 分组 312: 关于 "esteem" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| esteem              | /ɪˈstiːm/           | n/v    | 尊重、敬重；尊重某人。（名词或动词）                         | They hold him in high esteem for his contributions.（由于他的贡献，他们对他十分尊敬。） |
+| estimate            | /ˈɛstɪmət/          | n/v    | 估计、估算；评估。（名词或动词）                             | It's difficult to estimate the cost without all the details.（没有所有细节很难估算成本。） |
+| appraise            | /əˈpreɪz/           | v      | 评估、评价。（动词）                                         | The antique was appraised at a high value.（这古董被估价很高。） |
+| prestige            | /prɪˈstiːʒ/         | n      | 威望、声誉。（名词）                                         | The university has gained great prestige over the years.（这所大学多年来获得了很高的威望。） |
+| esteemed            | /ɪˈstiːmd/          | adj    | 受尊敬的。（形容词）                                         | She is an esteemed member of the community.（她是社区中受尊敬的一员。） |
+
+请注意，某些单词可能具有多种含义或用法，这里只提供了最常见的一种解释和用法。如果您有特定的上下文或者您指的是其他词语，请提供更多信息以便更准确的帮助。
+
+此外，这些词汇在不同的情境中可能会有不同的用法和搭配，因此理解它们的具体应用非常重要。例如，“esoteric”及其相关词汇描述的是与知识层次和来源有关的概念；“espouse”及其相关词汇围绕着支持、赞助和个人关系的主题；而“esteem”及其相关词汇则涉及尊重、评价和威望的概念。
+
+根据您提供的词汇列表，我将按照相关性对这些词汇进行分类整理，并补充必要的音标、词性和解释信息。以下是分组归档后的词汇：
+
+### 分组 313: 关于 "esteem" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| estimable           | /ˈɛstɪməbl/         | adj    | 可尊敬的、值得尊重的。（形容词）                             | She is an estimable person in the community.（她是社区中一位可尊敬的人。） |
+| estimate            | /ˈɛstɪmət/          | n/v    | 估计、估算；评估。（名词或动词）                             | It's difficult to estimate the cost without all the details.（没有所有细节很难估算成本。） |
+| estimation          | /ˌɛstɪˈmeɪʃn/       | n      | 估计、评价。（名词）                                         | His estimation of the situation was quite accurate.（他对情况的估计相当准确。） |
+| esteemed            | /ɪˈstiːmd/          | adj    | 受尊敬的。（形容词）                                         | She is an esteemed member of the community.（她是社区中受尊敬的一员。） |
+| esteem              | /ɪˈstiːm/           | n/v    | 尊重、敬重；尊重某人。（名词或动词）                         | They hold him in high esteem for his contributions.（由于他的贡献，他们对他十分尊敬。） |
+| inestimable         | /ɪnˈɛstɪməbl/       | adj    | 无法估量的、极贵重的。（形容词）                             | The museum houses many inestimable treasures.（博物馆收藏了许多无法估量的宝藏。） |
+| misestimate         | /ˌmɪsˈɛstɪmət/      | v      | 错误估计。（动词）                                           | He misestimated the time it would take to complete the project.（他错误地估计了完成项目所需的时间。） |
+
+### 分组 314: 关于 "estrangment" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| estrange            | /ɪˈstreɪndʒ/        | v      | 使疏远、使隔阂。（动词）                                     | Their friendship began to estrange over time.（他们的友谊随时间推移开始疏远。） |
+| strange             | /streɪndʒ/          | adj/n  | 奇怪的；陌生人。（形容词或名词）                             | The strange noise startled her.（奇怪的声音吓了她一跳。） |
+| stranger            | /ˈstreɪndʒər/       | n      | 陌生人。（名词）                                             | A stranger knocked on the door.（一个陌生人敲门。） |
+| estrangement        | /ɪˈstreɪndʒmənt/    | n      | 疏远、隔阂的状态。（名词）                                   | The estrangement between them grew deeper.（他们之间的疏远变得更加严重。） |
+| extraneous          | /ɪkˈstreɪniəs/      | adj    | 不相干的、多余的。（形容词）                                 | He included several extraneous details in his report.（他在报告中包含了几个不相干的细节。） |
+
+### 分组 315: 关于 "etch" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| etch                | /ɛtʃ/               | v      | 蚀刻、雕刻。（动词）                                         | The artist used acid to etch designs into the glass.（艺术家用酸在玻璃上蚀刻图案。） |
+| etching             | /ˈɛtʃɪŋ/            | n      | 蚀刻、蚀刻画。（名词）                                       | The collection includes several beautiful etchings.（这个收藏包括几幅美丽的蚀刻画。） |
+| engraving           | /ɪnˈɡreɪvɪŋ/        | n      | 雕刻、雕刻作品。（名词）                                     | The museum has a fine collection of old engravings.（博物馆有一批精美的古代雕刻作品。） |
+| corrode             | /kəˈroʊd/           | v      | 腐蚀、侵蚀。（动词）                                         | Acid can corrode metal surfaces.（酸可以腐蚀金属表面。） |
+| erode               | /ɪˈroʊd/            | v      | 侵蚀、磨损。（动词）                                         | Water and wind can erode rock over time.（水和风可以在一段时间内侵蚀岩石。） |
+| excavate            | /ˈɛkskəveɪt/        | v      | 挖掘、发掘。（动词）                                         | Archaeologists excavated the ancient site.（考古学家发掘了古代遗址。） |
+| incise              | /ɪnˈsaɪz/           | v      | 刻划、切割。（动词）                                         | The jeweler carefully incised patterns into the gemstone.（珠宝商小心翼翼地在宝石上刻划图案。） |
+
+### 分组 316: 关于 "eternal" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| eternal             | /ɪˈtɜːrnəl/         | adj    | 永恒的、永久的。（形容词）                                   | Love is often described as eternal.（爱情常被描述为永恒。） |
+| eternity            | /ɪˈtɜːrnɪti/        | n      | 永恒、永生。（名词）                                         | They believe in life after death, or eternity.（他们相信死后的生活，即永生。） |
+| perennial           | /pəˈreniəl/         | adj/n  | 终年不断的、多年生的；（名词）多年生植物。（形容词或名词） | Perennial plants come back year after year.（多年生植物年复一年地生长回来。） |
+| aeon                | /ˈiːɑːn/            | n      | 永恒、时代。（名词）                                         | In geological terms, an aeon represents a vast period of time.（从地质学角度看，一个时代代表一段漫长的时间。） |
+| secular             | /ˈsekjʊlər/         | adj    | 世俗的、非宗教的。（形容词）                                 | Secular education focuses on non-religious subjects.（世俗教育专注于非宗教科目。） |
+
+请注意，某些单词可能具有多种含义或用法，这里只提供了最常见的一种解释和用法。如果您有特定的上下文或者您指的是其他词语，请提供更多信息以便更准确的帮助。
+
+此外，这些词汇在不同的情境中可能会有不同的用法和搭配，因此理解它们的具体应用非常重要。例如，“esteem”及其相关词汇描述的是与尊重和评价有关的概念；“estrangement”及其相关词汇围绕着人际关系的变化和隔阂的主题；“etch”及其相关词汇涉及艺术和技术中的雕刻和腐蚀过程；而“eternal”及其相关词汇则涉及时间和存在的永恒概念。
+
+
+根据您提供的词汇列表，我将按照相关性对这些词汇进行分类整理，并补充必要的音标、词性和解释信息。以下是分组归档后的词汇：
+
+### 分组 317: 关于 "entail" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| entail              | /ɪnˈteɪl/           | v      | 必然导致；需要。（动词）                                     | The job entails a lot of travel.（这份工作需要很多出差。） |
+| detail              | /dɪˈteɪl/           | n/v    | 细节；详细说明。（名词或动词）                               | She provided a detailed account of the events.（她详细描述了事件的经过。） |
+| retail              | /riːˈteɪl/          | n/v    | 零售；零售商品。（名词或动词）                               | The store retails clothing and accessories.（这家商店零售服装和配饰。） |
+| tailor              | /ˈteɪlər/           | n/v    | 裁缝；量身定制。（名词或动词）                               | He tailored his speech to fit the audience.（他根据听众调整了他的演讲。） |
+| entailment          | /ɪnˈteɪlmənt/       | n      | 必然后果；逻辑上的必然结果。（名词）                         | The entailment of the new policy was increased efficiency.（新政策的必然后果是效率提高。） |
+| intail              | /ɪnˈteɪl/           | v      | （法律术语）使财产不可分割地传给继承人。（动词）             | The property was intailed to ensure it remained in the family.（为了确保财产留在家族内，它被设定为不可分割地传给继承人。） |
+
+### 分组 318: 关于 "everlasting" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| everlasting         | /ˈɛvərlɑːstɪŋ/      | adj    | 永恒的、永远的。（形容词）                                   | Her love for him was everlasting.（她对他的爱是永恒的。） |
+| last                | /læst/              | v/n    | 持续；最后一件事。（动词或名词）                             | The concert will last for two hours.（音乐会将持续两小时。） |
+| lasting             | /ˈlæstɪŋ/           | adj    | 持久的、长期的。（形容词）                                   | They formed a lasting friendship.（他们建立了持久的友谊。） |
+| endure              | /ɪnˈdjʊr/           | v      | 忍耐、持续。（动词）                                         | She endured many hardships during her life.（她一生中忍受了许多艰难困苦。） |
+| duration            | /djuːˈreɪʃn/        | n      | 持续时间。（名词）                                           | The duration of the movie is two hours.（这部电影的时长是两小时。） |
+| perennial           | /pəˈreniəl/         | adj/n  | 终年不断的、多年生的；（名词）多年生植物。（形容词或名词） | Perennial plants come back year after year.（多年生植物年复一年地生长回来。） |
+| persistent          | /pərˈsɪstənt/       | adj    | 坚持不懈的、持续的。（形容词）                               | His persistent efforts finally paid off.（他坚持不懈的努力终于得到了回报。） |
+| perpetual           | /pərˈpetʃuəl/       | adj    | 永恒的、连续不断的。（形容词）                               | The garden has perpetual blooms throughout the summer.（花园在整个夏天都有连续不断的花开。） |
+| indefatigable       | /ˌɪndɪˈfætɪɡəbl/    | adj    | 不知疲倦的、精力充沛的。（形容词）                           | An indefatigable worker, she never seemed to tire.（作为一名不知疲倦的工作者，她似乎从不感到疲倦。） |
+| eternal             | /ɪˈtɜːrnəl/         | adj    | 永恒的、永久的。（形容词）                                   | Love is often described as eternal.（爱情常被描述为永恒。） |
+
+### 分组 319: 关于 "evict" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| evict               | /ɪˈvɪkt/            | v      | 驱逐、赶出。（动词）                                         | The landlord decided to evict the tenants.（房东决定驱逐租户。） |
+| vicissitude         | /vɪˈsɪstjuːd/       | n      | 变迁、变化。（名词）                                         | Life is full of vicissitudes.（生活充满了变迁。） |
+| convict             | /kənˈvɪkt/          | v/n    | 定罪；罪犯。（动词或名词）                                   | The court convicted him of theft.（法庭判定他犯有盗窃罪。） |
+| advocate            | /ˈædvəkeɪt/         | v/n    | 提倡、拥护；提倡者。（动词或名词）                           | She advocates for better education policies.（她提倡更好的教育政策。） |
+
+### 分组 320: 关于 "evince" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| evince              | /ɪˈvɪns/            | v      | 显示、表达。（动词）                                         | He evinced great interest in the project.（他对这个项目表现出极大的兴趣。） |
+| convince            | /kənˈvɪns/          | v      | 说服、使相信。（动词）                                       | It took some time to convince her of the plan's merits.（花了一些时间才让她相信这个计划的优点。） |
+| convincible         | /kənˈvɪnsɪbl/       | adj    | 可以说服的。（形容词）                                       | She proved to be convincible by logical arguments.（她证明了可以通过逻辑论据来说服。） |
+| conviction          | /kənˈvɪkʃn/         | n      | 坚信、定罪。（名词）                                         | His conviction in his beliefs never wavered.（他对信念的坚信从未动摇。） |
+| vincible            | /ˈvɪŋkəbl/          | adj    | 可战胜的。（形容词）                                         | Despite being outnumbered, they believed the enemy was still vincible.（尽管人数处于劣势，他们仍认为敌人是可以战胜的。） |
+| invincible          | /ɪnˈvɪŋkəbl/        | adj    | 不可战胜的。（形容词）                                       | The team felt invincible after winning the championship.（赢得冠军后，球队觉得无敌了。） |
+| victory             | /ˈvɪktəri/          | n      | 胜利。（名词）                                               | Their hard work led to a great victory.（他们的辛勤努力带来了伟大的胜利。） |
+| vanquish            | /ˈvæŋkwɪʃ/          | v      | 击败、征服。（动词）                                         | They managed to vanquish their rivals.（他们设法击败了对手。） |
+| advantage           | /ədˈvæntɪdʒ/        | n      | 优势、有利条件。（名词）                                     | Playing at home gives them an advantage.（主场作战给他们带来了优势。） |
+
+请注意，某些单词可能具有多种含义或用法，这里只提供了最常见的一种解释和用法。如果您有特定的上下文或者您指的是其他词语，请提供更多信息以便更准确的帮助。
+
+此外，这些词汇在不同的情境中可能会有不同的用法和搭配，因此理解它们的具体应用非常重要。例如，“entail”及其相关词汇描述的是与必要条件和细节有关的概念；“everlasting”及其相关词汇围绕着时间和持久性的主题；“evict”及其相关词汇涉及法律和社会关系中的变化；而“evince”及其相关词汇则涉及表达情感、说服和胜利的概念。
+
+
+根据您提供的词汇列表，我将按照相关性对这些词汇进行分类整理，并补充必要的音标、词性和解释信息。以下是分组归档后的词汇：
+
+### 分组 321: 关于 "evoke" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| evoke               | /ɪˈvoʊk/            | v      | 引起、唤起。（动词）                                         | The music evoked memories of my childhood.（这音乐唤起了我对童年的回忆。） |
+| vocal               | /ˈvoʊkl/            | adj/n  | 声音的；有声的；（名词）声乐家。（形容词或名词）             | She is a talented vocal performer.（她是一位有才华的声乐表演者。） |
+| voice               | /vɔɪs/              | n/v    | 声音；发声。（名词或动词）                                   | He used his voice to call for help.（他用声音呼救。） |
+| advocate            | /ˈædvəkeɪt/         | v/n    | 提倡、拥护；提倡者。（动词或名词）                           | She advocates for better education policies.（她提倡更好的教育政策。） |
+| provoke             | /prəˈvoʊk/          | v      | 激怒、激起。（动词）                                         | His comments were meant to provoke a reaction.（他的评论意在激怒反应。） |
+| convoke             | /kənˈvoʊk/          | v      | 召集、召开会议。（动词）                                     | The committee was convened to discuss urgent matters.（委员会被召集来讨论紧急事务。） |
+| revoke              | /rɪˈvoʊk/           | v      | 废除、撤销。（动词）                                         | The company decided to revoke the employee's access privileges.（公司决定撤销该员工的访问权限。） |
+| invoke              | /ɪnˈvoʊk/           | v      | 召唤、祈求；引用。（动词）                                   | She invoked the name of a saint for protection.（她祈求圣人的庇护。） |
+
+### 分组 322: 关于 "exacerbate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exacerbate          | /ɪɡˈzæsəˌreɪt/      | v      | 加剧、恶化。（动词）                                         | The new policy may exacerbate the economic problems.（新政策可能会加剧经济问题。） |
+| exasperate          | /ɪɡˈzæspəreɪt/      | v      | 使恼怒、激怒。（动词）                                       | His constant interruptions exasperated her.（他不断的打断激怒了她。） |
+| ameliorate          | /əˈmɛliəˌreɪt/      | v      | 改善、改良。（动词）                                         | They worked hard to ameliorate the situation.（他们努力改善情况。） |
+| mitigate            | /ˈmɪtɪɡeɪt/         | v      | 减轻、缓和。（动词）                                         | Measures are taken to mitigate the effects of pollution.（采取措施减轻污染的影响。） |
+| aggravate           | /ˈæɡrəveɪt/         | v      | 加重、恶化。（动词）                                         | The injury was aggravated by improper treatment.（由于处理不当，伤势加重了。） |
+
+### 分组 323: 关于 "exacting" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exacting            | /ɪɡˈzæktɪŋ/         | adj    | 严格的、苛求的。（形容词）                                   | The job is exacting and requires great attention to detail.（这份工作要求严格，需要极大的细节关注。） |
+| exact               | /ɪɡˈzækt/           | adj/v  | 精确的；要求。（形容词或动词）                               | The measurements must be exact.（测量必须精确。） |
+| exaction            | /ɪɡˈzækʃn/          | n      | 苛求的行为；勒索。（名词）                                   | The tax collectors were known for their harsh exactions.（税务人员以其苛刻的征收而闻名。） |
+| inexact             | /ɪnɪɡˈzækt/         | adj    | 不准确的、不精确的。（形容词）                               | The inexact estimate led to budget overruns.（不准确的估算导致预算超支。） |
+| exactor             | /ɪɡˈzæktər/         | n      | （历史上的）税吏；苛求的人。（名词）                         | The exactors were not popular among the peasants.（税吏在农民中并不受欢迎。） |
+| extract             | /ɪkˈstrækt/         | v/n    | 提取、摘录；提取物。（动词或名词）                           | Scientists extract useful compounds from plants.（科学家从植物中提取有用的化合物。） |
+| extractive          | /ɪkˈstræktɪv/       | adj    | 提取的；剥削性的。（形容词）                                 | Extractive industries can harm the environment.（开采行业可能损害环境。） |
+
+### 分组 324: 关于 "exalt" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exalt               | /ɪɡˈzɔːlt/          | v      | 歌颂、赞扬；提升。（动词）                                   | The poet exalted the beauty of nature.（诗人歌颂自然之美。） |
+| altitude            | /ˈæltɪtuːd/         | n      | 海拔高度。（名词）                                           | The plane flew at an altitude of 30,000 feet.（飞机在30,000英尺的高度飞行。） |
+| altimeter           | /ˈæltɪˌmiːtər/      | n      | 测高仪。（名词）                                             | The hikers used an altimeter to track their elevation.（徒步旅行者使用测高仪来跟踪他们的海拔高度。） |
+| exaltation          | /ɪɡˈzɔːlteɪʃn/      | n      | 赞扬、兴奋。（名词）                                         | The team felt exaltation after winning the match.（球队赢得比赛后感到兴奋。） |
+| sublime             | /səbˈlaɪm/          | adj    | 极好的、崇高的。（形容词）                                   | The view from the mountain top was truly sublime.（从山顶看到的景色真是壮丽。） |
+| aloft               | /əˈlɔːft/           | adv    | 在空中；在高处。（副词）                                     | Birds soared aloft in the sky.（鸟儿在天空中翱翔。） |
+| elevate             | /ɪˈlevɪteɪt/        | v      | 提升、提高。（动词）                                         | They elevated him to the position of manager.（他们把他提升到经理的位置。） |
+| elevation           | /ˌiːlɪˈveɪʃn/       | n      | 提升、海拔高度。（名词）                                     | The map shows the elevation of the land.（地图显示了陆地的海拔高度。） |
+| superlative         | /ˈsuːpərlətɪv/      | adj/n  | 最高级的；（名词）最高级的表达。（形容词或名词）             | Her performance was simply superlative.（她的表现简直是最顶级的。） |
+
+请注意，某些单词可能具有多种含义或用法，这里只提供了最常见的一种解释和用法。如果您有特定的上下文或者您指的是其他词语，请提供更多信息以便更准确的帮助。
+
+此外，这些词汇在不同的情境中可能会有不同的用法和搭配，因此理解它们的具体应用非常重要。例如，“evoke”及其相关词汇描述的是与言语表达和情感引发有关的概念；“exacerbate”及其相关词汇围绕着状况变化的主题，特别是恶化的方向；“exacting”及其相关词汇涉及严格要求和精准度；而“exalt”及其相关词汇则涉及赞美、提升和高度的概念。
+
+
+根据您提供的词汇列表，我将按照相关性对这些词汇进行分类整理，并补充必要的音标、词性和解释信息。以下是分组归档后的词汇：
+
+### 分组 325: 关于 "execrate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| execrate            | /ˈɛksɪkreɪt/        | v      | 痛恨、诅咒。（动词）                                         | He execrated the injustice he faced.（他痛恨自己所面对的不公。） |
+| execration          | /ˌɛksɪˈkreɪʃn/      | n      | 诅咒、咒骂。（名词）                                         | His actions earned him widespread execration.（他的行为招致广泛的咒骂。） |
+| exorcise            | /ˈɛksɔːrsaɪz/       | v      | 驱魔、驱邪。（动词）                                         | The priest was called to exorcise the house of spirits.（牧师被请来为房子驱邪。） |
+| sacred              | /ˈseɪkrɪd/          | adj    | 神圣的、宗教的。（形容词）                                   | The temple is a sacred place for worship.（寺庙是神圣的礼拜场所。） |
+
+### 分组 326: 关于 "exemplary" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exemplary           | /ɪɡˈzɛmpləri/       | adj    | 模范的、作为榜样的。（形容词）                               | She set an exemplary standard of work.（她树立了模范的工作标准。） |
+| example             | /ɪɡˈzæmpəl/         | n      | 例子、实例。（名词）                                         | This is a good example of teamwork.（这是团队合作的一个好例子。） |
+| exemplify           | /ɪɡˈzɛmplɪfaɪ/      | v      | 举例说明、例证。（动词）                                     | The book exemplifies the best practices in education.（这本书举例说明了教育中的最佳实践。） |
+| exemplar            | /ɪɡˈzɛmplɑːr/       | n      | 榜样、典范。（名词）                                         | He is considered an exemplar of integrity.（他被视为正直的典范。） |
+| prototype           | /ˈproʊtoʊtaɪp/      | n      | 原型、模型。（名词）                                         | The company developed a prototype of the new device.（公司开发了新设备的原型。） |
+| exemplification     | /ɪɡˌzɛmplɪfɪˈkeɪʃn/ | n      | 举例说明的行为；例子。（名词）                              | The report includes several exemplifications of successful projects.（报告中包含多个成功项目的例子。） |
+
+### 分组 327: 关于 "extemporize" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| extemporize         | /ɪkˈstɛmpəraɪz/     | v      | 即兴创作、即席发挥。（动词）                                 | He had to extemporize when his notes went missing.（他的笔记不见了，他只好即兴发挥。） |
+| extempore           | /ɪkˈstɛmpəri/       | adj/adv| 即兴的；即席地。（形容词或副词）                             | She gave an extempore speech at the conference.（她在会议上发表了即兴演讲。） |
+| temporary           | /ˈtɛmprəri/         | adj    | 临时的、暂时的。（形容词）                                   | They provided temporary housing for the refugees.（他们为难民提供了临时住所。） |
+| temporize           | /ˈtɛmpəraɪz/        | v      | 拖延、敷衍。（动词）                                         | The manager decided to temporize until more information was available.（经理决定拖延，直到有更多信息为止。） |
+| contemporary        | /kənˈtɛmpəreri/     | adj/n  | 当代的；同时代的人。（形容词或名词）                         | Contemporary art often challenges traditional views.（当代艺术常常挑战传统观点。） |
+| temporal            | /ˈtɛmprəl/          | adj    | 时间的、世俗的。（形容词）                                   | The church has both spiritual and temporal concerns.（教会既有精神上的也有世俗上的关注。） |
+| pretemporal         | /priːˈtɛmpərəl/     | adj    | 在时间之前发生的。（形容词）                                 | Pretemporal conditions are those that existed before the event.（先时条件是指事件发生前存在的条件。） |
+| tempest             | /ˈtɛmpɛst/          | n      | 暴风雨、风暴。（名词）                                       | A tempest raged outside, but inside all was calm.（外面暴风雨肆虐，但里面一切平静。） |
+
+### 分组 328: 关于 "extenuate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| extenuate           | /ɪkˈstɛnjuːeɪt/     | v      | 减轻（罪行或错误的严重性）；减轻处罚。（动词）               | The judge chose to extenuate his sentence due to mitigating circumstances.（法官因为有减轻情节而选择减轻了他的刑罚。） |
+| extenuation         | /ɪkˌstɛnjuːˈeɪʃn/   | n      | 减轻罪行的情节；减罪的理由。（名词）                         | There was no extenuation for his actions.（对于他的行为没有减罪的理由。） |
+| attenuate           | /əˈtɛnjuːeɪt/       | v      | 减弱、使变细。（动词）                                       | The sound was attenuated by the thick walls.（声音被厚墙减弱了。） |
+| tenuous             | /ˈtinjʊəs/          | adj    | 薄弱的、牵强的。（形容词）                                   | His argument was based on a tenuous link between the two events.（他的论点基于两个事件之间薄弱的联系。） |
+| intangible          | /ɪnˈtændʒəbl/       | adj    | 无形的、难以捉摸的。（形容词）                               | Her contribution to the project was intangible but significant.（她对项目的贡献是无形但重要的。） |
+
+请注意，某些单词可能具有多种含义或用法，这里只提供了最常见的一种解释和用法。如果您有特定的上下文或者您指的是其他词语，请提供更多信息以便更准确的帮助。
+
+此外，这些词汇在不同的情境中可能会有不同的用法和搭配，因此理解它们的具体应用非常重要。例如，“execrate”及其相关词汇描述的是与强烈的负面情感和宗教仪式有关的概念；“exemplary”及其相关词汇围绕着榜样和示例的主题；“extemporize”及其相关词汇涉及即时性和时间性的概念；而“extenuate”及其相关词汇则涉及减轻和削弱的概念。
+
+
+
+根据您提供的词汇列表，我将按照相关性对这些词汇进行分类整理，并补充必要的音标、词性和解释信息。以下是分组归档后的词汇：
+
+### 分组 329: 关于 "extract" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| extract             | /ɪkˈstrækt/         | v/n    | 提取、摘录；提取物。（动词或名词）                           | Scientists extract useful compounds from plants.（科学家从植物中提取有用的化合物。） |
+| abstract            | /ˈæbstrækt/         | adj/n/v| 抽象的；摘要；抽象化。（形容词、名词或动词）                 | The artist's work is very abstract.（这位艺术家的作品非常抽象。） |
+| contract            | /ˈkɑːntrækt/        | n/v    | 合同；签订合同。（名词或动词）                               | They signed a contract for the new project.（他们签订了新项目的合同。） |
+| protract            | /prəˈtrækt/         | v      | 延长、拖延。（动词）                                         | The meeting was unnecessarily protracted.（会议被不必要地延长了。） |
+| retract             | /rɪˈtrækt/          | v      | 撤回、收回。（动词）                                         | He retracted his earlier statement.（他撤回了早前的声明。） |
+| attractions         | /əˈtrækʃnz/         | n      | 吸引力、景点。（名词）                                       | The city has many tourist attractions.（这座城市有许多旅游景点。） |
+| distract            | /dɪˈtrækt/           | v      | 分心、使分心。（动词）                                       | Loud noises can distract you from your work.（噪音会分散你工作时的注意力。） |
+| extractive          | /ɪkˈstræktɪv/       | adj    | 提取的；剥削性的。（形容词）                                 | Extractive industries can harm the environment.（开采行业可能损害环境。） |
+
+### 分组 330: 关于 "encyclopedic" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| encyclopedic        | /ˌɛnsɪkloʊˈpiːdɪk/   | adj    | 百科全书的、包罗万象的。（形容词）                           | Her knowledge of history is truly encyclopedic.（她的历史知识真是包罗万象。） |
+| encyclopedia        | /ˌɛnsɪkloʊˈpiːdiə/  | n      | 百科全书。（名词）                                           | He referred to an encyclopedia for information on dinosaurs.（他查阅百科全书以获取恐龙的信息。） |
+| cyclical            | /ˈsɪklɪkəl/         | adj    | 循环的、周期性的。（形容词）                                 | The economy shows cyclical patterns of growth and recession.（经济显示出增长和衰退的周期性模式。） |
+| cycle               | /ˈsaɪkl/            | n/v    | 循环、周期；骑自行车。（名词或动词）                         | The moon goes through a cycle of phases each month.（月亮每个月都会经历一次盈亏周期。） |
+| pedantic            | /pɪˈdæntɪk/         | adj    | 矫揉造作的、卖弄学问的。（形容词）                           | His pedantic manner annoyed his colleagues.（他矫揉造作的态度惹恼了同事们。） |
+| pediatrician        | /ˌpiːdiˌætrɪʃiˈæn/  | n      | 儿科医生。（名词）                                           | The pediatrician specializes in children's health.（儿科医生专注于儿童健康。） |
+| pedagogy            | /ˈpedəˌdʒi/         | n      | 教育学、教学法。（名词）                                     | She studied pedagogy to become a better teacher.（她学习教育学以成为一名更好的教师。） |
+
+### 分组 331: 关于 "extraneous" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| extraneous          | /ɪkˈstreɪniəs/     | adj    | 不相干的、多余的。（形容词）                                 | He included several extraneous details in his report.（他在报告中包含了几个不相干的细节。） |
+| extraordinary       | /ɪkˈstrɔːrdnri/     | adj    | 非凡的、异乎寻常的。（形容词）                               | The athlete showed extraordinary skill during the competition.（运动员在比赛中展现了非凡的技巧。） |
+| extraterrestrial    | /ɛkˌstrætəˈrɛstriəl/| adj/n  | 外星的；外星人。（形容词或名词）                             | Astronomers search for extraterrestrial life.（天文学家寻找外星生命。） |
+| extracurricular     | /ɛkˌstrækəˈrɪkjələr/| adj    | 课外的、非课程内的。（形容词）                               | She participates in many extracurricular activities.（她参加了许多课外活动。） |
+| extramural          | /ɛkˈstræmərəl/     | adj    | 校外的、非校内的。（形容词）                                 | The university offers extramural courses for community members.（大学为社区成员提供校外课程。） |
+| extravagant         | /ɪkˈstrævəɡənt/     | adj    | 奢侈的、浪费的。（形容词）                                   | He spent extravagantly on unnecessary items.（他在不必要的物品上花费奢侈。） |
+| extricate           | /ɪkˈstrɪkeɪt/       | v      | 使脱身、解脱。（动词）                                       | It took time to extricate the car from the snowbank.（花了些时间才把车从雪堆里弄出来。） |
+| spontaneous         | /spɒnˈteɪniəs/     | adj    | 自发的、自然产生的。（形容词）                               | The applause was spontaneous and heartfelt.（掌声是自发且真诚的。） |
+| simultaneous        | /saɪmˈʌltəniəs/    | adj    | 同时的、同步的。（形容词）                                   | The two events occurred simultaneously.（两个事件同时发生。） |
+
+请注意，某些单词可能具有多种含义或用法，这里只提供了最常见的一种解释和用法。如果您有特定的上下文或者您指的是其他词语，请提供更多信息以便更准确的帮助。
+
+此外，这些词汇在不同的情境中可能会有不同的用法和搭配，因此理解它们的具体应用非常重要。例如，“extract”及其相关词汇描述的是与提取、移除和改变状态有关的概念；“encyclopedic”及其相关词汇围绕着知识、循环和教育的主题；而“extraneous”及其相关词汇则涉及外部影响、超出常规以及时间和空间之外的概念。
+
+
+
+根据您提供的词汇列表，我将按照相关性对这些词汇进行分类整理，并补充必要的音标、词性和解释信息。以下是分组归档后的词汇：
+
+### 分组 332: 关于 "exult" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| exult               | /ɪɡˈzʌlt/           | v      | 欣喜若狂、得意洋洋。（动词）                                 | They exulted in their victory.（他们为胜利而欣喜若狂。）    |
+| exultation          | /ˌɛksəlˈteɪʃn/      | n      | 欢欣鼓舞、得意的状态。（名词）                               | The team's exultation was evident after winning the match.（球队赢得比赛后明显表现出欢欣鼓舞。） |
+| exultant            | /ɪɡˈzʌltnt/         | adj    | 欣喜若狂的、得意洋洋的。（形容词）                           | An exultant crowd celebrated the news.（一群欣喜若狂的人群庆祝这个消息。） |
+| exultingly          | /ɪɡˈzʌltɪŋli/       | adv    | 欣喜若狂地、得意洋洋地。（副词）                             | She sang exultingly as she received the award.（她领奖时得意洋洋地唱着歌。） |
+| ultimate            | /ˈʌltɪmət/          | adj/n  | 最终的；极限；（名词）最终目标。（形容词或名词）             | The ultimate goal is to achieve peace.（最终目标是实现和平。） |
+| ultimatum           | /ʌlˈtɪmətəm/        | n      | 最后通牒。（名词）                                           | The company gave the workers an ultimatum about the strike.（公司给工人发出了关于罢工的最后通牒。） |
+
+### 分组 333: 关于 "fable" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| fable               | /ˈfæbl/             | n      | 寓言、神话故事。（名词）                                     | Aesop's fables teach moral lessons through animal characters.（伊索寓言通过动物角色教授道德课程。） |
+| fabric              | /ˈfæbrɪk/           | n      | 布料、织物。（名词）                                         | The dress is made from a fine silk fabric.（这件裙子是由精美的丝绸布料制成的。） |
+| fabricate           | /ˈfæbrɪkeɪt/        | v      | 编造、捏造；制造。（动词）                                   | He fabricated an excuse for being late.（他编造了一个迟到的借口。） |
+| fabulous            | /ˈfæbjuːləs/        | adj    | 神奇的、难以置信的。（形容词）                               | She had a fabulous time at the party.（她在聚会上玩得很开心。） |
+
+### 分组 334: 关于 "fabricate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| fabricate           | /ˈfæbrɪkeɪt/        | v      | 编造、捏造；制造。（动词）                                   | He fabricated an excuse for being late.（他编造了一个迟到的借口。） |
+| fabric              | /ˈfæbrɪk/           | n      | 布料、织物。（名词）                                         | The dress is made from a fine silk fabric.（这件裙子是由精美的丝绸布料制成的。） |
+| prefabricated       | /ˌpriːˈfæbrɪkeɪtɪd/ | adj    | 预制的、事先制造好的。（形容词）                             | The house was built using prefabricated components.（这所房子使用预制组件建造。） |
+| fabricator          | /ˈfæbrɪˌkeɪtər/     | n      | 制造商；编造者。（名词）                                     | The company is a leading fabricator of metal products.（这家公司是金属制品的主要制造商。） |
+
+### 分组 335: 关于 "facetious" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| facetious           | /fəˈsiːʃəs/         | adj    | 开玩笑的、不严肃的。（形容词）                               | His facetious remarks were not appreciated during the serious discussion.（在严肃的讨论中，他的玩笑话并不受欢迎。） |
+| facade              | /fəˈsɑːd/           | n      | 外表、门面。（名词）                                         | The building has an impressive facade.（这座建筑有一个令人印象深刻的外观。） |
+| facilitate          | /fəˈsɪlɪteɪt/       | v      | 使容易、促进。（动词）                                       | They facilitated the process by providing clear instructions.（他们通过提供明确的指示促进了这一过程。） |
+| facial              | /ˈfeɪʃl/            | adj    | 面部的。（形容词）                                           | She applied a moisturizing facial mask.（她敷了一层面部保湿面膜。） |
+| facetiae            | /fəˈsiːʃi.iː/       | n      | （复数形式）诙谐的故事或笑话。（名词）                       | The book contains many examples of ancient Roman facetiae.（这本书包含了许多古代罗马的诙谐故事。） |
+| facetiousness       | /fəˈsiːʃəsnəs/      | n      | 开玩笑的态度或行为。（名词）                                 | Her facetiousness often got her into trouble.（她的爱开玩笑经常让她陷入麻烦。） |
+| facsimile           | /ˈfæksɪmaɪl/        | n      | 复制品、副本。（名词）                                       | The museum displayed a facsimile of the original painting.（博物馆展示了原画的复制品。） |
+
+### 分组 336: 关于 "facile"
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| facile              | /ˈfæsɪl/            | adj    | 容易的、轻而易举的；浅薄的、表面的。（形容词）               | He offered a facile solution that ignored the complexity of the problem.（他提出了一个忽略了问题复杂性的简单解决方案。） |
+
+请注意，某些单词可能具有多种含义或用法，这里只提供了最常见的一种解释和用法。如果您有特定的上下文或者您指的是其他词语，请提供更多信息以便更准确的帮助。
+
+此外，这些词汇在不同的情境中可能会有不同的用法和搭配，因此理解它们的具体应用非常重要。例如，“exult”及其相关词汇描述的是与极度喜悦和胜利有关的情感表达；“fable”及其相关词汇围绕着故事、传说和创造的概念；“fabricate”及其相关词汇涉及制造和编造的主题；而“facetious”及其相关词汇则涉及幽默、外表和促进的概念。
