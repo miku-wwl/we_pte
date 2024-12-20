@@ -1395,3 +1395,126 @@
 这些表格包含了每个单词的音标、词性和解释，并提供了一个例句来帮助理解它们的使用方法。希望这有助于您更好地理解和记忆这些词汇。
 
 如果有更多需要整理或有其他问题，请随时告诉我！
+
+
+根据提供的词汇列表，我将按照词根和含义的关联性进行分类整理，并归档如下：
+
+### 分组 371: 关于 "munificent" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| munificent          | /mjuːˈnɪf.ɪ.sənt/  | adj    | 慷慨的、大方的。（形容词）                                   | The munificent donor contributed a large sum to the charity.（这位慷慨的捐赠者为慈善机构贡献了一大笔钱。） |
+| municipal           | /mjuːˈnɪs.ɪ.pəl/   | adj    | 市政的、市立的。（形容词）                                   | The municipal government oversees city services.（市政府管理城市服务。） |
+| municipality        | /ˌmjuː.nɪˈsɪp.æl.ɪ.ti/ | n      | 市政当局、自治市。（名词）                                   | The municipality has announced new regulations for waste disposal.（市政当局宣布了新的废物处理条例。） |
+| community           | /kəˈmjuː.nɪ.ti/    | n      | 社区、团体。（名词）                                         | The community came together to organize the festival.（社区成员齐心协力组织了这次节日。） |
+
+### 分组 372: 关于 "murky" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| murky              | /ˈmɜːr.ki/         | adj    | 昏暗的、模糊不清的；浑浊的。（形容词）                       | The river was too murky to see anything below the surface.（河水太浑浊，看不清水面下的东西。） |
+| murk                | /mɜːrk/            | n/v    | （名词）昏暗；（动词）使变暗。（名词/动词）                  | The room was filled with murk after the lights went out.（灯灭后，房间里充满了昏暗。） |
+| demurk              | -                  | -      | 注意：此单词在英语中不常用或不存在。                         | -                                                           |
+| obscure             | /əbˈskjʊr/         | adj/v  | （形容词）不明朗的、晦涩的；（动词）使模糊、使难懂。（形容词/动词） | His intentions were obscure to most people.（他的意图对大多数人来说是晦涩不明的。） |
+| gloomy             | /ˈɡluː.mi/         | adj    | 阴沉的、忧郁的。（形容词）                                   | A gloomy sky loomed overhead.（阴沉的天空笼罩在头顶上。） |
+| opaque              | /oʊˈpeɪk/          | adj    | 不透明的、难以理解的。（形容词）                             | The glass was so dirty that it became opaque.（玻璃脏到几乎不透明了。） |
+| muddy              | /ˈmʌ.di/           | adj    | 泥泞的、混浊的。（形容词）                                   | The children loved playing in the muddy puddles.（孩子们喜欢在泥泞的水坑里玩耍。） |
+| foggy              | /ˈfɒɡ.i/           | adj    | 有雾的、朦胧的。（形容词）                                   | It was too foggy to drive safely this morning.（今天早上雾太大，不宜安全驾驶。） |
+
+### 分组 373: 关于 "murmur" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| murmur              | /ˈmɜːrmər/         | n/v    | （名词）低语、咕哝；（动词）低声说、嘟囔。（名词/动词）       | She could hear the murmur of voices from the next room.（她能听到隔壁房间传来的低语声。） |
+| murmuring           | /ˈmɜːrmərɪŋ/       | n/v    | （名词）低语声；（动词）低语、咕哝（现在分词形式）。（名词/动词） | The murmuring stream added to the serenity of the scene.（潺潺的溪流声增添了场景的宁静。） |
+| unmurmuring         | /ˌʌnˈmɜːrmərɪŋ/    | adj    | 不抱怨的、不低语的。（形容词）                               | Despite the difficulties, she remained unmurmuring.（尽管困难重重，她依然保持沉默，不发怨言。） |
+
+以上是根据给定词汇的含义和词根关系进行的分类整理。每个单词都提供了音标、词性、解释以及一个例句。如果有任何特定需求或者需要进一步的信息，请告知。
+
+
+
+根据您提供的词汇列表，我将按照相关性对这些词汇进行分类整理，并补充必要的音标、词性和解释信息。以下是分组归档后的词汇：
+
+### 分组 537: 关于 "mutate" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| mutate              | /ˈmjuːˌteɪt/       | v      | 突变、变异。（动词）                                          | The virus can mutate and become more resistant to drugs.（病毒可以突变并变得对药物更具抵抗力。） |
+| commutable          | /ˈkɒmjʊtəbl/       | adj    | 可通勤的；可交换的。（形容词）                                 | The job has a commutable distance from my home.（这份工作离我家的距离是可以接受的通勤距离。） |
+| commute             | /kəˈmjuːt/         | v/n    | （动词）通勤；（名词）通勤路程。（动词或名词）                 | He commutes by train every day.（他每天乘火车通勤。） |
+| immutable           | /ɪˈmjuːtəbl/       | adj    | 不可改变的、永恒不变的。（形容词）                             | The laws of physics are considered immutable.（物理定律被认为是不可改变的。） |
+| mutable             | /ˈmjuːtəbl/        | adj    | 易变的、可改变的。（形容词）                                   | Her mutable mood made it hard to predict her reactions.（她易变的情绪让人难以预测她的反应。） |
+| mutinous            | /ˈmjuːtɪnəs/       | adj    | 反叛的、叛乱的。（形容词）                                     | The crew became mutinous after months at sea.（船员们在海上呆了几个月后变得反叛。） |
+| mutiny              | /ˈmjuːtɪni/        | n/v    | （名词）兵变、叛乱；（动词）发生兵变。（名词或动词）            | The sailors decided to mutiny against the captain.（水手们决定发动兵变反对船长。） |
+| mutual              | /ˈmjuːtʃuəl/       | adj    | 相互的、共同的。（形容词）                                     | They have a mutual respect for each other's work.（他们互相尊重对方的工作。） |
+| permute             | /pərˈmjuːt/        | v      | 排列、置换。（动词）                                           | The teacher asked us to permute the letters to form new words.（老师要求我们排列字母以组成新单词。） |
+| transmute           | /trænsˈmjuːt/      | v      | 转化、转变。（动词）                                           | Alchemists tried to transmute base metals into gold.（炼金术士试图将贱金属转化为黄金。） |
+
+### 分组 538: 关于 "mute" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| mute                | /mjuːt/            | adj/v/n| （形容词）无声的；（动词）使沉默；（名词）哑巴。（形容词或动词或名词） | She remained mute when questioned by the police.（她在警察询问时保持沉默。） |
+| mutate              | /ˈmjuːˌteɪt/       | v      | 突变、变异。（动词）                                          | The bacteria can mutate under certain conditions.（这种细菌在特定条件下会发生突变。） |
+| mutation            | /mjuːˈteɪʃn/       | n      | 突变、变异现象。（名词）                                      | Genetic mutations can lead to new traits in organisms.（基因突变可以导致生物体出现新的特征。） |
+| muteness            | /ˈmjuːtnəs/        | n      | 沉默、哑。（名词）                                            | His shock turned into muteness as he couldn't find words.（他的震惊变成了沉默，因为他找不到言语。） |
+| commute             | /kəˈmjuːt/         | v/n    | （动词）通勤；（名词）通勤路程。（动词或名词）                 | She commutes by bus to work every day.（她每天乘公交车通勤上班。） |
+
+### 分组 539: 关于 "mutter" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| mutter              | /ˈmʌtər/           | v/n    | （动词）低声嘀咕、嘟囔；（名词）嘟囔声。（动词或名词）         | He muttered under his breath about the unfair treatment.（他低声抱怨着不公平的待遇。） |
+| mutate              | /ˈmjuːˌteɪt/       | v      | 突变、变异。（动词）                                          | Cells can mutate due to exposure to radiation.（细胞可能会因为辐射暴露而发生突变。） |
+| mutation            | /mjuːˈteɪʃn/       | n      | 突变、变异现象。（名词）                                      | Mutations in DNA can cause genetic disorders.（DNA中的突变可能导致遗传疾病。） |
+| mute                | /mjuːt/            | adj/v/n| （形容词）无声的；（动词）使沉默；（名词）哑巴。（形容词或动词或名词） | The audience was mute with awe at the performance.（观众对表演感到敬畏而无声。） |
+
+请注意，某些单词可能具有多种含义或用法，这里只提供了最常见的一种解释和用法。如果您有特定的上下文或者您指的是其他词语，请提供更多信息以便更准确的帮助。
+
+此外，这些词汇在不同的情境中可能会有不同的用法和搭配，因此理解它们的具体应用非常重要。例如，“mutate”及其相关词汇围绕着变化和转换的概念；“mute”及其相关词汇探讨了沉默和无声的状态；最后，“mutter”及其相关词汇则涉及低声说话和嘟囔的行为。
+
+根据您提供的词汇列表，我将这些词汇按照主题和词根进行归档整理。以下是经过整理后的分组：
+
+### 分组 91: 关于 "myopic" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| myopic              | /maɪˈɒpɪk/         | adj    | 近视的；短视的、目光短浅的。（形容词）                       | His myopic vision made it hard for him to see distant objects clearly.（他的近视让他难以清晰地看到远处的物体。） |
+| myopia              | /maɪˈəʊpiə/        | n      | 近视眼。（名词）                                             | She was diagnosed with myopia at an early age.（她在很小的时候就被诊断为近视。） |
+| myopically          | /maɪˈɒpɪklɪ/       | adv    | 以近视或短视的方式。（副词）                                 | He viewed the problem myopically, focusing only on short-term solutions.（他短视地看待这个问题，只关注短期解决方案。） |
+| myopicness          | /maɪˈɒpɪknɪs/      | n      | 近视或短视的状态。（名词）                                   | The myopicness of his approach became apparent over time.（随着时间的推移，他的方法显得越来越短视。） |
+
+### 分组 92: 关于 "myriad" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| myriad              | /ˈmɪrɪæd/          | n/adj  | （名词）大量、无数；（形容词）多样的。（名词或形容词）       | There were a myriad of stars in the clear night sky.（晴朗的夜空中有无数星星。） |
+| myriapod            | /ˈmɪrɪəpɒd/        | n      | 多足纲动物（如蜈蚣、千足虫等）。（名词）                     | Myriapods like millipedes can have hundreds of legs.（像千足虫这样的多足纲动物可以有数百条腿。） |
+| myriarch            | /ˈmɪrɪɑːrk/        | n      | 古代希腊一万步兵的指挥官；万长。（名词）                     | In ancient Greece, a myriarch led ten thousand soldiers.（在古希腊，一名myriarch带领一万士兵。） |
+| myriogon            | /ˈmɪrɪəɡɒn/        | n      | 一万边形。（名词）                                           | A myriogon is a polygon with ten thousand sides.（一个myriogon是一个有一万边的多边形。） |
+| myriagram           | /ˈmɪrɪəɡræm/       | n      | 一万克。（名词）                                             | A myriagram is equal to ten kilograms.（一myriagram等于十公斤。） |
+
+### 分组 93: 关于 "nadir" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| nadir               | /ˈneɪdɪr/          | n      | 天底点（天文学）、最低点。（名词）                           | The stock market reached its nadir during the financial crisis.（股市在金融危机期间达到了最低点。） |
+| apogee              | /ˈæpədʒiː/         | n      | 远地点（天文学）、最高点。（名词）                           | Her career reached its apogee when she won the award.（她的职业生涯在获奖时达到了顶峰。） |
+| perigee             | /ˈpɛrɪdʒiː/        | n      | 近地点（天文学）。（名词）                                   | The satellite's closest approach to Earth is called its perigee.（卫星离地球最近的距离称为近地点。） |
+| zenith              | /ˈzɛnɪθ/           | n      | 天顶（天文学）、最高点。（名词）                             | The sun was at the zenith, casting no shadows.（太阳位于天顶，没有投下任何阴影。） |
+
+### 分组 94: 关于 "naïve" 和相关词汇
+
+| 单词                | 音标               | 词性   | 解释                                                         | 示例句                                                     |
+|---------------------|--------------------|--------|--------------------------------------------------------------|------------------------------------------------------------|
+| naïve               | /naɪˈiːv/          | adj    | 天真的、缺乏经验的。（形容词）                               | His naïve trust in strangers often leads to disappointment.（他对陌生人的天真信任常常导致失望。） |
+| naive               | /naɪˈiːv/          | adj    | 天真的、缺乏经验的。（形容词）                               | Same as naïve.（与naïve同义。） |
+| naively             | /naɪˈiːvlɪ/        | adv    | 天真地。（副词）                                             | She naively believed everything he said.（她天真地相信他说的每一句话。） |
+| naivety             | /naɪˈiːvəti/       | n      | 天真、幼稚。（名词）                                         | His naivety was evident in his questions.（他的问题显露出他的天真。） |
+| innocent            | /ˈɪnəsnt/          | adj    | 无辜的、清白的；天真的。（形容词）                           | The child's innocent smile melted everyone's heart.（孩子的无辜笑容融化了所有人的心。） |
+| simple              | /ˈsɪmpl/           | adj    | 简单的；单纯的、朴素的。（形容词）                           | He has a simple way of looking at life.（他有一种简单的生活态度。） |
+| gullible            | /ˈɡʌləbl/          | adj    | 易受骗的、轻信的。（形容词）                                 | Tourists can be particularly gullible when visiting new places.（游客在参观新地方时可能特别容易受骗。） |
+| credulous           | /ˈkrɛdjʊləs/       | adj    | 轻信的、易受骗的。（形容词）                                 | A credulous person believes rumors without questioning them.（一个轻信的人会不加质疑地相信谣言。） |
+| artless             | /ˈɑːrtləs/         | adj    | 天真的、无心机的。（形容词）                                 | Her artless comments revealed her honest nature.（她无心机的评论揭示了她诚实的本质。） |
+
+以上是对您提供词汇的归档整理。如果您需要更详细的解释或者额外的例子，请随时告知。
