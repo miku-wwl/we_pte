@@ -640,3 +640,78 @@ individualization 英 [ˌɪndɪvɪdʒuəlaɪˈzeɪʃn] 美 [ˌɪndɪvɪdʒuələ
 
 geologic 英 [,dʒɪəʊ'lɒdʒɪk] 美 [dʒɪə'lɑdʒɪk]
 
+staple 英 [ˈsteɪpl] 美 [ˈsteɪpl]
+
+talkback 英 [ ] 美 [ˈtɔːkbæk]
+
+mild 英 [maɪld] 美 [maɪld]
+
+endangered 英 [ɪnˈdeɪndʒəd] 美 [ɪnˈdeɪndʒərd]
+
+cognitive 英 [ˈkɒɡnətɪv] 美 [ˈkɑːɡnətɪv]
+
+production line 英 [ ] 美 [prəˈdʌkʃn laɪn]
+
+herbicide 英 [ˈhɜːbɪsaɪd] 美 [ˈɜːrbɪsaɪd, ˈhɜːrbɪsaɪd]
+
+opus 英 [ˈəʊpəs] 美 [ˈoʊpəs]
+
+extensively 英 [ɪkˈstensɪvli] 美 [ɪkˈstensɪvli]
+
+determinant 英 [dɪˈtɜːmɪnənt] 美 [dɪˈtɜːrmɪnənt]
+
+therapist 英 [ˈθerəpɪst] 美 [ˈθerəpɪst]
+
+archaeology 英 [ˌɑːkiˈɒlədʒi] 美 [ˌɑːrkiˈɑːlədʒi]
+
+virtually 英 [ˈvɜːtʃuəli] 美 [ˈvɜːrtʃuəli]
+
+assault 英 [əˈsɔːlt] 美 [əˈsɔːlt]
+
+moderate 英 [ˈmɒdərət] 美 [ˈmɑːdərət]
+
+consciousness 英 [ˈkɒnʃəsnəs] 美 [ˈkɑːnʃəsnəs]
+
+wade into 美 [weɪd ˈɪntə]
+
+comprehensive 英 [ˌkɒmprɪˈhensɪv] 美 [ˌkɑːmprɪˈhensɪv]
+
+expertise 英 [ˌekspɜːˈtiːz] 美 [ˌekspɜːrˈtiːz]
+
+communal 英 [kəˈmjuːnl; ˈkɒmjənl] 美 [kəˈmjuːnl]
+
+tone 英 [təʊn] 美 [toʊn]
+
+diverse 英 [daɪˈvɜːs] 美 [daɪˈvɜːrs]
+
+constitute 英 [ˈkɒnstɪtjuːt] 美 [ˈkɑːnstɪtuːt]
+
+aftermath 英 [ˈɑːftəmæθ; ˈɑːftəmɑːθ] 美 [ˈæftərmæθ]
+
+crustacean 英 [krʌˈsteɪʃn] 美 [krʌˈsteɪʃn]
+
+exacerbate 英 [ɪɡˈzæsəbeɪt] 美 [ɪɡˈzæsərbeɪt]
+
+corrosive 英 [kəˈrəʊsɪv] 美 [kəˈroʊsɪv]
+
+illustrious 英 [ɪˈlʌstriəs] 美 [ɪˈlʌstriəs]
+
+millennia 英 [mɪˈleniə] 美 [mɪˈlɛnɪə]
+
+millennium 英 [mɪˈleniəm] 美 [mɪˈleniəm]
+
+resonate with 美 [ˈrezəneɪt wɪð]
+
+scale up 英 [ ] 美 [skeɪl ʌp]
+
+predominantly 英 [prɪˈdɒmɪnəntli] 美 [prɪˈdɑːmɪnəntli]
+
+differential 英 [ˌdɪfəˈrenʃl] 美 [ˌdɪfəˈrenʃl]
+
+fingerprint 英 [ˈfɪŋɡəprɪnt] 美 [ˈfɪŋɡərprɪnt]
+
+chronically 英 [ˈkrɒnɪkli] 美 [ˈkrɑːnɪkli]
+
+chronicle 英 [ˈkrɒnɪk(ə)l] 美 [ˈkrɑːnɪk(ə)l]
+
+paradoxical 英 [ˌpærəˈdɒksɪkl] 美 [ˌpærəˈdɑːksɪkl]
