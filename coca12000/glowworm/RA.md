@@ -1007,3 +1007,79 @@ corrosion 英 [kəˈrəʊʒ(ə)n] 美 [kəˈroʊʒ(ə)n]
 corrode 英 [kəˈrəʊd] 美 [kəˈroʊd]
 
 demography 英 [dɪˈmɒɡrəfi] 美 [dɪˈmɑːɡrəfi]
+
+cockpit 英 [ˈkɒkpɪt] 美 [ˈkɑːkpɪt]
+
+comprehensive 英 [ˌkɒmprɪˈhensɪv] 美 [ˌkɑːmprɪˈhensɪv]
+
+expenditure 英 [ɪkˈspendɪtʃə(r)] 美 [ɪkˈspendɪtʃər]
+
+relentless 英 [rɪˈlentləs] 美 [rɪˈlentləs]
+
+mammal 英 [ˈmæml] 美 [ˈmæml]
+
+apnea 英 [æp'nɪə] 美 [æp'niə]
+
+trauma 英 [ˈtrɔːmə] 美 [ˈtrɔːmə, ˈtraʊmə]
+
+diverse 英 [daɪˈvɜːs] 美 [daɪˈvɜːrs]
+
+captivity 英 [kæpˈtɪvəti] 美 [kæpˈtɪvəti]
+
+soil 英 [sɔɪl] 美 [sɔɪl]
+
+statistics 英 [stə'tɪstɪks] 美 [stə'tɪstɪks]
+
+statistical 英 [stəˈtɪstɪk(ə)l] 美 [stəˈtɪstɪk(ə)l]
+
+statistically 英 [stəˈtɪstɪkli] 美 [stəˈtɪstɪkli]
+
+statistic 英 [stəˈtɪstɪk] 美 [stəˈtɪstɪk]
+
+statistician 英 [ˌstætɪˈstɪʃn] 美 [ˌstætɪˈstɪʃn]
+
+perceive 英 [pəˈsiːv] 美 [pərˈsiːv]
+
+conceive 英 [kənˈsiːv] 美 [kənˈsiːv]
+
+preconceive 英 [ˌpriːkənˈsiːv]
+
+puzzle 英 [ˈpʌz(ə)l] 美 [ˈpʌz(ə)l]
+
+puzzled 英 [ˈpʌz(ə)ld] 美 [ˈpʌz(ə)ld]
+
+drizzle 英 [ˈdrɪz(ə)l] 美 [ˈdrɪz(ə)l]
+
+dazzle 英 [ˈdæz(ə)l] 美 [ˈdæz(ə)l]
+
+sizzle 英 [ˈsɪzl] 美 [ˈsɪzl]
+
+annual 英 [ˈænjuəl] 美 [ˈænjuəl]
+
+blatant 英 [ˈbleɪtnt] 美 [ˈbleɪtnt]
+
+disregard 英 [ˌdɪsrɪˈɡɑːd] 美 [ˌdɪsrɪˈɡɑːrd]
+
+scar 英 [skɑː(r)] 美 [skɑːr]
+
+propagation 英 [ˌprɒpəˈɡeɪʃn] 美 [ˌprɑːpəˈɡeɪʃn]
+
+profitability 英 [ˌprɒfɪtəˈbɪləti] 美 [ˌprɑːfɪtəˈbɪləti]
+
+salient 英 [ˈseɪliənt] 美 [ˈseɪliənt]
+
+rigorously 英 [ˈrɪɡərəsli] 美 [ˈrɪɡərəsli]
+
+vigorously 英 [ˈvɪɡərəsli] 美 [ˈvɪɡərəsli]
+
+alphabet 英 [ˈælfəbet] 美 [ˈælfəbet]
+
+interpretation 英 [ɪnˌtɜːprəˈteɪʃn] 美 [ɪnˌtɜːrprəˈteɪʃn]
+
+harassment 英 [ˈhærəsmənt; həˈræsmənt] 美 [həˈræsmənt, ˈhærəsmənt]
+
+temperamental 英 [ˌtemprəˈmentl] 美 [ˌtemprəˈmentl]
+
+downsize 英 [ˈdaʊnsaɪz] 美 [ˈdaʊnsaɪz]
+
+sap 英 [sæp] 美 [sæp]
