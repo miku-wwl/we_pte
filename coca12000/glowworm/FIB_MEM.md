@@ -761,3 +761,92 @@ s tir（谐音三体人）→三体人“搅乱了”人类战舰→stirv.搅动
 quantitative 英 [ˈkwɒntɪtətɪv] 美 [ˈkwɑːntəteɪtɪv]
 
 occurring 英 [ə'kɜ:rɪŋ] 美 [ə'kɜrɪŋ]
+
+properties 英 ['prɒpətɪz] 美 ['prɔpɚtɪz]
+
+spectrum 英 [ˈspektrəm] 美 [ˈspektrəm]
+
+loosely 英 [ˈluːsli] 美 [ˈluːsli]
+
+consciousness 英 [ˈkɒnʃəsnəs] 美 [ˈkɑːnʃəsnəs]
+
+articulation 英 [ɑːˌtɪkjuˈleɪʃn] 美 [ɑːrˌtɪkjuˈleɪʃn]
+articulatev.明确表达，清楚说明；发音清晰地讲话；以关节连接adj.善于表达的；发音清晰的+ion名词后缀
+→ articulationn.关节；接合；清晰发音
+
+magnifying 英 ['mægnɪfaɪɪŋ] 美 [ˈmæɡnɪfaɪɪŋ]
+
+sustainable 英 [səˈsteɪnəbl] 美 [səˈsteɪnəbl]
+
+breathe 英 [briːð] 美 [briːð]
+
+planet 英 [ˈplænɪt] 美 [ˈplænɪt]
+
+trauma 英 [ˈtrɔːmə] 美 [ˈtrɔːmə,ˈtraʊmə]
+
+volume 英 [ˈvɒljuːm] 美 [ˈvɑːljuːm,ˈvɑːljəm]
+
+inbred 英 [ˌɪnˈbred] 美 [ˌɪnˈbred]
+
+widening 英 ['waɪdəʊɪŋ] 美 [ˈwaɪdnɪŋ]
+
+concentration 英 [ˌkɒnsnˈtreɪʃn] 美 [ˌkɑːnsnˈtreɪʃn]
+
+aftermath 英 [ˈɑːftəmæθ; ˈɑːftəmɑːθ] 美 [ˈæftərmæθ]
+
+laboratory 英 [ləˈbɒrətri] 美 [ˈlæbrətɔːri]
+注意音标
+
+critically 英 [ˈkrɪtɪkli] 美 [ˈkrɪtɪkli]
+
+secular 英 [ˈsekjələr] 美 [ˈsekjələr]
+注意音标
+色哭了→世俗，非宗教才会有这种现象， 元千 ecular adj.世俗的；长期的；现世的；不朽的n.牧师
+
+elementary 英 [ˌelɪˈmentri] 美 [ˌelɪˈmentri]
+element 元素，要素+ary...的，有...性质的→基本的→ elementary adj.基本的
+
+coercive 英 [kəʊˈɜːsɪv] 美 [koʊˈɜːrsɪv]
+电影中坏人都coer靠在你耳朵旁边，说一些很器张的话→强迫的、肋迫的→coercive adj.强制的；胁迫的；高
+压的
+
+abrupt 英 [əˈbrʌpt] 美 [əˈbrʌpt]
+interrupt打断是abrupt突然的
+
+subsiding 英 [ ] 美 [səbˈsaɪdɪŋ]
+subside=sub (下）+side (边) ）→下沉
+
+figurative 英 [ˈfɪɡərətɪv] 美 [ˈfɪɡjərətɪv]
+注意音标
+figure 外形，象征+ative形容词→figurative adj.比喻的；形象的
+
+patriotism 英 [ˈpætriətɪzəm; ˈpeɪtriətɪzəm] 美 [ˈpeɪtriətɪzəm]
+patriot 爱国者+ism表主义→爱国主义→ patriotism n.爱国主义
+
+external 英 [ɪkˈstɜːnl] 美 [ɪkˈstɜːrnl]
+
+eternal 英 / ɪˈtɜːn(ə)l / 美 / ɪˈtɜːrn(ə)l /
+
+tremendous 英 [trəˈmendəs] 美 [trəˈmendəs]
+注意音标
+
+matchbox 英 [ˈmætʃbɒks] 美 [ˈmætʃbɑːks]
+
+redact 英 [rɪˈdækt] 美 [rɪˈdækt]
+
+heart 英 [hɑːt] 美 [hɑːrt]
+
+determining 英 [dɪ'tɜːmɪnɪŋ] 美 [dɪ'tɝmɪnɪŋ]
+
+pasture 英 [ˈpɑːstʃə(r)] 美 [ˈpæstʃər]
+
+aspiration 英 [ˌæspəˈreɪʃn] 美 [ˌæspəˈreɪʃn]
+a 加强+ spir 呼吸+ ation，aspire 的名词→热望→aspiration n.热望
+
+paradoxical 英 [ˌpærəˈdɒksɪkl] 美 [ˌpærəˈdɑːksɪkl]
+
+alphabet 英 [ˈælfəbet] 美 [ˈælfəbet]
+
+electronic 英 [ɪˌlekˈtrɒnɪk] 美 [ɪˌlekˈtrɑːnɪk]
+
+former 英 [ˈfɔːmə(r)] 美 [ˈfɔːrmər]
