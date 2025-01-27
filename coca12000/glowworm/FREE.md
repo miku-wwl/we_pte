@@ -535,29 +535,319 @@
 - judiciary 英 [dʒuˈdɪʃəri] 美 [dʒuˈdɪʃieri]
 - prejudice 英 [ˈpredʒədɪs] 美 [ˈpredʒədɪs]
 
-#### Speculation 相关
+### Speculation 词族
 - **speculation**: 投机，推测（名词）
+  - 英音: [ˌspekjuˈleɪʃ(ə)n]
+  - 美音: [ˌspekjuˈleɪʃ(ə)n]
 - **speculate**: 投机，猜测（动词）
+  - 英音: [ˈspekjuleɪt]
+  - 美音: [ˈspekjuleɪt]
 - **speculative**: 投机的，推测的（形容词）
+  - 英音: [ˈspekjələtɪv]
+  - 美音: [ˈspekjələtɪv]
 - **speculator**: 投机者（名词）
+  - 英音: [ˈspekjuleɪtə(r)]
+  - 美音: [ˈspekjuleɪtər]
 
-#### 时间和顺序相关
+### Previous 和相关词汇
 - **previous**: 先前的（形容词）
+  - 英音: [ˈpriːviəs]
+  - 美音: [ˈpriːviəs]
 - **prior**: 在前的，优先的（形容词/副词）
+  - 英音: [ˈpraɪə(r)]
+  - 美音: [ˈpraɪər]
 - **preceding**: 在前的，先于...的（形容词/现在分词）
+  - 英音: [prɪˈsiːdɪŋ]
+  - 美音: [prɪˈsiːdɪŋ]
 
-#### 繁荣相关
+### Prosperity 词族
 - **prosperity**: 繁荣（名词）
+  - 英音: [prɒˈsperəti]
+  - 美音: [prɑːˈsperəti]
 - **prosperous**: 繁荣的，兴旺的（形容词）
+  - 英音: [ˈprɒspərəs]
+  - 美音: [ˈprɑːspərəs]
 - **prosper**: 繁荣，成功（动词）
+  - 英音: [ˈprɒspə(r)]
+  - 美音: [ˈprɑːspər]
 
-#### 法律和审判相关
+### Jury 和相关词汇
 - **jury**: 陪审团（名词）
+  - 英音: [ˈdʒʊəri]
+  - 美音: [ˈdʒʊri]
 - **juror**: 陪审员（名词）
+  - 英音: [ˈdʒʊərə(r)]
+  - 美音: [ˈdʒʊrər]
 - **jurisdiction**: 司法权，管辖权（名词）
+  - 英音: [ˌdʒʊərɪsˈdɪkʃn]
+  - 美音: [ˌdʒʊrɪsˈdɪkʃ(ə)n]
 - **perjury**: 作伪证（名词）
+  - 英音: [ˈpɜːdʒəri]
+  - 美音: [ˈpɜːrdʒəri]
 - **judge**: 法官，裁判（名词/动词）
+  - 英音: [dʒʌdʒ]
+  - 美音: [dʒʌdʒ]
 - **judgment** 或 **judgement**: 判断，判决（名词）
+  - 英音: [ˈdʒʌdʒmənt]
+  - 美音: [ˈdʒʌdʒmənt]
 - **judicial**: 司法的，法庭的（形容词）
+  - 英音: [dʒuːˈdɪʃəl]
+  - 美音: [dʒuːˈdɪʃəl]
 - **prejudice**: 偏见，损害（名词/动词）
+  - 英音: [ˈpredʒədɪs]
+  - 美音: [ˈpredʒədɪs]
 - **judiciary**: 司法系统（名词）
+  - 英音: [dʒuˈdɪʃəri]
+  - 美音: [dʒuˈdɪʃieri]
+
+### Aesthetic 词族
+- **aesthetic**: 审美的（形容词）
+  - 英音: [iːsˈθetɪk]
+  - 美音: [esˈθetɪk]
+- **aesthetics**: 美学（名词）
+  - 英音: [iːsˈθetɪks; esˈθetɪks]
+  - 美音: [esˈθetɪks]
+- **aesthetically**: 在美学上（副词）
+  - 英音: [iːsˈθetɪkli]
+  - 美音: [esˈθetɪkli]
+
+### Infection 词族
+- **infection**: 感染（名词）
+  - 英音: [ɪnˈfekʃ(ə)n]
+  - 美音: [ɪnˈfekʃ(ə)n]
+- **infect**: 感染（动词）
+  - 英音: [ɪnˈfekt]
+  - 美音: [ɪnˈfekt]
+- **infectious**: 传染性的（形容词）
+  - 英音: [ɪnˈfekʃəs]
+  - 美音: [ɪnˈfekʃəs]
+- **infected**: 被感染的（形容词）
+  - 英音: [ɪnˈfektɪd]
+  - 美音: [ɪnˈfektɪd]
+- **disinfectant**: 消毒剂（名词）
+  - 英音: [ˌdɪsɪnˈfektənt]
+  - 美音: [ˌdɪsɪnˈfektənt]
+
+### Defect 词族
+- **defect**: 缺陷，瑕疵（名词/动词）
+  - 英音: [ˈdiːfekt]
+  - 美音: [ˈdiːfekt]
+- **defective**: 有缺陷的（形容词）
+  - 英音: [dɪˈfektɪv]
+  - 美音: [dɪˈfektɪv]
+- **defection**: 变节，叛逃（名词）
+  - 英音: [dɪˈfekʃn]
+  - 美音: [dɪˈfekʃn]
+- **defector**: 叛逃者（名词）
+  - 英音: [dɪˈfektə(r)]
+  - 美音: [dɪˈfektər]
+
+### Specific 词族
+- **specific**: 具体的（形容词）
+  - 英音: [spəˈsɪfɪk]
+  - 美音: [spəˈsɪfɪk]
+- **specifically**: 具体地说（副词）
+  - 英音: [spəˈsɪfɪkli]
+  - 美音: [spəˈsɪfɪkli]
+- **specify**: 明确说明（动词）
+  - 英音: [ˈspesɪfaɪ]
+  - 美音: [ˈspesɪfaɪ]
+- **specification**: 规格，说明书（名词）
+  - 英音: [ˌspesɪfɪˈkeɪʃ(ə)n]
+  - 美音: [ˌspesɪfɪˈkeɪʃ(ə)n]
+- **specified**: 已明确的（形容词）
+  - 英音: [ˈspesɪfaɪd]
+  - 美音: [ˈspesɪfaɪd]
+- **specificity**: 特异性（名词）
+  - 英音: [ˌspesɪˈfɪsəti]
+  - 美音: [ˌspesɪˈfɪsəti]
+- **unspecified**: 未指定的（形容词）
+  - 英音: [ʌnˈspesɪfaɪd]
+  - 美音: [ʌnˈspesɪfaɪd]
+
+### Biblical 和 Bibliography 相关
+- **biblical**: 圣经的（形容词）
+  - 英音: [ˈbɪblɪkl]
+  - 美音: [ˈbɪblɪkl]
+- **bibliography**: 参考书目，文献目录（名词）
+  - 英音: [ˌbɪbliˈɒɡrəfi]
+  - 美音: [ˌbɪbliˈɑːɡrəfi]
+
+
+### Auditor 词族
+- **auditor**: 审计员（名词）
+  - 英音: [ˈɔːdɪtə(r)]
+  - 美音: [ˈɔːdɪtər]
+- **auditorium**: 礼堂，听众席（名词）
+  - 英音: [ˌɔːdɪˈtɔːriəm]
+  - 美音: [ˌɔːdɪˈtɔːriəm]
+- **audience**: 听众，观众（名词）
+  - 英音: [ˈɔːdiəns]
+  - 美音: [ˈɔːdiəns]
+- **audit**: 审计，查账（名词/动词）
+  - 英音: [ˈɔːdɪt]
+  - 美音: [ˈɔːdɪt]
+
+### Trauma 词族
+- **trauma**: 创伤（名词）
+  - 英音: [ˈtrɔːmə]
+  - 美音: [ˈtrɔːmə]
+- **traumatic**: 创伤性的（形容词）
+  - 英音: [trɔːˈmætɪk]
+  - 美音: [trəˈmætɪk]
+- **traumatize**: 使受创伤（动词）
+  - 英音: [ˈtrɔːmətaɪz]
+  - 美音: [ˈtrɔːmətaɪz, ˈtraʊmətaɪz]
+
+### Inherit 词族
+- **inherit**: 继承（动词）
+  - 英音: [ɪnˈherɪt]
+  - 美音: [ɪnˈherɪt]
+- **inherent**: 固有的，内在的（形容词）
+  - 英音: [ɪnˈherənt]
+  - 美音: [ɪnˈherənt]
+- **inheritance**: 遗产，继承权（名词）
+  - 英音: [ɪnˈherɪtəns]
+  - 美音: [ɪnˈherɪtəns]
+- **inherently**: 内在地（副词）
+  - 英音: [ɪnˈherəntli]
+  - 美音: [ɪnˈherəntli]
+- **inherited**: 继承来的（形容词）
+  - 英音: [ɪnˈherɪtɪd]
+  - 美音: [ɪnˈherɪtɪd]
+
+### Coherent 词族
+- **coherent**: 连贯的，有条理的（形容词）
+  - 英音: [kəʊˈhɪərənt]
+  - 美音: [koʊˈhɪrənt]
+- **coherence**: 连贯性，一致性（名词）
+  - 英音: [kəʊˈhɪərəns]
+  - 美音: [koʊˈhɪrəns]
+- **incoherent**: 不连贯的，混乱的（形容词）
+  - 英音: [ˌɪnkəʊˈhɪərənt]
+  - 美音: [ˌɪnkoʊˈhɪrənt]
+
+### Relevant 词族
+- **relevant**: 相关的（形容词）
+  - 英音: [ˈreləvənt]
+  - 美音: [ˈreləvənt]
+- **irrelevant**: 不相关的（形容词）
+  - 英音: [ɪˈreləvənt]
+  - 美音: [ɪˈreləvənt]
+- **relevance**: 相关性（名词）
+  - 英音: [ˈreləvəns]
+  - 美音: [ˈreləvəns]
+
+### Fascinate 词族
+- **fascinating**: 迷人的，吸引人的（形容词）
+  - 英音: [ˈfæsɪneɪtɪŋ]
+  - 美音: [ˈfæsɪneɪtɪŋ]
+- **fascinate**: 使着迷，吸引（动词）
+  - 英音: [ˈfæsɪneɪt]
+  - 美音: [ˈfæsɪneɪt]
+- **fascination**: 入迷，魅力（名词）
+  - 英音: [ˌfæsɪˈneɪʃ(ə)n]
+  - 美音: [ˌfæsɪˈneɪʃ(ə)n]
+- **fascinated**: 被迷住的（形容词）
+  - 英音: [ˈfæsɪneɪtɪd]
+  - 美音: [ˈfæsɪneɪtɪd]
+
+### Collaboration 词族
+- **collaboration**: 合作，协作（名词）
+  - 英音: [kəˌlæbəˈreɪʃ(ə)n]
+  - 美音: [kəˌlæbəˈreɪʃ(ə)n]
+- **collaborate**: 合作，协作（动词）
+  - 英音: [kəˈlæbəreɪt]
+  - 美音: [kəˈlæbəreɪt]
+- **collaborative**: 合作的（形容词）
+  - 英音: [kəˈlæbərətɪv]
+  - 美音: [kəˈlæbəreɪtɪv]
+- **collaborator**: 合作者（名词）
+  - 英音: [kəˈlæbəreɪtə(r)]
+  - 美音: [kəˈlæbəreɪtər]
+
+### Prosperity 词族
+- **prosperity**: 繁荣，成功（名词）
+  - 英音: [prɒˈsperəti]
+  - 美音: [prɑːˈsperəti]
+- **prosperous**: 繁荣的，兴旺的（形容词）
+  - 英音: [ˈprɒspərəs]
+  - 美音: [ˈprɑːspərəs]
+- **prosper**: 繁荣，成功（动词）
+  - 英音: [ˈprɒspə(r)]
+  - 美音: [ˈprɑːspər]
+
+### Sanity 和 Sanitation 相关
+- **insanity**: 精神错乱（名词）
+  - 英音: [ɪnˈsænəti]
+  - 美音: [ɪnˈsænəti]
+- **sanitation**: 卫生，公共卫生（名词）
+  - 英音: [ˌsænɪˈteɪʃ(ə)n]
+  - 美音: [ˌsænɪˈteɪʃ(ə)n]
+- **sanity**: 理智，健全（名词）
+  - 英音: [ˈsænəti]
+  - 美音: [ˈsænəti]
+- **sanitary**: 卫生的，清洁的（形容词）
+  - 英音: [ˈsænət(ə)ri]
+  - 美音: [ˈsænəteri]
+
+### Poem 词族
+- **poem**: 诗（名词）
+  - 英音: [ˈpəʊɪm]
+  - 美音: [ˈpoʊəm]
+- **poet**: 诗人（名词）
+  - 英音: [ˈpəʊɪt]
+  - 美音: [ˈpoʊət]
+- **poetry**: 诗歌（名词）
+  - 英音: [ˈpəʊətri]
+  - 美音: [ˈpoʊətri]
+- **poetic**: 诗的，诗意的（形容词）
+  - 英音: [pəʊˈetɪk]
+  - 美音: [poʊˈetɪk]
+
+### Critical 词族
+- **critical**: 关键的，批评的（形容词）
+  - 英音: [ˈkrɪtɪk(ə)l]
+  - 美音: [ˈkrɪtɪk(ə)l]
+- **critic**: 批评家（名词）
+  - 英音: [ˈkrɪtɪk]
+  - 美音: [ˈkrɪtɪk]
+- **criticism**: 批评，评论（名词）
+  - 英音: [ˈkrɪtɪsɪzəm]
+  - 美音: [ˈkrɪtɪsɪzəm]
+- **criticize**: 批评，批判（动词）
+  - 英音: [ˈkrɪtɪsaɪz]
+  - 美音: [ˈkrɪtɪsaɪz]
+- **critique**: 评论，批评文章（名词/动词）
+  - 英音: [krɪˈtiːk]
+  - 美音: [krɪˈtiːk]
+- **critically**: 批判地（副词）
+  - 英音: [ˈkrɪtɪkli]
+  - 美音: [ˈkrɪtɪkli]
+- **hypocritical**: 伪善的，虚伪的（形容词）
+  - 英音: [ˌhɪpəˈkrɪtɪk(ə)l]
+  - 美音: [ˌhɪpəˈkrɪtɪk(ə)l]
+
+### Tense 词族
+- **tense**: 紧张的，绷紧的（形容词）/ 时态（名词）
+  - 英音: [tens]
+  - 美音: [tens]
+
+### Intense 词族
+- **intense**: 强烈的，剧烈的（形容词）
+  - 英音: [ɪnˈtens]
+  - 美音: [ɪnˈtens]
+- **intensity**: 强度，强烈（名词）
+  - 英音: [ɪnˈtensəti]
+  - 美音: [ɪnˈtensəti]
+- **intensify**: 加强，增强（动词）
+  - 英音: [ɪnˈtensɪfaɪ]
+  - 美音: [ɪnˈtensɪfaɪ]
+- **intensive**: 强化的，集中的（形容词）
+  - 英音: [ɪnˈtensɪv]
+  - 美音: [ɪnˈtensɪv]
+
+### Density
+- **density**: 密度（名词）
+  - 英音: [ˈdensəti]
+  - 美音: [ˈdensəti]
