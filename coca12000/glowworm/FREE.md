@@ -1,46 +1,65 @@
 ### Illustrate 词族
+
 - illustrate 英 [ˈɪləstreɪt] 美 [ˈɪləstreɪt]
+il向内；进入+lustr光+ate表动词→让光亮照进〔令人模糊的事物】内部→说明→illustrateV.说明，阐明
 - illusion 英 [ɪˈluːʒ(ə)n] 美 [ɪˈluːʒ(ə)n]
+delusion 欺骗，错觉，幻想（de+lusion）
+illusion 错觉、幻觉(il+lusion)
 - illustration 英 [ˌɪləˈstreɪʃ(ə)n] 美 [ˌɪləˈstreɪʃ(ə)n]
 - illuminate 英 [ɪˈluːmɪneɪt] 美 [ɪˈluːmɪneɪt]
 - illumination 英 [ɪˌluːmɪˈneɪʃn] 美 [ɪˌluːmɪˈneɪʃn]
 - illustrator 英 [ˈɪləstreɪtə(r)] 美 [ˈɪləstreɪtər]
 
 ### Equate 词族
+
 - equation 英 [ɪˈkweɪʒ(ə)n] 美 [ɪˈkweɪʒ(0)n]
+equ平等；相等，平均+ation行为，过程，状态，结果→相等；方程式→equationn.相等；方程式
 - equality 英 [iˈkwɒləti] 美 [iˈkwɑːləti]
 - equate 英 [ɪˈkweɪt] 美 [ɪˈkweɪt]
+equ 平等；相等，平均+ate使.→使平等→equatev 使平等
 - equity 英 [ˈekwəti] 美 [ˈekwəti]
+
 - equivalent 英 [ɪˈkwɪvələnt] 美 [ɪˈkwɪvələnt]
 
 ### Value 词族
+
 - priceless 英 [ˈpraɪsləs] 美 [ˈpraɪsləs]
 - invaluable 英 [ɪnˈvæljuəb(ə)l] 美 [ɪnˈvæljuəb(ə)l]
 - valueless 英 [ˈvæljuːləs] 美 [ˈvæljuːləs]
 
 ### Verge
+
 - verge 英 [vɜːdʒ] 美 [vɜːrdʒ]
 
 ### Stimulate 词族
+
 - stimulate 英 [ˈstɪmjuleɪt] 美 [ˈstɪmjuleɪt]
 - simulate 英 [ˈsɪmjuleɪt] 美 [ˈsɪmjuleɪt]
 - formulate 英 [ˈfɔːmjuleɪt] 美 [ˈfɔːrmjuleɪt]
+form 形成+ula→形成的东西→公式→formulan.公式；信条
+formul［a］公式；信条+ate使→使形成公式→公式化→formulatev.公式化；系统地阐述
+form =shape，形状+ul词根间链接+ation复合名词后缀→formulationn.配方；构想；规划；公式化
 - accumulate 英 [əˈkjuːmjəleɪt] 美 [əˈkjuːmjəleɪt]
 - emulate 英 [ˈemjuleɪt] 美 [ˈemjuleɪt]
 
 ### Conservative 词族
+
 - conservative 英 [kənˈsɜːvətɪv] 美 [kənˈsɜːrvətɪv]
 - controversial 英 [ˌkɒntrəˈvɜːʃ(ə)l] 美 [ˌkɑːntrəˈvɜːrʃ(ə)l]
 - conventional 英 [kənˈvenʃən(ə)l] 美 [kənˈvenʃən(ə)l]
 
 ### Immediately
+
 - immediately 英 [ɪˈmiːdiətli] 美 [ɪˈmiːdiətli]
 - intermediate 英 [ˌɪntəˈmiːdiət] 美 [ˌɪntərˈmiːdiət]
+inter 在...之间+medi中间+ate具有...的→中间的→ intermediate adj.中间的，居间的
 
 ### Pollen
+
 - pollen 英 [ˈpɒlən] 美 [ˈpɑːlən]
 
 ### -ternal 结尾形容词
+
 - eternal 英 [ɪˈtɜːn(ə)l] 美 [ɪˈtɜːrn(ə)l]
 - external 英 [ɪkˈstɜːn(ə)l] 美 [ɪkˈstɜːrn(ə)l]
 - internal 英 [ɪnˈtɜːn(ə)l] 美 [ɪnˈtɜːrn(ə)l]
@@ -49,32 +68,46 @@
 - fraternal 英 [frəˈtɜːn(ə)l] 美 [frəˈtɜːrn(ə)l]
 
 ### Portray 词族
+
 - portray 英 [pɔːˈtreɪ] 美 [pɔːrˈtreɪ]
 - portrayal 英 [pɔːˈtreɪəl] 美 [pɔːrˈtreɪəl]
+portray v.描写，描述；画（人物、景象等)+al名词后缀→portrayaln.描绘；画像，肖像
 - portrait 英 [ˈpɔːtreɪt] 美 [ˈpɔːrtrət]
 
 ### 物理粒子
+
 - ion 英 [ˈaɪən] 美 [ˈaɪən, ˈaɪɑːn]
+io-(行走)+n许多→在电解后离子会定向移动，所以取名为ion表示移动→ionn.离子
 - neutron 英 [ˈnjuːtrɒn] 美 [ˈnuːtrɑːn]
 - proton 英 [ˈprəʊtɒn] 美 [ˈproʊtɑːn]
 
 ### Ethnic 词族
+
 - ethnic 英 [ˈeθnɪk] 美 [ˈeθnɪk]
+爱死你哥→因为他是同一个民族的→ethnic adj.种族的，民族的；部落的
 - ethnicity 英 [eθˈnɪsəti] 美 [eθˈnɪsəti]
 - ethnically 英 [ˈeθnɪkli] 美 [ˈeθnɪkli]
 - multi-ethnic
 
 ### Convert 词族
+
 - convert 英 [kənˈvɜːt] 美 [kənˈvɜːrt]
+con 加强+vert 转→转化→convert v.转化；改变信仰
 - divert 英 [daɪˈvɜːt] 美 [daɪˈvɜːrt]
+di使..分开 +vert转 →转向 →divert v.使转向
 - avert 英 [əˈvɜːt] 美 [əˈvɜːrt]
+a 加强+vert转→不停转→避开→avert v.避开
 - revert 英 [rɪˈvɜːt] 美 [rɪˈvɜːrt]
+re回+vert 转→转回来→恢复原状→revert v.恢复原状
 - subvert 英 [səbˈvɜːt] 美 [səbˈvɜːrt]
+sub 下+ vert 转 转到 推翻 > subvert v.颠覆，推翻
 
 ### Diabetes
+
 - diabetes 英 [ˌdaɪəˈbiːtiːz] 美 [ˌdaɪəˈbiːtiːz]
 
 ### Critical 词族
+
 - critical 英 [ˈkrɪtɪk(ə)l] 美 [ˈkrɪtɪk(ə)l]
 - critic 英 [ˈkrɪtɪk] 美 [ˈkrɪtɪk]
 - criticism 英 [ˈkrɪtɪsɪzəm] 美 [ˈkrɪtɪsɪzəm]
@@ -82,74 +115,114 @@
 - critique 英 [krɪˈtiːk] 美 [krɪˈtiːk]
 - critically 英 [ˈkrɪtɪkli] 美 [ˈkrɪtɪkli]
 - hypocritical 英 [ˌhɪpəˈkrɪtɪk(ə)l] 美 [ˌhɪpəˈkrɪtɪk(ə)l]
+ hypo下面+ critical在背后批评的→ hypocritical adj.伪善的，伪君子的
 
 ### Cede 词族
+
 - accede 英 [əkˈsiːd] 美 [əkˈsiːd]
 - cede 英 [siːd] 美 [siːd]
 - concede 英 [kənˈsiːd] 美 [kənˈsiːd]
+con（一起，共同）+cede（v.放弃）→说好了一起放弃→concedev.让步、退让
 - precede 英 [prɪˈsiːd] 美 [prɪˈsiːd]
+pre 前；预先+ced走+e→走在〔时间］前面→先于→precedeV.在先，优于
 - unprecedented 英 [ʌnˈpresɪdentɪd] 美 [ʌnˈpresɪdentɪd]
+un 无+ precedent前例+ ed 表形容词→史无前例的→unprecedented adj.史无前例的
 
 ### Credit 词族
+
 - emblem 英 [ˈembləm] 美 [ˈembləm]
+Fire Emblem
 - credit 英 [ˈkredɪt] 美 [ˈkredɪt]
 - incredible 英 [ɪnˈkredəb(ə)l] 美 [ɪnˈkredəb(ə)l]
+注意音标
 - credibility 英 [ˌkredəˈbɪləti] 美 [ˌkredəˈbɪləti]
 - incredibly 英 [ɪnˈkredəbli] 美 [ɪnˈkredəbli]
 - credible 英 [ˈkredəb(ə)l] 美 [ˈkredəb(ə)l]
 - discredit 英 [dɪsˈkredɪt] 美 [dɪsˈkredɪt]
 
 ### Neural 词族
+
 - neural 英 [ˈnjʊərəl] 美 [ˈnʊrəl]
+neur 神经+ al ...的→神经的→neural adj.神经的
 - neuron 英 [ˈnjʊərɒn] 美 [ˈnʊrɑːn]
 - neurological 英 [ˌnjʊərəˈlɒdʒɪkl] 美 [ˌnʊrəˈlɑːdʒɪkl]
 - neurologist 英 [njʊəˈrɒlədʒɪst] 美 [nʊˈrɑːlədʒɪst]
 - neurotic 英 [njʊəˈrɒtɪk] 美 [nʊˈrɑːtɪk]
+n.神经病患者;adj.神经质的，神经病的
 - neurosurgeon 英 [ˈnjʊərəʊsɜːdʒən] 美 [ˈnʊroʊsɜːrdʒən]
 - neuroscience 英 [ˈnjʊərəʊsaɪəns] 美 [ˈnʊroʊsaɪəns]
+病人蜂拥（surge）着去找这位有名的外科医生（surgeon）做外科手术（surgery)
 
 ### -addle 词族
+
 - saddle 英 [ˈsæd(ə)l] 美 [ˈsæd(ə)l]
 - paddle 英 [ˈpæd(ə)l] 美 [ˈpæd(ə)l]
+拍的→划船是在水上拍→paddlen.桨，船桨vt.用桨划
 - straddle 英 [ˈstrædl] 美 [ˈstrædl]
+s(死）+tradd（拽的）+le（了）→他"跨坐"在栏杆上，看起来死拽的样子
 - waddle 英 [ˈwɒd(ə)l] 美 [ˈwɑːd(ə)l]
+读：哇逗，哇塞，真逗！这人儿走路跟鸭子似的。
+toddle 英 / ˈtɒdl / 美 / ˈtɑːdl /
+huddle 英 / ˈhʌd(ə)l / 美 / ˈhʌd(ə)l /
+hud（=hug拥抱）+dle（了）→大家拥抱在一起→挤在一起
+
 
 ### Omnis- 词族
+
 - omniscient 英 [ɒmˈnɪsiənt] 美 [ɑːmˈnɪʃənt]
+注意英美音标
 - omnipresent 英 [ˌɒmnɪˈprez(ə)nt] 美 [ˌɑːmnɪˈprez(ə)nt]
 
 ### Sew 词族
+
 - sew 英 [səʊ] 美 [soʊ]
 - seam 英 [siːm] 美 [siːm]
+细吗→这条"接缝"细吗→seamn.缝，接缝；矿层，煤层
 - screw 英 [skruː] 美 [skruː]
+每一个船员crew都是船上的一颗螺丝screw
 - unscrew 英 [ˌʌnˈskruː] 美 [ˌʌnˈskruː]
+un 打开，解开，弄出＋screw 螺丝钉→拧出螺丝→unscrew V.拧出螺丝
 
 ### Gravity 词族
+
 - gravity 英 [ˈɡrævəti] 美 [ˈɡrævəti]
 - gravitational 英 [ˌɡrævɪˈteɪʃən(ə)l] 美 [ˌɡrævɪˈteɪʃənl]
 - gravitate 英 [ˈɡrævɪteɪt] 美 [ˈɡrævɪteɪt]
 
 ### Endorse 词族
+
 - endorse 英 [ɪnˈdɔːs] 美 [ɪnˈdɔːrs]
+endorse：谐音，en嗯dorse都是，[同意]，签名！
 - endorsement 英 [ɪnˈdɔːsmənt] 美 [ɪnˈdɔːrsmənt]
 
 ### Mimic 词族
+
 - mimicry 英 [ˈmɪmɪkri] 美 [ˈmɪmɪkri]
 - mimic 英 [ˈmɪmɪk] 美 [ˈmɪmɪk]
 - imitate 英 [ˈɪmɪteɪt] 美 [ˈɪmɪteɪt]
 
 ### Contaminate 词族
+
 - contamination 英 [kənˌtæmɪˈneɪʃ(ə)n] 美 [kənˌtæmɪˈneɪʃ(ə)n]
 - contaminate 英 [kənˈtæmɪneɪt] 美 [kənˈtæmɪneɪt]
+contamin污染+ate表动词→弄脏，污染→contaminatev.弄脏，污染
 - contaminated 英 [kənˈtæməneɪtɪd] 美 [kənˈtæmɪneɪtɪd]
 - contaminant 英 [kənˈtæmɪnənt] 美 [kənˈtæmɪnənt]
 
 ### Prosecute 词族
+
 - prosecutor 英 [ˈprɒsɪkjuːtə(r)] 美 [ˈprɑːsɪkjuːtər]
+pro优先+secu(security安全）+tor（指代：人）→优先检查安全的人→检察官→prosecutor n.公诉人，
+检察官，原告律师，控方律师
 - prosecution 英 [ˌprɒsɪˈkjuːʃ(ə)n] 美 [ˌprɑːsɪˈkjuːʃ(0)n]
 - prosecute 英 [ˈprɒsɪkjuːt] 美 [ˈprɑːsɪkjuːt]
+persecutor 英 / ˈpɜːsɪkjuːtə(r) / 美 / ˈpɜːrsɪkjuːtər /
+persecution 英 / ˌpɜːsɪˈkjuːʃ(ə)n / 美 / ˌpɜːrsɪˈkjuːʃn /
+由于受到教会迫害（persecution），per几乎每一个科学家都被处决（execution）了
+persecute 英 / ˈpɜːsɪkjuːt / 美 / ˈpɜːrsɪkjuːt /
 
 ### Emerge 词族
+
 - emerge 英 [ɪˈmɜːdʒ] 美 [ɪˈmɜːrdʒ]
 - emergency 英 [ɪˈmɜːdʒənsi] 美 [ɪˈmɜːrdʒənsi]
 - emergence 英 [ɪˈmɜːdʒəns] 美 [ɪˈmɜːrdʒəns]
@@ -157,78 +230,112 @@
 - re-emerge 英 [ˌriː iˈmɜːdʒ] 美 [ˌriː iˈmɜːrdʒ]
 
 ### Accumulate 词族
+
 - accumulate 英 [əˈkjuːmjəleɪt] 美 [əˈkjuːmjəleɪt]
 - cumulative 英 [ˈkjuːmjələtɪv] 美 [ˈkjuːmjəleɪtɪv]
 - accumulation 英 [əˌkjuːmjəˈleɪʃn] 美 [əˌkjuːmjəˈleɪʃn]
 - accumulated 英 [əˈkjuːmjəleɪtɪd] 美 [əˈkjuːmjəleɪtɪd]
 
 ### Perpetuate 词族
+
 - perpetuate 英 [pəˈpetʃueɪt] 美 [pərˈpetʃueɪt]
+per 自始至终+ pet寻求；力争+uate→追求永久→使永久→perpetuate v.使永久
 - perpetrator 英 [ˈpɜːpətreɪtə(r)] 美 [ˈpɜːrpətreɪtər]
+
 - perpetrate 英 [ˈpɜːpətreɪt] 美 [ˈpɜːrpətreɪt]
+per全部，pet宠物，r，ate吃－把全部的宠物吃了－犯罪per全部，pet石头，rate：因为犯罪全部变成石头
 
 ### Rampant 和相关词汇
+
 - rampant 英 [ˈræmpənt] 美 [ˈræmpənt]
 - rampage 英 [ræmˈpeɪdʒ] 美 [ˈræmpeɪdʒ]
 
 ### Specular 和相关词汇
+
 - specular 英 [ˈspekjʊlə(r)] 美 [ˈspekjələr]
 - spectacular 英 [spekˈtækjələ(r)] 美 [spekˈtækjələr]
 
 ### Pilgrim 和相关词汇
+
 - pilgrimage 英 [ˈpɪlɡrɪmɪdʒ] 美 [ˈpɪlɡrɪmɪdʒ]
 - pilgrim 英 [ˈpɪlɡrɪm] 美 [ˈpɪlɡrɪm]
+[pil]pile一群+[grim]意思是严肃的，庄重的→称是一群面容肃穆的人是朝圣者
 
 ### Odd number 和 Even number
+
 - odd number (奇数)
 - even number (偶数)
 
 ### Illuminate 词族
+
 - illuminate 英 [ɪˈluːmɪneɪt] 美 [ɪˈluːmɪneɪt]
 - luminous 英 [ˈluːmɪnəs] 美 [ˈluːmɪnəs]
+lumin 流明，物理学单位，形容发光强度+-ous，怎样的
 - illumination 英 [ɪˌluːmɪˈneɪʃn] 美 [ɪˌluːmɪˈneɪʃn]
 - illuminated 英 [ɪˈluːmɪneɪtɪd] 美 [ɪˈluːmɪneɪtɪd]
 - luminary 英 [ˈluːmɪnəri] 美 [ˈluːmɪneri]
+lumin 光；照亮＋ary表人或物→发亮的人→杰出人物→luminary n.杰出人物
 - luminosity 英 [ˌluːmɪˈnɒsəti] 美 [ˌluːmɪˈnɑːsəti]
+lumin 光；照亮+osity表状态→光辉→luminosityn.光明，光辉
 - illuminating 英 [ɪˈluːmɪneɪtɪŋ] 美 [ɪˈluːmɪneɪtɪŋ]
 
 ### Spectre 和相关词汇
+
 - spectre 英 [ˈspektə(r)] 美 [ˈspektər]
 - spectral 英 [ˈspektrəl] 美 [ˈspektrəl]
+spect(看，看见）+re,er(人或物）→可以被（意外）看到的人或物→幽灵、鬼→spectre n.幽灵；妖
+怪；鬼性(等于specter)
 
 ### Style 词族
+
 - style 英 [staɪl] 美 [staɪl]
 - lifestyle 英 [ˈlaɪfstaɪl] 美 [ˈlaɪfstaɪl]
 - stylish 英 [ˈstaɪlɪʃ] 美 [ˈstaɪlɪʃ]
+style风格+-ish表形容词→stylish adj.时髦的，流行的；现代风格的；潇洒的
 - styling 英 [ˈstaɪlɪŋ] 美 [ˈstaɪlɪŋ]
 - stylistic 英 [staɪˈlɪstɪk] 美 [staɪˈlɪstɪk]
+风格上的，文体上的
 - stylist 英 [ˈstaɪlɪst] 美 [ˈstaɪlɪst]
 - freestyle 英 [ˈfriːstaɪl] 美 [ˈfriːstaɪl]
 
 ### 材料与工艺
+
 - parchment 英 [ˈpɑːtʃmənt] 美 [ˈpɑːrtʃmənt]
+羊皮纸，仿羊皮纸，羊皮纸文献
 - vellum 英 [ˈveləm] 美 [ˈveləm]
+牛皮纸；皮纸文书；上等皮纸
 - carve 英 [kɑːv] 美 [kɑːrv]
 - engrave 英 [ɪnˈɡreɪv] 美 [ɪnˈɡreɪv]
 - etch 英 [etʃ] 美 [etʃ]
+蚀刻 金属表面） 铭记； 铭刻
 
 ### Truant 词族
+
 - truant 英 [ˈtruːənt] 美 [ˈtruːənt]
 - truancy 英 [ˈtruːənsi] 美 [ˈtruːənsi]
+tru =truth真，ant蚂蚁：真正的蚂蚁是不上学的－逃学者
 
 ### Forum 词族
+
 - forum 英 [ˈfɔːrəm] 美 [ˈfɔːrəm]
 - forensic 英 [fəˈrenzɪk] 美 [fəˈrenzɪk]
+注意音标
 
 ### Cohere 词族
+
 - cohere 英 [kəʊˈhɪə(r)] 美 [koʊˈhɪr]
+co 共同+her 黏附+e→粘在—起→粘着→coherev.附着；粘着
 - coherent 英 [kəʊˈhɪərənt] 美 [koʊˈhɪrənt]
+coher 附着；黏着＋ent具有...性质的→粘连着而不乱的→有条理的→coherent adj.连贯的；有条理
 - coherence 英 [kəʊˈhɪərəns] 美 [koʊˈhɪrəns]
 - incoherent 英 [ˌɪnkəʊˈhɪərənt] 美 [ˌɪnkoʊˈhɪrənt]
 - cohesion 英 [kəʊˈhiːʒ(ə)n] 美 [koʊˈhiːʒ(ə)n]
+扣很紧→有凝聚力的团队互相扣得很紧→cohesionn.凝聚力，内聚力；结合，团结
 - cohesive 英 [kəʊˈhiːsɪv] 美 [koʊˈhiːsɪv]
+co[音似call] +he他+sive[音似师傅]→ →call他师傅前来助阵→师傅随call随到，代表这个门派是[团结的、有凝聚力的]
 
 ### Coast 词族
+
 - coast 英 [kəʊst] 美 [koʊst]
 - coastal 英 [ˈkəʊst(ə)l] 美 [ˈkoʊst(ə)l]
 - coastline 英 [ˈkəʊstlaɪn] 美 [ˈkoʊstlaɪn]
@@ -236,235 +343,331 @@
 - roller-coaster 英 [ˈrəʊlə kəʊstə(r)] 美 [ˈroʊlər koʊstər]
 
 ### 自然现象
+
 - earthquake 英 [ˈɜːθkweɪk] 美 [ˈɜːrθkweɪk]
 - Hot Spring (温泉)
 - geyser 英 [ˈɡiːzə(r)] 美 [ˈɡaɪzər]
+间歇泉， (厨房或浴室的)煤气热水器，热水锅炉， (建筑物的)电热水器
 - Mud Volcano (泥火山)
 - geothermal 英 [ˌdʒiːəʊˈθɜːml] 美 [ˌdʒiːoʊˈθɜːrml]
 - glacier 英 [ˈɡlæsiə(r)] 美 [ˈɡleɪʃər]
+glac=glass 玻璃+ier 的东西→冰川是像玻璃—样的东西→glacier n.冰河，冰川
 - waterfall 英 [ˈwɔːtəfɔːl] 美 [ˈwɔːtərfɔːl]
 - tsunami 英 [tsuːˈnɑːmi] 美 [tsuːˈnɑːmi]
 
 ### 地理与气候
+
 - desert 英 [ˈdezət] 美 [ˈdezərt]
 - canyon 英 [ˈkænjən] 美 [ˈkænjən]
+the Grand Canyon科罗拉多大峡谷
 - sand dune 英 [ˈsænd djuːn]
 - cyclone 英 [ˈsaɪkləʊn] 美 [ˈsaɪkloʊn]
 - typhoon 英 [taɪˈfuːn] 美 [taɪˈfuːn]
 
 ### Sway 和 Swing
+
 - sway 英 [sweɪ] 美 [sweɪ]
 - swing 英 [swɪŋ] 美 [swɪŋ]
 
 ### Rigid 词族
+
 - rigid 英 [ˈrɪdʒɪd] 美 [ˈrɪdʒɪd]
 - rigidity 英 [rɪˈdʒɪdəti] 美 [rɪˈdʒɪdəti]
+注意音标
 
 ### Diverge 词族
+
 - divergent 英 [daɪˈvɜːdʒənt] 美 [daɪˈvɜːrdʒənt]
 - diverge 英 [daɪˈvɜːdʒ] 美 [daɪˈvɜːrdʒ]
 - divergence 英 [daɪˈvɜːdʒəns] 美 [daɪˈvɜːrdʒəns]
 
 ### Scrutiny 词族
+
 - scrutiny 英 [ˈskruːtəni] 美 [ˈskruːtəni]
+scr死磕-u你-tiny微小的→死磕你，一点微小的细节也不放过→仔细观察；详细审查
 - scrutinize 英 [ˈskruːtənaɪz] 美 [ˈskruːtənaɪz]
 
 ### Loom 和 Bloom 词族
+
 - loom 英 [luːm] 美 [luːm]
+100（loo）+m（米）→在相隔100米的地方赫然耸现→loomv.赫然算现
 - bloom 英 [bluːm] 美 [bluːm]
 - gloom 英 [ɡluːm] 美 [ɡluːm]
 - gloomy 英 [ˈɡluːmi] 美 [ˈɡluːmi]
 - looming 英 [ˈluːmɪŋ] 美 [ˈluːmɪŋ]
+(不希望或不愉快的事情)迫近的，逼近的
 
 ### Tangle 词族
+
 - tangle 英 [ˈtæŋɡ(ə)l] 美 [ˈtæŋɡ(ə)l]
+糖糕 (tangle）都粘在一起了 (乱成一团)
 - tangled 英 [ˈtæŋɡ(ə)ld] 美 [ˈtæŋɡ(ə)ld]
 - rectangle 英 [ˈrektæŋɡl] 美 [ˈrektæŋɡ(ə)l]
 - entangle 英 [ɪnˈtæŋɡ(ə)l] 美 [ɪnˈtæŋɡ(ə)l]
+使纠缠；卷入；使混乱
 - entanglement 英 [ɪnˈtæŋɡlmənt] 美 [ɪnˈtæŋɡlmənt]
 - untangle 英 [ˌʌnˈtæŋɡl] 美 [ˌʌnˈtæŋɡl]
 
 ### Allude 词族
+
 - allude 英 [əˈluːd] 美 [əˈluːd]
+我说她有吸引力（allure），其实是在暗指（allude）：“我喜欢她"。
 - allusion 英 [əˈluːʒ(ə)n] 美 [əˈluːʒ(ə)n]
 - allure 英 [əˈlʊə(r)] 美 [əˈlʊr]
 
 ### 微生物相关词汇
+
 - germ 英 [dʒɜːm] 美 [dʒɜːrm]
 - microbe 英 [ˈmaɪkrəʊb] 美 [ˈmaɪkroʊb]
 - microorganism 英 [ˌmaɪkrəʊˈɔːɡənɪzəm] 美 [ˌmaɪkroʊˈɔːrɡənɪzəm]
 
 ### Residue 词族
+
 - residue 英 [ˈrezɪdjuː] 美 [ˈrezɪduː]
+resi (reside定居) （到期的 到期 还 看， 没被清理走的→残余物、 遗产→residue n.残
+渣；剩余；滤渣
 - residual 英 [rɪˈzɪdjuəl] 美 [rɪˈzɪdʒuəl]
 
 ### Integrate 词族
+
 - integrate 英 [ˈɪntɪɡreɪt] 美 [ˈɪntɪɡreɪt]
 - integrated 英 [ˈɪntɪɡreɪtɪd] 美 [ˈɪntɪɡreɪtɪd]
 - disintegrate 英 [dɪsˈɪntɪɡreɪt] 美 [dɪsˈɪntɪɡreɪt]
+帝死，因他跪了→帝国瓦解死亡，只因为那个战士他跪下了→disintegratev.(使某物)碎裂，崩裂；瓦
+解，分崩离析； (使某物)衰微
 
 ### 宗教相关词汇
+
 - monk 英 [mʌŋk] 美 [mʌŋk]
+“忙磕”→和尚每天忙着磕头
 - nun 英 [nʌn] 美 [nʌn]
 - monastery 英 [ˈmɒnəst(ə)ri] 美 [ˈmɑːnəsteri]
 - convent 英 [ˈkɒnvənt] 美 [ˈkɑːnvent, ˈkɑːnvənt]
+convene 英 / kənˈviːn / 美 / kənˈviːn /
+con 共同＋ven来+e→都来到—起→召集→convenev.召集
+convene所有人到convent[女修道院]里举行convention[会议、大会]
 
 ### 选区和选民
+
 - electorate 英 [ɪˈlektərət] 美 [ɪˈlektərət]
 - precinct 英 [ˈpriːsɪŋkt] 美 [ˈpriːsɪŋkt]
 
 ### 财产相关词汇
+
 - estate 英 [ɪˈsteɪt] 美 [ɪˈsteɪt]
 - asset 英 [ˈæset] 美 [ˈæset]
 
 ### Correlation 词族
+
 - correlation 英 [ˌkɒrəˈleɪʃ(ə)n] 美 [ˌkɔːrəˈleɪʃ(ə)n]
 - correlate 英 [ˈkɒrəleɪt; ˈkɒrələt] 美 [ˈkɔːrəleɪt; ˈkɔːrələt]
 
 ### 包含 "ridge" 的单词
+
 - bridge 英 [brɪdʒ] 美 [brɪdʒ]
 - ridge 英 [rɪdʒ] 美 [rɪdʒ]
+ri日+edge→看日出的边界→就是山脊那个地方
 - cartridge 英 [ˈkɑːtrɪdʒ] 美 [ˈkɑːrtrɪdʒ]
 - fridge 英 [frɪdʒ] 美 [frɪdʒ]
 - porridge 英 [ˈpɒrɪdʒ] 美 [ˈpɔːrɪdʒ]
+por[看成poor] +ridge[山脊]→住在山脊上的穷人只能天天喝粥→粥→porridge n.粥，麦片粥
 
 ### Adorn 词族
+
 - adorn 英 [əˈdɔːn] 美 [əˈdɔːrn]
+adorm装扮后变得可爱adorable
 - adornment 英 [əˈdɔːnmənt] 美 [əˈdɔːrnmənt]
+装修结束， a dollar(美元) =dor没了 (ment)
 - adore 英 [əˈdɔː(r)] 美 [əˈdɔːr]
+a(啊！）+dore(倒）→见到偶像喜欢的倒了→adore vt.热爱，爱慕(某人)；喜爱(某物)
 
 ### Identify 词族
+
 - identify 英 [aɪˈdentɪfaɪ] 美 [aɪˈdentɪfaɪ]
 - identification 英 [aɪˌdentɪfɪˈkeɪʃ(ə)n] 美 [aɪˌdentɪfɪˈkeɪʃ(ə)n]
 - identical 英 [aɪˈdentɪk(ə)l] 美 [aɪˈdentɪk(ə)l]
+完全相同的 全同样的， 同一的
 - unidentified 英 [ˌʌnaɪˈdentɪfaɪd] 美 [ˌʌnaɪˈdentɪfaɪd]
 - identifiable 英 [aɪˌdentɪˈfaɪəb(ə)l] 美 [aɪˌdentɪˈfaɪəb(ə)l]
 - identified 英 [aɪˈdentɪfaɪd] 美 [aɪˈdentɪfaɪd]
 
 ### Subsidize 词族
+
 - subsidize 英 [ˈsʌbsɪdaɪz] 美 [ˈsʌbsɪdaɪz]
 - subsidy 英 [ˈsʌbsədi] 美 [ˈsʌbsədi]
 - subsidies 英 [ˈsʌbsədiz] 美 [ˈsʌbsədiz]
 
 ### Perpetrate 词族
+
 - perpetrator 英 [ˈpɜːpətreɪtə(r)] 美 [ˈpɜːrpətreɪtər]
 - perpetrate 英 [ˈpɜːpətreɪt] 美 [ˈpɜːrpətreɪt]
+per全部，pet宠物，r，ate吃－把全部的宠物吃了－犯罪per全部，pet石头，rate：因为犯罪全部变成石头
 - perpetration 英 [ˌpɜːpəˈtreɪʃn] 美 [ˌpɜːrpəˈtreɪʃn]
 
 ### Moral 词族
+
 - moral 英 [ˈmɒrəl] 美 [ˈmɔːrəl]
 - morality 英 [məˈræləti] 美 [məˈræləti]
+注意音标
 - morally 英 [ˈmɒrəli] 美 [ˈmɔːrəli]
 - morale 英 [məˈrɑːl] 美 [məˈræl]
+军歌词里充满moral道德、寓意以提升morale斗志、士气
 - immoral 英 [ɪˈmɒrəl] 美 [ɪˈmɔːrəl]
 - demoralize 英 [dɪˈmɒrəlaɪz] 美 [dɪˈmɔːrəlaɪz]
 
 ### Pluralism 词族
+
 - pluralism 英 [ˈplʊərəlɪzəm] 美 [ˈplʊrəlɪzəm]
+注意音标
 - plurality 英 [plʊəˈræləti] 美 [plʊˈræləti]
+注意音标
 - pluralistic 英 [ˌplʊərəˈlɪstɪk] 美 [ˌplʊrəˈlɪstɪk]
+注意音标
 - plural 英 [ˈplʊərəl] 美 [ˈplʊrəl]
+注意音标
+
 
 ### -arian 后缀词汇
+
 - humanitarian 英 [hjuːˌmænɪˈteəriən] 美 [hjuːˌmænɪˈteriən]
 - authoritarian 英 [ɔːˌθɒrɪˈteəriən] 美 [əˌθɔːrəˈteriən]
+authority 权力＋ arian ...的→独裁主义的→ authoritarian adj.独裁主义的
 - vegetarian 英 [ˌvedʒəˈteəriən] 美 [ˌvedʒəˈteriən]
 - sectarian 英 [sekˈteəriən] 美 [sekˈteriən]
-- veterinarian 英 [ˌvetərɪˈneəriən] 美 [ˌvetərɪˈneriən]
+宗派主义者，属于宗派的人，宗派心强的人
 - totalitarian 英 [təʊˌtæləˈteəriən] 美 [toʊˌtæləˈteriən]
+total 全部+it行走+arian ..的→全部权力归—身的→权力主义的→ totalitarian adj.极权主义的
 - utilitarian 英 [ˌjuːtɪlɪˈteəriən] 美 [ˌjuːtɪlɪˈteriən]
+实用的，功利的，实惠的，实用主义的，功利主义的
+功利主义者，实用主义者
 - egalitarian 英 [iˌɡælɪˈteəriən] 美 [iˌɡælɪˈteriən]
+平等主义者，平等主义
+平等主义的，主张人人平等的
 - libertarian 英 [ˌlɪbəˈteəriən] 美 [ˌlɪbərˈteriən]
+自由论者
+自由的；自由论者的；自由意志论者的
 
 ### Adolescent 词族
+
 - adolescent 英 [ˌædəˈles(ə)nt] 美 [ˌædəˈles(ə)nt]
 - adolescence 英 [ˌædəˈles(ə)ns] 美 [ˌædəˈles(ə)ns]
 
 ### 血管相关词汇
+
 - artery 英 [ˈɑːtəri] 美 [ˈɑːrtəri]
+artery:arter(water水，液体)+y→水流过得地方→干道主流，动脉
 - vein 英 [veɪn] 美 [veɪn]
+蜿蜓→静脉在体内曲折蜿蜓→veinn.静脉，血管；叶脉；纹理，纹路；方式，风格
 - capillary 英 [kəˈpɪləri] 美 [ˈkæpəleri]
+capill毛发+ary 物→像毛发般细的东西→毛细血管→capillary n.毛细血管
 
 ### Protest 词族
+
 - protest 英 [ˈprəʊtest] 美 [ˈproʊtest]
+注意音标
 - Protestant 英 [ˈprɒtɪstənt] 美 [ˈprɑːtɪstənt]
+注意音标
 - protester 英 [prəˈtestə(r); ˈprəʊtestə(r)] 美 [prəˈtestər, ˈproʊtestər]
 - Protestantism 英 [ˈprɒtɪstəntɪzəm] 美 [ˈprɑːtɪstəntɪzəm]
 
 ### Oversee 和相关词汇
+
 - overlook 英 [ˌəʊvəˈlʊk] 美 [ˌoʊvərˈlʊk]
 - oversee 英 [ˌəʊvəˈsiː] 美 [ˌoʊvərˈsiː]
 - oversight 英 [ˈəʊvəsaɪt] 美 [ˈoʊvərsaɪt]
 - overview 英 [ˈəʊvəvjuː] 美 [ˈoʊvərvjuː]
 
 ### Individualization 和 Personalization
+
 - individualization 英 [ˌɪndɪvɪdʒuəlaɪˈzeɪʃn] 美 [ˌɪndɪvɪdʒuələˈzeɪʃn]
 - personalization 美 [ˌpɜːrsənələˈzeɪʃ(ə)n]
 
 ### Pesticide 和 Herbicide
+
 - pesticide 英 [ˈpestɪsaɪd] 美 [ˈpestəsaɪd]
 - herbicide 英 [ˈhɜːbɪsaɪd] 美 [ˈɜːrbɪsaɪd]
 
 ### Determine 词族
+
 - determine 英 [dɪˈtɜːmɪn] 美 [dɪˈtɜːrmɪn]
+注意音标
 - determination 英 [dɪˌtɜːmɪˈneɪʃ(ə)n] 美 [dɪˌtɜːrmɪˈneɪʃ(ə)n]
 - determined 英 [dɪˈtɜːmɪnd] 美 [dɪˈtɜːrmɪnd]
 - self-determination 英 [ˌself dɪˌtɜːmɪˈneɪʃ(ə)n] 美 [ˌself dɪˌtɜːrmɪˈneɪʃ(ə)n]
 - determining 英 [dɪˈtɜːmɪnɪŋ] 美 [dɪˈtɜːrmɪnɪŋ]
 - determinant 英 [dɪˈtɜːmɪnənt] 美 [dɪˈtɜːrmɪnənt]
+决定性因素，决定条件；决定子，因子；行列式，方阵
 - predetermined 英 [ˌpriːdɪˈtɜːmɪnd] 美 [ˌpriːdɪˈtɜːrmɪnd]
-- indeterminate 英 [ˌɪndɪˈtɜːmɪnət] 美 [ˌɪndɪˈtɜːrmɪnət]
-- determinism 英 [dɪˈtɜːmɪnɪzəm] 美 [dɪˈtɜːrmɪnɪz(ə)m]
 
 ### Virtue 词族
+
 - virtually 英 [ˈvɜːtʃuəli] 美 [ˈvɜːrtʃuəli]
-- virtue 英 [ˈvɜːtʃuː] 美 [ˈvɜːrtʃuː]
 - virtual 英 [ˈvɜːtʃuəl] 美 [ˈvɜːrtʃuəl]
+- virtue 英 [ˈvɜːtʃuː] 美 [ˈvɜːrtʃuː]
+我丑→我丑但我有"美德”→virtuen.美德，德行；优点，长处
 - virtuous 英 [ˈvɜːtʃuəs] 美 [ˈvɜːrtʃuəs]
-- virtuoso 英 [ˌvɜːtʃuˈəʊsəʊ] 美 [ˌvɜːrtʃuˈoʊsoʊ]
+“为他而死”→可以为他人而死的人，是品格高尚的！→virtuous adj.善良的；有道德的；贞洁的；正
+直的；有效力的
 
 ### Corrosion 词族
+
 - corrosion 英 [kəˈrəʊʒ(ə)n] 美 [kəˈroʊʒ(ə)n]
+cor 表加强＋ros 咬＋ion表动作→不断咬→腐蚀→corrosion n.腐蚀
 - corrosive 英 [kəˈrəʊsɪv] 美 [kəˈroʊsɪv]
 
 ### Portfolio 和 Briefcase
+
 - portfolio 英 [pɔːtˈfəʊliəʊ] 美 [pɔːrtˈfoʊlioʊ]
+port (携带) folio (纸张) 携带纸张的工具 具→公文包
 - briefcase 英 [ˈbriːfkeɪs] 美 [ˈbriːfkeɪs]
 
 ### Ethnic 词族
+
 - ethnic 英 [ˈeθnɪk] 美 [ˈeθnɪk]
 - ethnicity 英 [eθˈnɪsəti] 美 [eθˈnɪsəti]
 - ethnographic 英 [ˌeθnəˈɡræfɪk] 美 [ˌeθnəˈɡræfɪk]
+人种志的；民族志学的
 - ethically 英 [ˈeθnɪkli] 美 [ˈeθnɪkli]
 
 ### Allergy 词族
+
 - allergy 英 [ˈælədʒi] 美 [ˈælərdʒi]
 - allergic 英 [əˈlɜːdʒɪk] 美 [əˈlɜːrdʒɪk]
+注意音标
 - allergen 英 [ˈælədʒən] 美 [ˈælərdʒən]
+注意音标
 
 ### Executive 词族
+
 - executive 英 [ɪɡˈzekjətɪv] 美 [ɪɡˈzekjətɪv]
 - execute 英 [ˈeksɪkjuːt] 美 [ˈeksɪkjuːt]
 - execution 英 [ˌeksɪˈkjuːʃ(ə)n] 美 [ˌeksɪˈkjuːʃ(ə)n]
 - executioner 英 [ˌeksɪˈkjuːʃənə(r)] 美 [ˌeksɪˈkjuːʃənər]
+execution处决+er者→executioner n.会子手，死刑执行人
 
 ### Dilute 词族
+
 - dilute 英 [daɪˈluːt] 美 [daɪˈluːt]
 - dilution 英 [daɪˈluːʃn; daɪˈljuːʃn] 美 [daɪˈluːʃn]
+di 滴+lu入+te它→把水滴入→稀释
 
 ### Pension 词族
+
 - pension 英 [ˈpenʃ(ə)n] 美 [ˈpenʃən]
 - pensioner 英 [ˈpenʃənə(r)] 美 [ˈpenʃənər]
 
 ### Ethic 词族
+
 - ethic 英 [ˈeθɪk] 美 [ˈeθɪk]
 - ethics 英 [ˈeθɪks] 美 [ˈeθɪks]
 - ethical 英 [ˈeθɪk(ə)l] 美 [ˈeθɪk(ə)l]
 
 ### Legislate 词族
+
 - legislate 英 [ˈledʒɪsleɪt] 美 [ˈledʒɪsleɪt]
 - legislation 英 [ˌledʒɪsˈleɪʃn] 美 [ˌledʒɪsˈleɪʃ(ə)n]
 - legislature 英 [ˈledʒɪslətʃə(r)] 美 [ˈledʒɪsleɪtʃər]
+注意音标
 - legislative 英 [ˈledʒɪslətɪv] 美 [ˈledʒɪsleɪtɪv]
 - legitimate 英 [lɪˈdʒɪtɪmət] 美 [lɪˈdʒɪtɪmət]
 - legitimacy 英 [lɪˈdʒɪtɪməsi] 美 [lɪˈdʒɪtɪməsi]
@@ -472,10 +675,15 @@
 - illegitimacy 英 [ˌɪləˈdʒɪtəməsi] 美 [ˌɪləˈdʒɪtəməsi]
 
 ### Strategy 词族
+
 - strategy 英 [ˈstrætədʒi] 美 [ˈstrætədʒi]
-- strategic 英 [strəˈtiːdʒɪk] 美 [strəˈtiːdʒɪk]
+注意音标
 - strategist 英 [ˈstrætədʒɪst] 美 [ˈstrætədʒɪst]
+注意音标
+- strategic 英 [strəˈtiːdʒɪk] 美 [strəˈtiːdʒɪk]
+注意音标
 - strategically 英 [strəˈtiːdʒɪkli] 美 [strəˈtiːdʒɪkli]
+注意音标
 
 ### Instinct 词族
 - instinct 英 [ˈɪnstɪŋkt] 美 [ˈɪnstɪŋkt]
