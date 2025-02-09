@@ -1059,3 +1059,355 @@ di 滴+lu入+te它→把水滴入→稀释
 - **density**: 密度（名词）
   - 英音: [ˈdensəti]
   - 美音: [ˈdensəti]
+
+neural 英 [ˈnjʊərəl] 美 [ˈnʊrəl] neur 神经+ al ...的→神经的→neural adj.神经的
+neuron 英 [ˈnjʊərɒn] 美 [ˈnʊrɑːn]
+neurological 英 [ˌnjʊərəˈlɒdʒɪkl] 美 [ˌnʊrəˈlɑːdʒɪkl]
+neurologist 英 [njʊəˈrɒlədʒɪst] 美 [nʊˈrɑːlədʒɪst]
+neurotic 英 [njʊəˈrɒtɪk] 美 [nʊˈrɑːtɪk] n.神经病患者;adj.神经质的，神经病的
+neurosurgeon 英 [ˈnjʊərəʊsɜːdʒən] 美 [ˈnʊroʊsɜːrdʒən]
+neuroscience 英 [ˈnjʊərəʊsaɪəns] 美 [ˈnʊroʊsaɪəns] 病人蜂拥（surge）着去找这位有名的外科医
+生（surgeon）做外科手术（surgery)
+neutral 英 / ˈnjuːtrəl / 美 / ˈnuːtrəl /
+neutralize 英 / ˈnjuːtrəlaɪz / 美 / ˈnuːtrəlaɪz /
+neutrality 英 / njuːˈtræləti / 美 / nuːˈtræləti /
+neutralization 英 / ˌnjuːtrəlaɪˈzeɪʃ(ə)n / 美 / ˌnuːtrələˈzeɪʃ(ə)n /
+
+speculate 英 / ˈspekjuleɪt / 美 / ˈspekjuleɪt /
+spectacular 英 / spekˈtækjələ(r) / 美 / spekˈtækjələr /
+
+cohere 英 / kəʊˈhɪə(r) / 美 / koʊˈhɪr /
+adhere 英 / ədˈhɪə(r) / 美 / ədˈhɪr /
+
+
+cohere 英 [kəʊˈhɪə(r)] 美 [koʊˈhɪr] co 共同+her 黏附+e→粘在—起→粘着→coherev.附着；粘着
+coherent 英 [kəʊˈhɪərənt] 美 [koʊˈhɪrənt] coher 附着；黏着＋ent具有...性质的→粘连着而不乱的
+→有条理的→coherent adj.连贯的；有条理
+coherence 英 [kəʊˈhɪərəns] 美 [koʊˈhɪrəns]
+incoherent 英 [ˌɪnkəʊˈhɪərənt] 美 [ˌɪnkoʊˈhɪrənt]
+
+adhere 英 / ədˈhɪə(r) / 美 / ədˈhɪr /
+adherence 英 / ədˈhɪərəns / 美 / ədˈhɪrəns /
+adherent 英 / ədˈhɪərənt / 美 / ədˈhɪrənt /
+
+feeble
+resent
+
+ingenious
+indigenous
+ingenuous
+indignant
+ingenuity
+
+impede
+forbid
+block
+prevent
+hamper
+obstruct
+hinder
+
+compel
+expel
+propel
+complain
+complex
+
+
+bland
+jejune
+insipid
+humdrum
+banal
+drad
+
+
+declaim
+disclaim
+exclaim
+reclaim
+decline
+
+exhibit
+exhaust
+exhale
+
+desperate
+despair
+
+radical
+racial
+radiant
+radiate
+rational
+
+
+provoke
+invoke
+evoke
+revoke
+convoke
+
+extinct
+instinct
+
+repeal
+abolish
+abrogate
+revoke
+annul
+rescind
+
+excrescent
+redundant
+unnecessary
+ residual
+superfluous
+ remanent
+
+delicate 
+flaky 
+friable
+  tender
+ tenuous
+ weak
+
+strife
+stride
+strike
+stripe
+strive
+
+
+defuse
+diffuse
+confuse
+refuse
+infuse
+
+
+invoke
+evoke
+provoke
+involve
+revoke
+
+
+ deactivated
+ ineffectual
+inoperative
+invalid 
+void 
+ noneffective
+
+ unexceptionable
+superb 
+admirable 
+splendid 
+fabulous
+  marvellous 
+
+impetus
+impact
+implement
+input
+impart
+
+explicit
+expect
+express
+expire
+explain
+
+
+cause
+trigger
+induce
+engender
+spark
+produce
+
+elaborate
+liberate
+elapse
+evaporate
+electric
+
+redolent
+relevant
+reduction
+relative
+reluctant
+
+
+oblivious
+obvious
+obliterate
+obligation
+obtrusive
+
+picky 
+censorious
+choosy
+ fastidious 
+pernickety
+ fussy
+
+statue
+status
+statute
+stature
+saturate
+
+repute
+impute
+depute
+report
+repulse
+
+compose
+compass
+compare
+compact
+comprise
+
+
+integrity
+integrate
+introduce
+interest
+interview
+
+inspect
+respect
+insect
+prospect
+insert
+
+
+allegation
+allocation
+delegation
+alleviate
+allocate
+
+
+signify
+signal
+assign
+sign
+design
+
+
+release
+liberate
+discharge 
+ assoil
+manumit
+affranchise
+
+
+conduct
+condemn
+contact
+condition
+confirm
+
+aggregate
+aggressive
+agreement
+against
+aggravate
+
+penetrate
+infuse
+pervade
+permeate
+diffuse
+seep
+
+
+invalid 
+void 
+ineffective
+futile 
+useless 
+inoperative
+
+abandon
+surrender 
+forsake 
+ quit 
+recede 
+forego
+
+expel 
+impel
+dispel
+repel
+
+
+
+
+acclaim
+declaim
+disclaim
+exclaim
+reclaim
+
+
+express 
+articulate 
+convey 
+communicate
+voice 
+give vent to
+
+contend
+confuse
+consider
+consist
+content
+
+drought
+daughter
+
+
+violate
+infringe
+offend
+breach
+deviate
+infract
+
+obstruct
+hinder
+block
+impede
+inhibit
+cumber
+
+
+
+ defer
+delay
+postpone
+suspend 
+retard 
+adjourn
+
+
+savage
+average
+village
+salvage
+ravage
+
+
+
+divise
+device
+devastate
+diverse
+deceive
+
