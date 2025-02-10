@@ -1411,3 +1411,597 @@ devastate
 diverse
 deceive
 
+
+dim
+faint
+hazy 英 / ˈheɪzi / 美 / ˈheɪzi /
+haze薄雾变e为y→hazy a.雾气腾腾的
+vague
+vag 漫游+ue→漫游而思想不集中→含糊的→vague adj.含糊的
+ambiguous
+indefinite
+
+rigorous
+vigorous
+rigor 英 / ˈrɪɡə(r) / 美 / ˈrɪɡər /
+厉格→严厉＋严格→严厉的、严谨的→rigor n.严厉；精确；苛刻；僵硬
+religious 英 / rɪˈlɪdʒəs / 美 / rɪˈlɪdʒəs /
+宗教信仰的，宗教的，
+ridiculous
+
+incident
+in 使.….+cid落下；降临+ent表名词→使〔突然］降临→偶然事件→incidentn.偶然事件
+accident
+ac朝向+cid落下，降临+ent名词后缀→某物朝下落→事故→accidentn.意外遭遇，事故；意外(因素)
+incentive
+in 进入+cent—分钱+ive名词后缀→进入金钱→钻到钱眼里去了→金钱就是动力→incentive n.激
+励，刺激，鼓励
+instant
+instance
+
+hesitate
+resist
+persist
+insist
+hesitant
+hesi喝死+tant虑忑→他忐忑地想，这么喝下去该喝死了，犹豫下一杯还喝不喝→hesitant，adj.犹豫
+不决的，不情愿的
+habitat 英 / ˈhæbɪtæt / 美 / ˈhæbɪtæt /
+habit 居住+at地方→（动植物）居住地→habitatn．（动植物）居住地
+
+refute
+当对方refute[反驳]你 就代表refuse拒绝你的说法
+contradict
+contra(反)+dict（说，讲）→反着你的意思说→v.反驳→contradictv.反驳；相矛盾，相抵触
+retort 
+re 回+tort扭曲→反着扭→反驳→retort V.反驳
+disprove
+controvert
+contro 相反+vert转→反着转→反驳→controvertv.反驳
+introvert
+extrovert
+counter
+
+patrol
+patrol谐音"派出”，派出所的警察出来巡逻、巡查
+petrol
+巡逻(patrol)车需要汽油（petrol)
+patron
+patr父亲→ patron主顾→patronize经常光顾
+顾客就是上帝，经常光顾的顾客像就是店主的亲爹
+patriot
+patri 父亲，引申为“祖国”+ot表人→爱国者→patriot n.爱国者
+pistol
+“必死透”→pistol n.手枪
+
+inhibit
+prohibit
+in 不+hibit有；拿→不让拿→禁止→inhibitv.禁止，阻止
+inhabit
+in 使...+habit居住→居住→inhabitv.居住
+inherit
+inherent
+habit
+exhibit
+
+frank
+candid
+can 能够＋did做→你真的能做→真诚的→candid adj.率直的，坦白而诚实的
+candidate
+honest
+direct
+forthright
+不要犹豫，直率一点（forthright），向前走（forth），才是对的（right）→→forthright adj.直率的，直
+截了当的；adv.直率地，直截了当地
+outspoken
+
+prospect
+pro 向前，在前＋ spect看→向前看→前景→prospect n.景象，前景
+prosperous
+inspect
+prospective
+pro 向前＋ spect 看 + ive ..的→将来的→ prospective adj.将来的
+propose
+perspective
+
+compensate
+repay
+reimburse
+redress
+
+extend
+extent
+扩大(extend)范围 (extent)
+extract
+expect
+
+impose
+im 使..；加以..；饰以...+ pos 放+e→强行放置→把...强加于→imposev.把...强加于
+expose
+compose
+propose
+
+fundamental
+basic
+essential
+primary
+elemental
+cardinal
+card 心，心脏+inal→像心一样的→首要的→cardinaladj.首要的，主要的
+cardin卡丁 al形容词后缀
+
+outstanding
+excellent
+exceptional
+exception→例外，除外。即在大众之中是例外的→优秀的，杰出的，异常的，特殊的
+remarkable
+distinguished
+distinguish 区别；辨出+ed 表形容词→与众不同的→著名的→distinguished adj.著名的；卓越的
+prominent
+pro向前+ 出，突出+ t真有..性质的→同前突出→杰出的 勺→prominent adj.显著的；杰出
+的
+
+rigorous
+rigor 严格＋ous有.性质的，关于...的→严密的；严格的→rigorous adj.严密的；严格的
+religious
+ridiculous
+vigorous
+vigor 精力+ ous...的→精力旺盛的→vigorous adj.精力旺盛的
+ambiguous
+am（我）很大（big）uous（形容词后缀），我很大会引发歧义的
+rigor
+
+compact
+
+dictate
+dict 说；断言＋ate 表动词→说话→口授→dictateV.口授；命令
+dictation
+dictionary
+delicate 英 / ˈdelɪkət / 美 / ˈdelɪkət /
+注意音标
+dedicate 英 / ˈdedɪkeɪt / 美 / ˈdedɪkeɪt /
+dedi(爹地)做cate(美食)都有奉献精神
+deliberate 英 / dɪˈlɪbərət / 美 / dɪˈlɪbərət /
+注意音标
+decent
+
+convention
+con 共同+vent来+ion表名词→大家来到—起→集会→conventionn.集会；惯例
+conversion
+con 共同+vers 转+ion表名词→转化；（宗教的）改变→conversionn.转变
+conservation
+英 / ˌkɒnsəˈveɪʃ(ə)n / 美 / ˌkɑːnsərˈveɪʃ(ə)n /
+conserve（v.保留、保存）＋ation（名词后缀）→conservationn.保存、保留、保护
+conversation
+contention
+con-共同，一起+tend伸+-ion名词后缀]竞争，斗争—→contentionn.论点；争论，争辩
+“看太深”→通过（争论）才能看问题看太深→contentionn.论点；争论，争辩
+conviction
+con（一起、共同）+vict（征服，[vict,vinc=conquer,overcome,表示"征服,克服"]）+tion（名词后缀)
+→法律共同征服了罪犯→convictionn.定罪；证明有罪
+
+assess
+access
+excess
+ex往外+cess走→超过excess一→excess adj.过量的，额外的，附加的n.过量，过度；超越
+excessive
+excess（超过、超额）-ive词缀（有...倾向的）有超额倾向的，过多的、极度的。→excessive adj.过多
+的，过度的，过分的
+lessen
+英 / ˈles(ə)n / 美 / ˈles(ə)n /
+lesson
+英 / ˈles(ə)n / 美 / ˈles(ə)n /
+assume
+asset
+
+affect
+effect
+infect
+defect
+de（否定）+fect（做，[fac,fact,fect,fic,fig=make,do,表示"做,制作"]）→一个人在某方面做得不够→
+defectn.缺点，缺陷；v.变节；叛变
+perfect 英 / ˈpɜːfɪkt / 美 / ˈpɜːrfɪkt /
+
+
+distinguish
+distaste
+厌恶、讨厌
+distort
+dis 分散+tort 扭曲→扭开→曲解→distort v.曲解
+distract
+dis 分开，分离+tract拉→把［心］拉开→分心→distractv.分心
+disguise
+dis（不）gui（该）se（死）战场上不该死，（伪装）起来
+disgust
+dis（不）+gust（风味）→不喜欢的味道，让你"厌恶”→disgust（n.厌恶，嫌恶vt.使厌恶；使作
+呕)
+
+vocation
+vacation
+evoke 英 / ɪˈvəʊk / 美 / ɪˈvoʊk / 
+e出+vok叫喊；声音＋e→喊出〔思想等］→唤醒→→evokev.唤醒
+evocation
+英 / ˌiːvəʊˈkeɪʃn / 美 / ˌiːvoʊˈkeɪʃn /
+唤起，引起，再现
+recreation
+英 / ˌriːkriˈeɪʃn; ˌrekriˈeɪʃən / 美 / ˌriːkriˈeɪʃn; ˌrekriˈeɪʃən /
+advocate
+ad 加强＋voc叫喊；声音＋ate使...→—再呼吁→倡议→advocate n.拥护者
+vacant
+英 / ˈveɪkənt / 美 / ˈveɪkənt /
+vac 空+ant...的→空的；空闲的→vacant adj.空的；空闲的
+
+formulate
+formul［a］公式；信条＋ate 使..→使形成公式→公式化→formulateV.公式化；系统地阐述
+formula
+formal
+simulate
+content
+stimulate
+
+commend 英 / kəˈmend / 美 / kəˈmend /
+comment 英 / ˈkɒment / 美 / ˈkɑːment /
+command 英 / kəˈmɑːnd / 美 / kəˈmænd /
+注意音标
+commence
+content 英 / ˈkɒntent; kənˈtent / 美 / ˈkɑːntent; kənˈtent /
+
+virtue
+在虚拟的virtual世界里，每个人都可以成为浑身优点（virtue）的人
+virtual
+visual
+version
+vision
+vis 看＋ion表名词→视力；眼界→visionn.视力；眼界
+
+struggling
+diligent
+painstaking
+
+alter
+alert
+utter
+ut (=out出去过时外头)+er (反复做)→utter 说出发出完全的
+爱她 爱她就要 说出 发出完全的
+article
+alarm 英 / əˈlɑːm / 美 / əˈlɑːrm /
+altitude
+
+submerge
+sub 下＋merg 沉，没+e→沉下去→沉没→submergev.沉没，淹没
+subtract
+sub 下+tract 拉，拖→拉下去→减去→ subtractv.减去；扣除
+summit 英 / ˈsʌmɪt / 美 / ˈsʌmɪt /
+sum（总,加）+mit(meet见面)→所有领导见面→summit n.顶，最高点；巅峰，高峰；峰会
+
+content
+contention 英 / kənˈtenʃ(ə)n / 美 / kənˈtenʃ(ə)n /
+con-共同，一起+tend伸+-ion名词后缀]竞争，斗争→contentionn.论点；争论，争辩
+contend 英 / kənˈtend / 美 / kənˈtend /
+con共同+tend伸展→—起伸展〔个人观点］→争论→contendv.竞争；争论
+consent
+contest
+context
+contain
+con加强+tain拿住→统统拿住→包含→containv.包含，容纳， 遏制，防止……蔓延；抑制（感情）
+
+strive 英 / straɪv / 美 / straɪv /
+s死+tri=try+ve吾，我→我拼死也要去尝试，这就是奋斗
+
+strip
+strap
+s（蛇）掉进trap(陷阱)最后变成猎人的皮带（strap）→strap n.带，皮带vt.用带扣住，捆扎；包扎
+
+straw
+stride
+年轻人，strive（奋斗）吧！不要畏惧strike（打击），在strife（竞争）中stride（阔步前进）吧！
+straddle 英 / ˈstrædl / 美/ ˈstrædl /
+s（死）+tradd（拽的）+le（了）→他"跨坐"在栏杆上，看起来死拽的样子
+stripe 英 / straɪp / 美 / straɪp /
+死拽布→拽出来—道道条纹→stripen.条纹；种类vt.加条纹于...
+
+
+attract
+attach
+attack
+retract 英 / rɪˈtrækt / 美 / rɪˈtrækt /
+re 向后+tract拉，拖→向后拉→退缩；缩进→retract v.缩回；收回
+
+extract
+
+access
+assess
+accuse
+accede 英 / əkˈsiːd / 美 / əkˈsiːd /
+ac 加强+ced行走，前进+e→—起走→同意→accedeV.答应，同意
+我答应（accede）过小丽，我绝不会放弃（cede），也绝不会认输（concede），我相信有一天我会领
+先于（precede）他，并最终取得史无前例的（unprecedented）成就。
+accent
+
+compel 英 / kəmˈpel / 美 / kəmˈpel /
+com 表加强+pel驱动，推→—再推→强迫→compelv.强迫
+
+
+oblige 英 / əˈblaɪdʒ / 美 / əˈblaɪdʒ /
+注意音标
+ob 加强+lig 捆绑+e→绑住某人→迫使；束缚→obligev.迫使；束缚
+
+constrain 英 / kənˈstreɪn / 美 / kənˈstreɪn /
+con 加强+ strain拉紧→使劲拉→强迫→constrainv.强迫，强制
+
+coercion 英 / kəʊˈɜːʃ(ə)n / 美 / koʊˈɜːrʒn /
+
+coercive 英 / kəʊˈɜːsɪv / 美 / koʊˈɜːrsɪv /
+电影中坏人都coer靠在你耳朵旁边，说一些很嚣张的话→强迫的、胁迫的→coercive adj.强制的；胁
+迫的；高压的
+
+
+dedicate 英 / ˈdedɪkeɪt / 美 / ˈdedɪkeɪt /
+dedi(爹地)做cate(美食)都有奉献精神
+
+delicate 英 / ˈdelɪkət / 美 / ˈdelɪkət /
+注意音标
+
+indicate
+
+delegate 英 / ˈdelɪɡət / 美 / ˈdelɪɡət /
+dele 代理+gate 给他→他就是公司代表→delegaten.代表，代表团成员vt.委托，授(权)给；委派..
+为代表
+
+
+abject
+ab 去掉+ject投掷，扔→被扔掉的→可怜的→abject adj.可怜的
+
+abjure 英 / əbˈdʒʊə(r) / 美 / əbˈdʒʊr /
+ab 去掉，离去+jur发誓+e→发誓离开→发誓，［承诺］放弃→abjurev.发誓，（承诺）放弃
+inject
+in 向内+ject投掷，扔→向里面扔→注射→inject V.注射
+
+distinct district 英/ ˈdɪstrɪkt / 美 / ˈdɪstrɪkt /
+
+extinct 英 / ɪkˈstɪŋkt / 美 / ɪkˈstɪŋkt /
+ex 出+tinct［= stinct」刺；刺激→拔出刺→灭绝的，注意：ex后接s开头的词根时省略s→extinct
+adj.灭绝的
+
+comprise
+compose
+compromise
+
+
+comprehend 英 / ˌkɒmprɪˈhend / 美 / ˌkɑːmprɪˈhend /
+
+
+compress 英 / kəmˈpres / 美 / kəmˈpres /
+com表加强 再压 压缩 compress v.压缩
+
+defect 英 / ˈdiːfekt / 美 / ˈdiːfekt /
+
+
+detect
+depict 英 / dɪˈpɪkt / 美 / dɪˈpɪkt /
+de使...+ +pict 描绘→描述 描绘→depict v.描绘
+田
+abject
+ab 去掉+ject投掷，扔→被扔掉的→可怜的→abject adj.可怜的
+
+pose
+
+oppose
+op 逆，倒；反对+pos放+e→放在〔某物」的对立面→反对→opposeV.反对，反抗
+expose 英 / ɪkˈspəʊz / 美 / ɪkˈspoʊz /
+注意音标
+
+impose
+im 使.；加以...；饰以..+ pos 放+e→强行放置→把...强加于→ impose v.把...强加于
+
+impart
+im 进入+part部分；分开→［引导」进入〔知识的］一部分→传授；告知→impartV.传授；告知
+
+import
+im 进入+port拿，运→→进入〔港口］→进口→import V./n.进口
+impact
+im 进入+ pact 系紧→往里系紧→撞击;冲撞→impact n.撞击;冲撞;冲击力
+impair
+im-反对 对的拆开→损害。
+impose
+im 使..；加以..…；饰以...+ pos 放+e→强行放置→把...强加于→ impose v.把...强加于
+depart
+de 加强+part 部分；分开→分开→离开→depart v.离开
+
+compress
+com 表加强+press 压→—再压→压缩→compress v. 压缩
+
+compass 英 / ˈkʌmpəs / 美 / ˈkʌmpəs /
+注意音标
+
+oppress 英/ əˈpres / 美 / əˈpres /
+op 加强＋press 挤压；逼迫→拼命压→压迫，虐待→oppress.压迫；使（心情等）沉重
+
+suppress 英 / səˈpres / 美 / səˈpres /
+sup 下+ press 挤压；逼迫→压下去→镇压；忍住→suppressv.镇压；忍住 (眼泪等)
+depress
+de 向下；降低，减少+press 压→〔把心情］向下压→压抑→depress v.压抑
+
+reverse
+deserve
+observe
+conserve
+con 加强＋serv 服务；保持+e→都保持下来→保存→保存原有风俗习惯不愿破坏→保守→
+conservev.保存；保守
+preserve
+pre预先＋serv 服务；保持＋e—→预先保留→保存→preserveV.保存
+
+conversion
+con 共同+vers 转+ion表名词→转化；（宗教的）改变→conversionn.转变
+converse
+con 共同+vers 转＋e→〔两个齿轮对着］—起转→相反的→converse adj.相反的
+conserve
+con 加强＋serv 服务；保持＋e→都保持下来→保存→保存原有风俗习惯不愿破坏→保守→
+conservev.保存；保守
+convention
+concert
+con(一起，共同)+cert(=sert，插入)→共同插入自己的乐器声音→音乐会，演奏会
+
+simulate
+simulation
+simulator
+imitate
+emulate
+reproduce
+
+contract
+contractual
+con 加强+tract拉+ual...的→拉紧关系的→contractualadj.契约的，合同的，按合同(或契约)规定
+的
+contractor
+contraction 英 / kənˈtrækʃ(ə)n / 美 / kənˈtrækʃn /
+收缩，缩小，(肌肉的)收缩，挛缩，(尤指分娩时的)子宫收缩，词的缩约形式
+
+agreement
+pact
+pact→派克 克（笔）用派克笔来签订协议，条约
+compact
+com 表加强+pact合同→合同 compact n.合同
+
+intimate 英 / ˈɪntɪmət / 美 / ˈɪntɪmət /
+intimacy
+intim 内心的+acy性质，状态，情况→内部关系→亲密→intimacyn.熟悉；亲密
+intimately 英 / ˈɪntɪmətli / 美 / ˈɪntɪmətli /
+
+hint
+醒它（谐音）→给暗示，弄醒它→hintn.暗示，提示；征兆，迹象；微量；[pl.]建议，秘诀v.暗示
+
+insinuate
+in 使...+sinu 弯曲+ate 表动词→〔说话］拐弯抹角；行动迁回→暗示；迁回地潜入→insinuateV.
+暗示；迁回地潜入
+
+propose
+proposal
+proposition
+提议propose v. proposition 提议,主张
+组成compose v. composition组成，作文
+处理dispose disposition性情，性格
+揭示exposit exposition博览会，阐述
+
+bail
+被殴→进了局子交保释金→bailn.保释金；保释；保释人vt.保释；帮助(某人)脱离困境；往外水
+appliance
+appli(apply应用)+ance(名词后缀)→用具
+
+
+hijack
+
+futile 英 / ˈfjuːtaɪl / 美 / ˈfjuːt(ə)l /
+futile→服他了→服了他了，他什么用都没有→无用的→futile adj.徒然的，徒劳的，无效的
+
+
+abject
+ab 去掉+ject投掷，扔→被扔掉的→可怜的→abject adj.可怜的
+comic
+
+hanger
+吊(hang)衣服的器具(+er)
+如:heater暖气机
+dryer烘干机
+
+siren
+杀人→性感妖女要杀人，快拉响警报器→sirenn.警报器，警报声
+anguish
+俺归西，知道自己要归西了感到“痛苦的"苦恼的”
+perverse
+per-坏+vers-转＋-e→往不好的方向转，是任性的→perverse adj.不通情理的，任性的，执的
+manic 英 / ˈmænɪk / 美 / ˈmænɪk /
+骂ma你ni菜c→打游戏时别人骂你菜你就会狂躁的
+
+shabby
+当遇到"不公正的"事情时，常常使用国粹“shabby”→shabby adj.破旧的，破败的，破烂的，衣着破旧
+的，不公正的，不讲理的
+
+
+blush
+不拉屎→拉不出屎来，月 脸红了→blush v.n.脸红
+
+
+distressed
+di双重，双倍+stress压力→人在一定的压力下会产生动力，再增加压力会产生焦虑，愤怒，当压力
+再增加时就会由焦虑变为沮丧，悲伤→distressn.痛苦，忧虑；贫困，窘迫；危难vt.使忧虑，使悲伤
+
+diverse
+di 分开+vers 转+e→转开了→不同的→diverse adj.不同的
+distinct
+dis 分开+tinct［=stinct］刺；刺激→把刺分开后显得清楚的；明显的→清楚的；明显的→distinct
+adj.清楚的；明显的
+
+
+inept
+in 无+ept 适应；能力→不适宜的；无能的→inept adj.不适宜的；无能的
+
+
+inadequate
+inadequate 英 / ɪnˈædɪkwət / 美 / ɪnˈædɪkwət /
+
+since 
+in that 
+on account of 
+thanks to 
+due to 
+as a result of 
+To my mind
+for the reason that
+owing to 
+because of 
+on the grounds that 
+
+As for me/As to me
+To my knowledge 
+To my way of thinking 
+As far as I'm concerned 
+In my view
+As I see it
+To my mind
+In my submission 
+From my viewpoint 
+From where I stand 
+From my perspective
+In my experience
+
+be clever at
+be expert in
+be skilled in
+have a talent for
+
+pray 英 / preɪ / 美 / preɪ /
+“普瑞”→天下普瑞，就是祈祷→prayv.祈祷，祈求；请求，恳求
+
+prey 英 / preɪ / 美 / preɪ /
+扑嘞→狮子扑嘞，“捕食"羚羊，羚羊就成了“牺牲品”→preyvi.捕食，掠夺n.猎物；受害者，牺牲品
+
+
+prosperous
+prosper的形容词→繁荣的→ prosperous adj.繁荣的
+flourishing
+flour 花+ish 做..，使..→使像花—样→繁荣→flourish v.繁荣
+booming
+
+
+thriving
+要想兴旺繁荣（thrive）要努力（strive）践行节俭节约（thrift)
+
+inform
+reform 
+perform
+form
+deform 
+de 坏+form形状→破坏形状→变形→deform V.使残废；变形
+conform
+con 共同+form形式→共同的形式→使—致→conformV.使—致；遵从
+
+favorable
+favor（赞同）+able（形容词后缀）→favorable(-favourable)adj.赞同的，称赞的；有利的，顺利的
+supportive
+
+complimentary
+com-全部+ pli-满足＋-ment名词后缀+ary，表名词→complimentary adj.赠送的；称赞的；问候的
+
+approval
+ap 表加强＋prov 证明＋al表行为→赞成→approval n.赞成
