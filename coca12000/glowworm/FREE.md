@@ -1061,355 +1061,923 @@ di 滴+lu入+te它→把水滴入→稀释
   - 美音: [ˈdensəti]
 
 neural 英 [ˈnjʊərəl] 美 [ˈnʊrəl] neur 神经+ al ...的→神经的→neural adj.神经的
+
 neuron 英 [ˈnjʊərɒn] 美 [ˈnʊrɑːn]
+
 neurological 英 [ˌnjʊərəˈlɒdʒɪkl] 美 [ˌnʊrəˈlɑːdʒɪkl]
+
 neurologist 英 [njʊəˈrɒlədʒɪst] 美 [nʊˈrɑːlədʒɪst]
+
 neurotic 英 [njʊəˈrɒtɪk] 美 [nʊˈrɑːtɪk] n.神经病患者;adj.神经质的，神经病的
+
 neurosurgeon 英 [ˈnjʊərəʊsɜːdʒən] 美 [ˈnʊroʊsɜːrdʒən]
+
 neuroscience 英 [ˈnjʊərəʊsaɪəns] 美 [ˈnʊroʊsaɪəns] 病人蜂拥（surge）着去找这位有名的外科医
 生（surgeon）做外科手术（surgery)
+
 neutral 英 / ˈnjuːtrəl / 美 / ˈnuːtrəl /
+牛劝鹅（谐音）：鸡和鸭打架牛劝鹅保持中立的→neutraladj.中立的，不偏不倚的；中性的，中和的
+
 neutralize 英 / ˈnjuːtrəlaɪz / 美 / ˈnuːtrəlaɪz /
+
 neutrality 英 / njuːˈtræləti / 美 / nuːˈtræləti /
+
 neutralization 英 / ˌnjuːtrəlaɪˈzeɪʃ(ə)n / 美 / ˌnuːtrələˈzeɪʃ(ə)n /
 
 speculate 英 / ˈspekjuleɪt / 美 / ˈspekjuleɪt /
+
 spectacular 英 / spekˈtækjələ(r) / 美 / spekˈtækjələr /
 
-cohere 英 / kəʊˈhɪə(r) / 美 / koʊˈhɪr /
-adhere 英 / ədˈhɪə(r) / 美 / ədˈhɪr /
-
-
 cohere 英 [kəʊˈhɪə(r)] 美 [koʊˈhɪr] co 共同+her 黏附+e→粘在—起→粘着→coherev.附着；粘着
-coherent 英 [kəʊˈhɪərənt] 美 [koʊˈhɪrənt] coher 附着；黏着＋ent具有...性质的→粘连着而不乱的
+
+coherent 英 [kəʊˈhɪərənt] 美 [koʊˈhɪrənt] 
+coher 附着；黏着＋ent具有...性质的→粘连着而不乱的
 →有条理的→coherent adj.连贯的；有条理
+
 coherence 英 [kəʊˈhɪərəns] 美 [koʊˈhɪrəns]
+
 incoherent 英 [ˌɪnkəʊˈhɪərənt] 美 [ˌɪnkoʊˈhɪrənt]
 
 adhere 英 / ədˈhɪə(r) / 美 / ədˈhɪr /
+ad 做...或加强+her粘+e→坚持；粘附→adhereV.坚持；粘附
+
 adherence 英 / ədˈhɪərəns / 美 / ədˈhɪrəns /
+
 adherent 英 / ədˈhɪərənt / 美 / ədˈhɪrənt /
 
 feeble
+英
+/ ˈfiːb(ə)l /
+美
+/ ˈfiːb(ə)l /
+fee+ble非饱→没吃饱就会虚弱无力→feebleadj.虚弱的，衰弱的，无力的；无效的，无益的
+
 resent
+英
+/ rɪˈzent /
+美
+/ rɪˈzent /
+re 相反；反对；不+sent 感觉→反感→不满→resentV.怠恨；不满
+consent→共同发送东西→准许
+resent→但如果是重复发送一件东西→造成不满、怨恨
 
 ingenious
+英
+/ ɪnˈdʒiːniəs /
+美
+/ ɪnˈdʒiːniəs /
+in 向内+geni〔=gen］产生+ous..的→有产生能力的→有创造力的→ ingenious adj.聪明的；有创
+造力的
+
 indigenous
+indi 在...里面+gen出生+ous形容词后缀→indigenous adj.本土的，当地的
+
 ingenuous
+英
+/ ɪnˈdʒenjuəs /
+美
+/ ɪnˈdʒenjuəs /
+in使+genuous=genuine真诚的→ingenuous 单纯的、天真的
+
 indignant
+英
+/ ɪnˈdɪɡnənt /
+美
+/ ɪnˈdɪɡnənt /
+dignity n.自尊，尊严；in-否定；indignant让你没有自尊，你就会愤怒;
+
 ingenuity
+英
+/ ˌɪndʒəˈnjuːəti /
+美
+/ ˌɪndʒəˈnuːəti /
+in 内部+genu产生+ity名词后缀→ingenuity n.聪明才智；独创力；心灵手巧
+
+
 
 impede
+im 使..；加以.；饰以..+ ped 脚+e→插上—脚→阻碍→ impede v.阻碍
+
 forbid
+
 block
+
 prevent
+
 hamper
+横趴，阻碍它；ham(后腿)+per 拖后腿→阻碍
+
 obstruct
+ob 逆，倒＋struct 建造→反着建→妨碍→obstructv.妨碍，阻止
+
 hinder
+英
+/ ˈhɪndə(r) /
+美
+/ ˈhɪndər /
+hind(后面的)+-er(比较级后缀)→hinderv.阻碍，妨碍adj.后面的，后方的
 
 compel
-expel
-propel
-complain
-complex
+英
+/ kəmˈpel /
+美
+/ kəmˈpel /
+com 表加强+pel驱动，推→—再推→强迫→compelv.强迫
 
+expel
+英
+/ ɪkˈspel /
+美
+/ ɪkˈspel /
+ex 出+pel驱动；推→推出去→开除→expelv.逐出
+注意音标
+
+propel
+英
+/ prəˈpel /
+美
+/ prəˈpel /
+pro 向前，在前+ pel推动→向前推→推进→propel v.推进
 
 bland
-jejune
-insipid
-humdrum
-banal
-drad
+英
+/ blænd /
+美
+/ blænd /
+这题bland（不难的）→乏味的题，沉稳的我→blandadj.温和的；清淡的；枯燥乏味的
 
+banal
+英
+/ bəˈnɑːl /
+美
+/ bəˈnɑːl /
+
+ban 禁止+al.的→被禁止的→陈腐的→→banal adj.平庸的；陈腐的
 
 declaim
+de 使...加强+claim呼喊→大声呼喊→讲话；演讲→declaimv.朗诵；慷慨陈词
+
 disclaim
+dis(不)+claim(喊,要求)→不再要求→放弃权利→disclaim vt.否认
+
+
 exclaim
+ex 出+claim 呼喊，叫喊→叫喊；大声说出→exclaimv.叫喊；大声说出
+
 reclaim
-decline
+re 回+claim呼喊，叫喊→收回；开垦(荒地）→reclaimv.收回；开垦(荒地)
 
 exhibit
+英
+/ ɪɡˈzɪbɪt /
+美
+/ ɪɡˈzɪbɪt /
+
+ex 出+hibit有；拿→拿出→展览→exhibitv.展览；显示
+
 exhaust
+英
+/ ɪɡˈzɔːst /
+美
+/ ɪɡˈzɔːst /
+ex 出+haust抽水→→抽出→抽干→exhaust v.用尽；抽干
+ex-过度haust-耗死他他过耗死了-耗尽谐音
+
 exhale
+ex 出，出去+hal呼吸+e→出气→呼气→exhalev.呼气
 
 desperate
+英
+/ ˈdespərət /
+美
+/ ˈdespərət /
+de 否定＋sper 希望+ate具有...的→没有希望→绝望的→desperate adj.绝望的
+注意音标
+
 despair
+英
+/ dɪˈspeə(r) /
+美
+/ dɪˈsper /
+de（离开）+ spair（呼吸）→不能呼吸很让人绝望→despair n.绝望;失望;令人失望的人(事物)v.绝望
 
 radical
-racial
-radiant
-radiate
-rational
+英
+/ ˈrædɪk(ə)l /
+美
+/ ˈrædɪk(ə)l /
+rad =red 红色+ical形容词后缀→红卫兵那样的人→激进分子→极端的，激进的→radicaladj.彻底
+的，根本的；激进(派)的n.激进分子
 
+
+racial
+英
+/ ˈreɪʃ(ə)l /
+美
+/ ˈreɪʃ(ə)l /
+
+radiant
+英
+/ ˈreɪdiənt /
+美
+/ ˈreɪdiənt /
+radi 光线+ant...的→发光的→radiant adj.发光的
+
+radiate
+radi光线+ate表动词→发出光线→发出〔光或热］→radiateV.发出（光或热）；流露
+
+rational
+英
+/ ˈræʃ(ə)nəl /
+美
+/ ˈræʃ(ə)nəl /
+ration 定量+al..的→通过计算来定量→合理的→rationaladj.合理的
 
 provoke
+pro 在前＋vok叫喊；声音＋e→到别人面前喊叫，煽风点火→激怒；煽动→provokev.激怒；刺激
+
 invoke
+英
+/ ɪnˈvəʊk /
+美
+/ ɪnˈvoʊk /
+
+
 evoke
+英
+/ ɪˈvəʊk /
+美
+/ ɪˈvoʊk /
+e 出+vok叫喊；声音＋e→喊出〔思想等］→唤醒→evokeV.唤醒
+
 revoke
+英
+/ rɪˈvəʊk /
+美
+/ rɪˈvoʊk /
+re 回+vok叫喊；声音＋e→［原来的」话收回→取消→revokev.取消
+
 convoke
+con共同+vok叫喊；声音+e→喊到—起→召集→convokev.召集
+
+convene
+英
+/ kənˈviːn /
+美
+/ kənˈviːn /
+con 共同＋ven来+e→都来到—起→召集→convenev.召集
 
 extinct
+英
+/ ɪkˈstɪŋkt /
+美
+/ ɪkˈstɪŋkt /
+ex 出+tinct［= stinct］刺；刺激→拔出刺→灭绝的，注意：ex后接s开头的词根时省略s→extinct
+adj.灭绝的
+
 instinct
+英
+/ ˈɪnstɪŋkt /
+美
+/ ˈɪnstɪŋkt /
+in 向内＋stinct 刺；刺激→内在的刺激→本能→instinct n.本能
 
 repeal
-abolish
-abrogate
-revoke
-annul
-rescind
+re 相反；反对；不＋peal 呼吁→不呼吁→取消→repealV/n.撤销，取消
 
-excrescent
+
+abolish
+
+revoke
+
+rescind
+英
+/ rɪˈsɪnd /
+美
+/ rɪˈsɪnd /
+re反，sci切，nd-反切掉－废除读：来新的－所以要废除旧的
+
+
 redundant
-unnecessary
- residual
+英
+/ rɪˈdʌndənt /
+美
+/ rɪˈdʌndənt /
+re再，又+dun吨+d的+ant蚂蚁→又有一吨的蚂蚁→多余的，过剩的
+
+abundant
+英
+/ əˈbʌndənt /
+美
+/ əˈbʌndənt /
+
+residual
+英
+/ rɪˈzɪdjuəl /
+美
+/ rɪˈzɪdʒuəl /
+adj.剩余的,残留的
+
 superfluous
- remanent
+英
+/ suːˈpɜːfluəs /
+美
+/ suːˈpɜːrfluəs /
+注意音标
+super 过多+ flu 流动+ ous 有...性质的，关于...的→多流出来的→过剩的→ superfluous adj.过剩
+的，多余的
 
 delicate 
-flaky 
-friable
-  tender
- tenuous
- weak
+英
+/ ˈdelɪkət /
+美
+/ ˈdelɪkət /
+注意音标
+deli（得力牌）+cat（猫）+e→得力牌的猫形玩具很[精美]，但也很[易碎]→delicate adj.微妙的；精美
+的，雅致的；易碎的；纤弱的
+
+
+tender
+英
+/ ˈtendə(r) /
+美
+/ ˈtendər /
+tend（照顾）+er（表示人的后缀）→tender adj.柔软的，温柔的，嫩的，和善的，亲切的，慈爱
+
+tenuous
+英
+/ ˈtenjuəs /
+美
+/ ˈtenjuəs /
+ten牛饿死→十头牛饿死，饿成了皮包骨，每一具牛尸都呈现〔纤细的、薄的』身形→tenuous adj.
+纤细的；稀薄的；贫乏的
+
 
 strife
-stride
-strike
-stripe
-strive
+英
+/ straɪf /
+美
+/ straɪf /
+strife死拽夫 死死拽看丈天 避免冲突
 
+stride
+英
+/ straɪd /
+美
+/ straɪd /
+strive（奋斗）吧！不要畏惧strike（打击），在strife（竞争）中stride（阔步前进）吧！
+
+stripe
+英
+/ straɪp /
+美
+/ straɪp /
+死拽布→拽出来—道道条纹→stripen.条纹；种类vt.加条纹于...
+
+strive
+英
+/ straɪv /
+美
+/ straɪv /
+死drive→拼死的去驱动激励自己就是努力奋斗→strive
 
 defuse
+英
+/ diːˈfjuːz /
+美
+/ diːˈfjuːz /
+de去掉， fuse (n导火线)
+vt. 平息， 缓和， 拆除(炸弹的)引信
+注意音标
+
 diffuse
-confuse
-refuse
+英
+/ dɪˈfjuːs /
+美
+/ dɪˈfjuːz /
+dif分开+fus 流，泻；融化+e→分流→散播→diffusev.散播
+
+
+
 infuse
+英
+/ ɪnˈfjuːz /
+美
+/ ɪnˈfjuːz /
+in 进入+fus 流，泻；融化+e→流进去→注入→infusev.注入，灌输
 
 
-invoke
-evoke
-provoke
-involve
-revoke
-
-
- deactivated
- ineffectual
-inoperative
-invalid 
-void 
- noneffective
-
- unexceptionable
 superb 
+英
+/ suːˈpɜːb /
+美
+/ suːˈpɜːrb /
+注意音标
+super棒→超级棒→ superb
+
 admirable 
+英
+/ ˈædmərəb(ə)l /
+美
+/ ˈædmərəb(ə)l /
+admire 赞美+-able表形容词→admirable adj.令人钦佩的，值得赞扬的；极好的
+
 splendid 
+英
+/ ˈsplendɪd /
+美
+/ ˈsplendɪd /
+splend（看作spend花费时间；花钱）+id（看作did，做）→花费时间、金钱、人力换来的→
+splendid灿烂的，壮丽的，辉煌的，极好的
+
 fabulous
-  marvellous 
+英
+/ ˈfæbjələs /
+美
+/ ˈfæbjələs /
+发布乐死 我乐死了，“极好的”
+
+marvellous 
+英
+/ ˈmɑːvələs /
+美
+/ ˈmɑːrvələs /
+marvel[奇迹]+-l-+-ous形容词后缀，是单词marvel派生的形容词。
 
 impetus
+英
+/ ˈɪmpɪtəs /
+美
+/ ˈɪmpɪtəs /
+一拼到死→有动力去做
+im里面，pet(put)推动，us我们：我们的内在推动力
+动力，促进；动量，冲力
+
 impact
-implement
-input
+英
+/ ˈɪmpækt /
+美
+/ ˈɪmpækt /
+im 进入+ pact系紧→往里系紧→撞击;冲撞→impact n.撞击;冲撞;冲击力
+
 impart
+英
+/ ɪmˈpɑːt /
+美
+/ ɪmˈpɑːrt /
+im 进入＋part部分；分开→［引导」进入〔知识的］一部分→传授；告知→impartV.传授；告知
 
-explicit
-expect
-express
-expire
-explain
-
-
-cause
-trigger
 induce
+英
+/ ɪnˈdjuːs /
+美
+/ ɪnˈduːs /
+in 使..；加以..；饰以...+duc 引导+e→→引诱；导致→ inducev.劝诱，诱导
+
+
 engender
-spark
-produce
+英
+/ ɪnˈdʒendə(r) /
+美
+/ ɪnˈdʒendər /
+en-包围＋gender性→被性包围→产生情感—→engender vt.产生，引起，造成
+
 
 elaborate
-liberate
-elapse
-evaporate
-electric
+英
+/ ɪˈlæbərət /
+美
+/ ɪˈlæbərət /
+注意音标
+e 表加强+labor工作，劳动+ate 表动词→精细化工作→精工细作→elaborateV.精工细作
+复杂的，详尽的；精心制作的
 
-redolent
+liberate
+英
+/ ˈlɪbəreɪt /
+美
+/ ˈlɪbəreɪt /
+liber 自由+ate使...→使...自由→解放→liberatev.解放；释放
+
+elapse
+英
+/ ɪˈlæps /
+美
+/ ɪˈlæps /
+e加强+laps 滑，滑走+e→滑走→〔时光］流逝→elapseV．（时光）流逝
+因为我的lapse（疏忽）导致时间白白流逝（elapse）掉了
+
+evaporate
+英
+/ ɪˈvæpəreɪt /
+美
+/ ɪˈvæpəreɪt /
+e 出+ vapor 蒸汽+ ate 表动词→蒸汽出来→蒸发→evaporate v. 蒸发
+
 relevant
+英
+/ ˈreləvənt /
+美
+/ ˈreləvənt /
+注意音标
+
 reduction
+英
+/ rɪˈdʌkʃ(ə)n /
+美
+/ rɪˈdʌkʃ(ə)n /
+注意音标
+
+
 relative
+英
+/ ˈrelətɪv /
+美
+/ ˈrelətɪv /
+注意音标
+
+
 reluctant
 
 
 oblivious
-obvious
+英
+/ əˈblɪviəs /
+美
+/ əˈblɪviəs /
+注意音标
+obliv 忘记+ious 有...性质的，关于...的→疏忽的→oblivious adj.疏忽的
+
 obliterate
+英
+/ əˈblɪtəreɪt /
+美
+/ əˈblɪtəreɪt /
+ob 反对，否定+liter文字，字母+ate使→去掉文字→擦掉→obliterateV.抹掉，擦掉
+
 obligation
-obtrusive
+英
+/ ˌɒblɪˈɡeɪʃ(ə)n /
+美
+/ ˌɑːblɪˈɡeɪʃn /
+oblige 强迫+变e为a+tion名词后缀→强迫做事情→义务(义务带有强制性)
 
 picky 
-censorious
-choosy
- fastidious 
-pernickety
- fussy
+英
+/ ˈpɪki /
+美
+/ ˈpɪki /
+pick 挑+y 形容词缀→picky adj.挑剔的；吹毛求疵的[比较级pickier，最高级pickiest]
+
+fussy
+英
+/ ˈfʌsi /
+美
+/ ˈfʌsi /
+发誓→这个人老让别人发誓，很挑剔→fussy adj.爱挑剔的，难取悦的；易烦恼的[比较级fussier，最
+高级fussiest]
 
 statue
+英
+/ ˈstætʃuː /
+美
+/ ˈstætʃuː /
+注意音标
+
 status
+stat站，立+us 表名词，用于科学术语→状态；情况→statusn.状态；情况
+
 statute
+英
+/ ˈstætʃuːt /
+美
+/ ˈstætʃuːt /
+stat站，立+ute→设立后不动的东西→法令→statuten.法令，法规
+
 stature
+英
+/ ˈstætʃə(r) /
+美
+/ ˈstætʃər /
+stat 站，立+ure 表状态→站直的状态→身材→staturen.身高；身材
+
 saturate
+英
+/ ˈsætʃəreɪt /
+美
+/ ˈsætʃəreɪt /
+satur 足够，饱足+ate 使..→使足够→使饱和→saturateV.使饱和
 
 repute
+英
+/ rɪˈpjuːt /
+美
+/ rɪˈpjuːt /
+re一再+put认为；思考；相信+e→—再让人想起的东西→名声→→repute n.名声
+注意音标
+
 impute
+英
+/ ɪmˈpjuːt /
+美
+/ ɪmˈpjuːt /
+im 使.+ put 思考+e→→让别人思考→归咎于→→impute v.归咎于
+
 depute
-report
+英
+/ dɪˈpjuːt /
+美
+/ dɪˈpjuːt /
+de向下+put思考，向下思考即深思→深思熟虑后给了授权和委托→depute vt.委托，向(某人)授
+权，把权委托给
+
 repulse
+英
+/ rɪˈpʌls /
+美
+/ rɪˈpʌls /
+re 反+ pulse 脉搏→击退→ repulse v.击退
 
 compose
+
 compass
-compare
+英
+/ ˈkʌmpəs /
+美
+/ ˈkʌmpəs /
+注意音标
+
 compact
+英
+/ kəmˈpækt /
+美
+/ kəmˈpækt /
+com表加强 合同 合同 compactn.合同
+
 comprise
 
 
 integrity
+英
+/ ɪnˈteɡrəti /
+美
+/ ɪnˈteɡrəti /
+注意音标
+integr 完整+ity具备某种性质，状况→完整→integrityn.完整
+
 integrate
-introduce
-interest
-interview
+英
+/ ˈɪntɪɡreɪt /
+美
+/ ˈɪntɪɡreɪt /
+integr 完整+ate使..→使结合→integrate v.使结合
+
 
 inspect
-respect
+
 insect
+
 prospect
-insert
+
 
 
 allegation
-allocation
-delegation
-alleviate
-allocate
+英
+/ əˈledʒ /
+美
+/ əˈledʒ /
+alleg(=allege宣称)+ation（名词性后缀）→说法
 
+delegation
+英
+/ ˌdelɪˈɡeɪʃn /
+美
+/ ˌdelɪˈɡeɪʃn /
+dele 谐音就是代理,代表+ga谐音给,给出提案+tion名词后缀→delegationn.代表团；代表，委托
+
+alleviate
+英
+/ əˈliːvieɪt /
+美
+/ əˈliːvieɪt /
+注意音标
+a(一个)lli(梨)via(喂)te(他):拿一个梨喂给他可以缓解疼痛
 
 signify
-signal
-assign
-sign
-design
+英
+/ ˈsɪɡnɪfaɪ /
+美
+/ ˈsɪɡnɪfaɪ /
+sign信号+ify使...→用信号表示→象征→signifyv.表示；象征
 
-
-release
 liberate
-discharge 
- assoil
-manumit
-affranchise
+英
+/ ˈlɪbəreɪt /
+美
+/ ˈlɪbəreɪt /
+liber 自由+ate使...→使...自由→解放→→liberatev.解放；释放
 
-
-conduct
 condemn
-contact
-condition
+英
+/ kənˈdem /
+美
+/ kənˈdem /
+注意音标
+con 共同+demn伤害；惩罚→共同惩罚→谴责→condemnv.遣责
+
 confirm
+英
+/ kənˈfɜːm /
+美
+/ kənˈfɜːrm /
+注意音标
+con 表加强+firm坚定→非常肯定→证实→confirmV.证实
 
 aggregate
-aggressive
-agreement
-against
+英
+/ ˈæɡrɪɡət /
+美
+/ ˈæɡrɪɡət /
+注意音标
+ag 加强+greg 组，群；收集+ate表动词→加强组群→聚集→aggregateV.合计；聚集
+
 aggravate
+英
+/ ˈæɡrəveɪt /
+美
+/ ˈæɡrəveɪt /
+ag 表加强＋grav重+ate使.→〔病］加重→恶化→→aggravate v.恶化
 
 penetrate
+
 infuse
+英
+/ ɪnˈfjuːz /
+美
+/ ɪnˈfjuːz /
+in 进入+fus 流，泻；融化+e→流进去→注入→infuseV.注入，灌输
+
 pervade
+英
+/ pəˈveɪd /
+美
+/ pərˈveɪd /
+per 贯穿，自始至终+vad走+e→走遍→遍及→pervadev.弥漫；遍及
+
 permeate
+英
+/ ˈpɜːmieɪt /
+美
+/ ˈpɜːrmieɪt /
+per 贯穿+me走+ate使..→使来回走动→渗透→permeate v.渗透
+
 diffuse
+英
+/ dɪˈfjuːs /
+美
+/ dɪˈfjuːz /
+dif分开+fus 流，泻；融化+e→分流→散播→diffusev.散播
+
 seep
+英
+/ siːp /
+美
+/ siːp /
+seek（寻找）+deep（深层）＋seep（泄露）→寻找深层泄露
 
 
-invalid 
-void 
-ineffective
-futile 
-useless 
-inoperative
+forsake
+英
+/ fəˈseɪk /
+美
+/ fərˈseɪk /
+for 为了＋sake目的→为了达到目的，不得不舍弃部分眼前利益→forsakevt.遗弃，抛弃；舍弃，放
+弃
 
-abandon
-surrender 
-forsake 
- quit 
 recede 
-forego
+英
+/ rɪˈsiːd /
+美
+/ rɪˈsiːd /
+re 向后+ced行走，前进+e→后退 退→recedev.后退
+
 
 expel 
-impel
-dispel
-repel
+英
+/ ɪkˈspel /
+美
+/ ɪkˈspel /
+ex 出+pel驱动；推→推出去→开除→→expelv.逐出
 
+impel
+英
+/ ɪmˈpel /
+美
+/ ɪmˈpel /
+im 使.；加以...；饰以...+ pel驱动，推→驱动→ impel v.驱动
+
+dispel
+英
+/ dɪˈspel /
+美
+/ dɪˈspel /
+dis 分散+pel驱动；推→推开→驱散→→dispelv.驱散 (烟雾等)
+
+repel
+英
+/ rɪˈpel /
+美
+/ rɪˈpel /
+re 反+pel驱动；推→推回去→击退→→repelv.击退 (敌人)
 
 
 
 acclaim
-declaim
-disclaim
-exclaim
-reclaim
+英
+/ əˈkleɪm /
+美
+/ əˈkleɪm /
+ac 加强＋claim呼喊，叫喊→—再喊→欢呼→acclaimv.欢呼，喝彩
 
 
-express 
 articulate 
+英
+/ ɑːˈtɪkjuleɪt /
+美
+/ ɑːrˈtɪkjuleɪt /
+article有报道的意思，记者报道需要口齿清晰(articulate)
+
+
+
 convey 
-communicate
-voice 
-give vent to
+英
+/ kənˈveɪ /
+美
+/ kənˈveɪ /
+con 共同+vey道路→共同用路→运输→conveyv.运输；传达
 
 contend
-confuse
-consider
-consist
-content
+英
+/ kənˈtend /
+美
+/ kənˈtend /
+con 共同＋tend伸展→—起伸展［个人观点］→争论→contendv.竞争；争论
+
 
 drought
-daughter
+英
+/ draʊt /
+美
+/ draʊt /
+dry v.干＋ ought名词后缀→drought n.旱灾，干旱
 
 
-violate
+
 infringe
-offend
+英
+/ ɪnˈfrɪndʒ /
+美
+/ ɪnˈfrɪndʒ /
+in 不+fringe 界限，边缘→infringe vt.侵犯；违反；破坏vi.侵犯；侵害
+
 breach
+英
+/ briːtʃ /
+美
+/ briːtʃ /
+break（v.破坏）+ch-→breach n.v.违背，违反
+
+
 deviate
-infract
+英
+/ ˈdiːvieɪt /
+美
+/ ˈdiːvieɪt /
+de 离开+vi道路＋ate 使..→使偏离道路→越轨→deviateV.越轨
 
-obstruct
-hinder
-block
-impede
-inhibit
-cumber
-
-
-
- defer
-delay
-postpone
-suspend 
+ 
 retard 
-adjourn
+英
+/ rɪˈtɑːd /
+美
+/ rɪˈtɑːrd /
+re—再+tard 慢→—慢再慢→延迟→retard v.延迟；妨碍
 
 
-savage
-average
-village
+
 salvage
+英
+/ ˈsælvɪdʒ /
+美
+/ ˈsælvɪdʒ /
+salv 救助＋ age 表行为→救助行为→抢救—→ salvage n.抢救
+
 ravage
-
-
-
-divise
-device
-devastate
-diverse
-deceive
+英
+/ ˈrævɪdʒ /
+美
+/ ˈrævɪdʒ /
+rav 捕，夺+age表行为或行为的结果→你争我夺→破坏→ravageV./n.破坏
 
 
 dim
