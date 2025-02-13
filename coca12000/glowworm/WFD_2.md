@@ -73,8 +73,8 @@ Field trips
 Extracurricular
 camera
 leisure facility
-leisure 
-tricky 
+leisure
+tricky
 pursue
 specific
 efficiency
@@ -105,7 +105,7 @@ untapped
 phenomenal
 scientific
 A typical part of
-founded 
+founded
 Practical experience
 thorough
 overnight
@@ -130,8 +130,33 @@ reception
 training
 group research design
 biology
-broad 
+broad
 component
 work placements
 enormously
 molecule
+
+policies
+making profit
+rural areas
+throughout
+goods prices
+defendant
+sentencing
+regrets his actions
+dedicated specialized librarian
+examination
+continuing
+journals
+Mental health professionals
+vulnerability
+guidance
+extension
+villages
+divided into
+deepen
+classical
+anthropology
+curriculum
+incorporate
+Sociology policies
