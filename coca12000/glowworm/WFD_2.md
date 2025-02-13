@@ -70,3 +70,68 @@ disagree on
 distinguish between
 Psychologist
 Field trips
+Extracurricular
+camera
+leisure facility
+leisure 
+tricky 
+pursue
+specific
+efficiency
+expansion
+carbohydrate
+opening
+accommodation
+career mobility
+auditing
+challenging
+surprisingly
+recommended
+individuals
+biased
+open to debate
+utilizing
+individualities
+mystery
+refer to
+original
+phase out
+disposable cups
+poetry
+scientific papers
+are more able to
+vitality
+untapped
+phenomenal
+scientific
+A typical part of
+founded 
+Practical experience
+thorough
+overnight
+colossal
+renovation
+faint
+learn through
+lifetime
+qualifying
+transcended
+textbook
+beginning
+in a moment
+stationery
+skeptical
+simultaneously
+punctually
+stock market
+repercussion
+rigorous experiments
+reception
+training
+group research design
+biology
+broad 
+component
+work placements
+enormously
+molecule
