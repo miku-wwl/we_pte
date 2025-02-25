@@ -3,61 +3,453 @@
 disarmed
 解除武装
 ![alt text](image-1.png)
-
+#1226 Well-being
+overview 全面审查
+distorted 扭曲的
+distort v. 扭曲，使失真；歪曲，曲解
+span 跨度
+Leisure time 休闲时间
+plea n. 恳求，请求；（法庭上所作的）有罪（无罪）陈述；借口，托辞
 ![alt text](image-2.png)
-
+#1224 Antarctic
+ever before
+whereas
+span
+n.
+时间跨度，一段时间；（桥或拱的）墩距，跨距；宽度，翼展；范围
+v.
+持续，贯穿；包括（广大地区），涵盖（多项内容）；横跨，跨越
 ![alt text](image-3.png)
-
+#1221 Discrimination against Women
+allege
+5386
+英
+/ əˈledʒ /
+美
+/ əˈledʒ /
+v.
+(未经证实地）宣称，指控
+allergy
+7343
+英
+/ ˈælədʒi /
+美
+/ ˈælərdʒi /
+n.
+过敏反应，过敏症；厌恶，反感
 ![alt text](image-4.png)
-
+#1185 Eureka
+conjure / ˈkʌndʒə(r) / 7876 召唤、变戏法
+condemn / kənˈdem / 4179 谴责，严厉指责；宣判，
+confess 3987 承认
 ![alt text](image-5.png)
-
+#1182 Durkheim
+juggle 9809 玩杂耍（连续向空中抛接多个物体）；力图使平衡，尽力应付
+flick through 快速浏览
+flick
+6955
+英
+/ flɪk /
+美
+/ flɪk /
+v.
+（尤指用手指或手快速地）轻击，轻弹；
+be down to 由（某人）负责；由……引起
+remain modest 保持谦虚
 ![alt text](image-6.png)
-
+#1178 Avid Readers
+avid
+英
+/ ˈævɪd /
+美
+/ ˈævɪd /
+adj.
+热心的，热衷的；渴望的，渴求的
 ![alt text](image-7.png)
 
 ![alt text](image-8.png)
+#1175 Mercury
+disinfectant
+英
+/ ˌdɪsɪnˈfektənt /
+美
+/ ˌdɪsɪnˈfektənt /
+n.
+消毒剂
+adj.
+消毒的
 
+thermometer
+英
+/ θəˈmɒmɪtə(r) /
+美
+/ θərˈmɑːmɪtər /
+n.
+温度计，寒暑表，体温计
+
+depict
+英
+/ dɪˈpɪkt /
+美
+/ dɪˈpɪkt /
+v.
+描述，描绘
+注意音标
+
+regulate 控制，管理；调节，调整；监控，监管；校准，对准
 ![alt text](image-9.png)
+#1174 Modern Technology
+hideous
+11205
+英
+/ ˈhɪdiəs /
+美
+/ ˈhɪdiəs /
+adj.
+极丑的，面目狰狞的；非常可怕的，令人难以忍受的
 
+with enthusiasm / ɪnˈθjuːziæzəm / 充满热情地
 ![alt text](image-10.png)
 
 ![alt text](image-11.png)
+#1170 Freud's Theory
+prolific
+英
+/ prəˈlɪfɪk /
+美
+/ prəˈlɪfɪk /
+adj.
+多产的，多育的；作品丰富的，多产的；
+
+deviation
+英
+/ ˌdiːviˈeɪʃn /
+美
+/ ˌdiːviˈeɪʃ(ə)n /
+n.
+偏离，违背；离差，偏差
+
+one-sided
+13151
+英
+/ ˌwʌn ˈsaɪdɪd /
+美
+/ ˌwʌn ˈsaɪdɪd /
+adj.
+片面的，单方面的；不公正的
+
+#1168 UK Universities
+prescribe / prɪˈskraɪb / 开药方、开处方
+
+summon
+5771
+英
+/ ˈsʌmən /
+美
+/ ˈsʌmən /
+v.
+召唤；召集（会议）；传唤，传讯（出庭）；
+注意音标
+
+collective 集体的
+predictable 可预见的
+collateral 附属的
+expenditure /ɪk'spendɪtʃə(r)/[n] 开支；费用；消费；消耗
+
+preferential
+12384
+英
+/ ˌprefəˈrenʃ(ə)l /
+美
+/ ˌprefəˈrenʃ(ə)l /
+adj.
+优先的，优待的，优惠的；
+
+ratification
+14585
+英
+/ ˌrætɪfɪˈkeɪʃ(ə)n /
+美
+/ ˌrætɪfɪˈkeɪʃ(ə)n /
+n.
+批准，认可
+
+annexation
+15800
+英
+/ ˌænekˈseɪʃn /
+美
+/ ˌænekˈseɪʃn /
+n.
+合并，吞并；吞并物，附加物
+
+benevolence
+19645
+英
+/ bəˈnevələns /
+美
+/ bəˈnevələns /
+n.
+慈善，仁慈
 
 ![alt text](image-12.png)
 
 ![alt text](image-13.png)
+#1167 UK Drivers
 
+#1165 Pop Art
+revolt 反抗；叛逆；违抗
+
+reckon on
+期望，指望：指对某事物的发生有所期待或计划。
+依赖，依靠：指依赖某人或某事物来实现预期的结果。
+
+muster up
+鼓起勇气，集中精力：
 ![alt text](image-14.png)
 
 ![alt text](image-15.png)
-
+#1164 Bentham
+as regards 关于
+dissect v. 解剖（人或动物的尸体）；剖析，详细评论（某事物）；把（田地）分成小块
+the aim of ……的目的/目标：
+some 约莫，大约
 ![alt text](image-16.png)
-
+#1158 Willful Blindness
+thereby 因此，从而
+Thereafter 其后，此后
 ![alt text](image-17.png)
-
+#880 Coral Reefs
+coral reef 珊瑚礁：
+curb
+v.
+控制，抑制；勒住（马）
+n.
+控制，抑制；<美>路缘，马路牙子；
+specifically
+英
+/ spəˈsɪfɪkli /
+美
+/ spəˈsɪfɪkli /
+adv.
+特意，专门地；明确地，具体地；具体来说，确切地说
+countdown
+英
+/ ˈkaʊntdaʊn /
+美
+/ ˈkaʊntdaʊn /
+n.
+倒计时，倒数读秒；
+unravel
+英
+/ ʌnˈræv(ə)l /
+美
+/ ʌnˈræv(ə)l /
+v.
+（使）解开，（使）松开；
 ![alt text](image-18.png)
-
+#878 Dinosaurs
+partially
+英
+/ ˈpɑːʃəli /
+美
+/ ˈpɑːrʃəli /
+adv.
+不完全地，部分地；
+excessively
+英
+/ ɪkˈsesɪvli /
+美
+/ ɪkˈsesɪvli /
+adv.
+过分地，过量地；极度
 ![alt text](image-19.png)
-
+#876 World Map of Happiness
+mechanically
+14378
+英
+/ məˈkænɪkli /
+美
+/ məˈkænɪkli /
+adv.
+机械地；呆板地；物理上地
+juggle 同时处理多个事务
+opt 选择
+embodiment
+英
+/ ɪmˈbɒdimənt /
+美
+/ ɪmˈbɑːdimənt /
+n.
+体现，化身；象征
+vanity 虚荣
+execution 执行，实施
+cite 引用，援引；引证，引以为例；传唤，传讯
 ![alt text](image-20.png)
+#874 Spanish
+commodity
+英
+/ kəˈmɒdəti /
+美
+/ kəˈmɑːdəti /
+n.
+商品，货物；有用的东西，必需品
+
+encroach 15920 侵入、越界
+initiate 3557 发起、开始
+
+breach
+英
+/ briːtʃ /
+美
+/ briːtʃ /
+n.
+违反，破坏；（关系）中断，终止；缺口
+v.
+违反，破坏；
+
+binge
+13046
+英
+/ bɪndʒ /
+美
+/ bɪndʒ /
+n.
+狂欢作乐，大吃大喝
+v.
+放纵，大吃大喝
 
 ![alt text](image-21.png)
-
+#866 Kathryn Mewes
+pledge 保证；抵押；诺言；誓约
+consultant 咨询顾问；咨询者；商议者
 ![alt text](image-22.png)
+#862 Dance
+plot 情节 2992
+prowess / ˈpraʊəs / 11339 英勇；超凡技术；勇猛
+roundabout 环岛
 
+encumber 妨碍
+level v.使平整；推倒，夷平
+crumple 12132 弄皱
 ![alt text](image-23.png)
+#861 Teenage Daughter
+for the time being 暂时
+as ever 像往常一样
+in good time 及时
 
+enumerate
+英
+/ ɪˈnjuːməreɪt /
+美
+/ ɪˈnuːməreɪt /
+vt.
+列举；枚举；计算
+
+adult 成年的
+ample 充足的
+adulthood 成年期
+
+enrichment 丰富
+adoration 崇拜
+
+resonance 共振；回声；反响；回响
 ![alt text](image-24.png)
 
+#514 Digital Media
+detrimental
+11121
+英
+/ ˌdetrɪˈment(ə)l /
+美
+/ ˌdetrɪˈment(ə)l /
+adj.
+有害的，不利的
+n.
+有害的人（或物）
+
+equate
+英
+/ ɪˈkweɪt /
+美
+/ ɪˈkweɪt /
+8162
+v.
+（使）等同；使（两个或两个以上事物）相等，使平衡
+
+grapple
+8513
+英
+/ ˈɡræpl /
+美
+/ ˈɡræpl /
+v.
+扭打，搏斗；努力解决问题
+
+compel
+4499
+英
+/ kəmˈpel /
+美
+/ kəmˈpel /
+v.
+强迫，迫使；使发生，促使
 ![alt text](image-25.png)
-
+#447 Lionfish
+questionable 值得怀疑的，不确定的
+somehow 以某种方式
+invasive 扩散性的，侵入的
 ![alt text](image-26.png)
-
+#444 Sound Speed
+form on 在……上形成
+diverge from 偏离
 ![alt text](image-27.png)
+#158 Facial Appearance
+stereotype
+4990
+英
+/ ˈsteriətaɪp /
+美
+/ ˈsteriətaɪp /
+n.
+模式化的思想，老一套；公式化人物；铅版，铅版浇铸，铅版印刷
+v.
+对……形成刻板的看法，（尤指）对……有成见；使用铅版
 
+whereby 通过，靠
+notwithstanding 尽管，虽然
+
+prophecy
+9633
+英
+/ ˈprɒfəsi /
+美
+/ ˈprɑːfəsi /
+n.
+预言；预言能力
+
+stipulation
+16681
+英
+/ ˌstɪpjuˈleɪʃ(ə)n /
+美
+/ ˌstɪpjuˈleɪʃn /
+n.
+条款，约定（规定）的条件
+
+scant
+9349
+英
+/ skænt /
+美
+/ skænt /
+adj.
+不足的，缺乏的
 ![alt text](image-28.png)
-
+#438 Panic-striken Climate
+purely 纯粹地
+disproportionately 不成比例地
+firmly 坚定地
 ![alt text](image-29.png)
 
 ![alt text](image-30.png)
