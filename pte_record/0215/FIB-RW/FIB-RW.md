@@ -451,49 +451,157 @@ purely 纯粹地
 disproportionately 不成比例地
 firmly 坚定地
 ![alt text](image-29.png)
-
+#421 Tokyo Skytree
+mural 壁画
+immensely 非常；极端地；极大地
+subject to 受到……的影响或制约
+along with 并列、伴随
+further afield 在更远的地方、脱离主题
+out of 由于、出于
+employ 使用；雇用；运用；应用
 ![alt text](image-30.png)
-
+#397 Flowers and Bees
+irresistible 不可抗拒的、令人无法抗拒的
+contour / ˈkɒntʊə(r) / [科技] 轮廓、边界线、 外形、 等位线
+leash / liːʃ / 11156 拴住，牵狗；（喻）约束；狗绳
+unleash / ʌnˈliːʃ / v. 释放出，发泄（力量、感情等）；解开皮带放开（动物）；
 ![alt text](image-31.png)
-
+#395 Giant Exoplanets
+characteristic 2049 / ˌkærəktəˈrɪstɪk / n.特征，特点，特色
+extrasolar 太阳系外的
+proximity  /prɒk'sɪməti/ 6690  [n] 邻近
+denounce 谴责
+deflect 偏转
+depict 偏转
 ![alt text](image-32.png)
-
+#389 Selfies
+selfie / ˈselfi / 自拍照
+combed 7459 梳；搜寻；仔细搜索；梳理；梳子
+along with 伴随着
+demographic [adj] 人口的；人口学的[n] 人口统计数据；同类客户群体
 ![alt text](image-33.png)
-
+#388 Shrimp Farm
+conserve 保护，保存；节省，节约；使（量，如能量、质量）守恒；
+convert （使）转变，（使）转换；（使）改变信仰
+aggregation 总和或聚集
+augment / ɔːɡˈment / v. 增加，增大；加强，补充
+immediate / ɪˈmiːdiət / 立刻的，即时的；目前的，紧迫的；附近的，紧接的
+retain 保留；保持；持有；继续拥有
 ![alt text](image-34.png)
 
 ![alt text](image-35.png)
-
+#300 Internet Use
+tablet / ˈtæblət / 片剂；药片；碑；丸；平板电脑；平板装置；平板计算机
+five-fold 五倍地
+prominence 8595/ ˈprɒmɪnəns / n.重要，著名；突起，凸出；
+roughly 2680 / ˈrʌfli / 大致
 ![alt text](image-36.png)
 
 ![alt text](image-37.png)
+#115 Speech of Alchemy
+wholesome / ˈhəʊlsəm / adj. 有益健康的；有益身心健康的，增进身心健康的；（显得）健康的，朝气蓬勃的
 
 ![alt text](image-38.png)
-
+#259 Genius
+inextricably 15126 / ˌɪnɪkˈstrɪkəbli / adv. 不可分开地，密不可分地；逃不掉地；解不开地，解决不了地
+be inclined to
+倾向于
+culminate 7829 / ˈkʌlmɪneɪt /（以……）结束，告终；到达顶点，达到高潮；
+junction 13607 / ˈdʒʌŋkʃ(ə)n / n.交叉口，岔道口；汇合处，交叉点；
+inferiority 15714 / ɪnˌfɪəriˈɒrəti / n. 低等，劣等；自卑
+authority / ɔːˈθɒrəti / n. 专家，权威人士；行政机构；权利，权限；权威，威信；
+supremacy / suːˈpreməsi; sjuːˈpreməsi / n.霸权，至高无上；优势
+adept / əˈdept / adj. 熟练的，擅长的 n. 能手，内行
+cleric / ˈklerɪk / n.（基督教的）教牧人员；（任一宗教的）牧师
+clerk / klɑːk / / klɜːrk / n. 办事员，职员；售货员，店员；（宾馆）接待员
+offender 罪犯、冒犯者
 ![alt text](image-39.png)
-
+#243 Cell
+magnifies 放大；扩大；增强；夸大
 ![alt text](image-40.png)
-
+#235 Ancient Superhighway
+volume / ˈvɒljuːm / 体积，容积；总数，总量；音量，响度
+column / ˈkɒləm / 圆柱，纪念柱；柱状物；（报纸、杂志上的）栏
+facet / ˈfæsɪt / 部分，方面；（宝石的）琢面，刻面； 注意音标
+obscure
+[n] 朦胧；黑夜
+[adj] 无名的；鲜为人知的；费解的；难以理解的
+[v] 使模糊；使隐晦；使费解
 ![alt text](image-41.png)
+#230 Health and Fitness
+portion
+2197
+n.（某物的）一部分；（尤指餐馆中食物的）一份，一客；（责任、过失、职责等的）一份，一部分；<法律>（根据法律赠与或遗留给继承人的）一份财产
+v.分配；
 
+confiscate
+10815
+英
+/ ˈkɒnfɪskeɪt /
+v.
+没收，查抄（某人的财产）；充公，罚没（某物，尤指土地）
+con 共同+fisc 钱包，引申为"国库”+ate使→都放到国库里→充公→confiscatev.充公
 ![alt text](image-42.png)
+#222 Feature Films
+prehistoric / ˌpriːhɪˈstɒrɪk / adj. 史前的，有文字记载以前的
+harsh / hɑːʃ / adj.（环境）恶劣的，艰苦的；严厉的，残酷的；刺耳的，难听的；
+sheer 4238 / ʃɪə(r) / 纯粹的
+spare 4639 多余的、节省、备用的、空闲的
+abide 8616 忍受、遵守、容忍、坚持
+conform 7067 v.遵守，符合；顺从
 
 ![alt text](image-43.png)
-
+#220 Dark-silvery Rock
+by accident
+diffuse 弥漫；漫射；传播；散布
+toil 
+13410
+/ tɔɪl /
+（长时间地）苦干，辛勤劳作；艰难缓慢地移动，跋涉
+（尤指体力上的）苦工，苦活；网，捕捉野兽的陷阱
+sickle / ˈsɪkl / 镰刀
 ![alt text](image-44.png)
-
+#205 Human Brain
+nuance 9313 / ˈnuːɑːns / n. 细微差别
 ![alt text](image-45.png)
-
+#203 Sandra Lousada
+gadget 9305/ ˈɡædʒɪt / n. 小器具，小玩意儿
+genre 4547/ ˈʒɒnrə / n. 体裁，类型；风俗画
+aisle 4535 / aɪl / n. 走廊，过道；（教堂）耳堂，侧堂
 ![alt text](image-46.png)
+#192 Gauss 
+denial
+4797
+n. 否认；拒绝接受，拒不承认；剥夺，拒绝给予
 
 ![alt text](image-47.png)
+#190 Physical Activity
+immortality 13284 / ˌɪmɔːˈtæləti / n. 不朽；不朽的声名；不灭
+denote 9959 / dɪˈnəʊt / v. 标志，预示；表示，意指
+defy / dɪˈfaɪ / v. 违抗，不服从；挑战
 
 ![alt text](image-48.png)
-
+#189 Studying Law
+expenditure 5240 / ɪkˈspendɪtʃə(r) / n.经费，支出额；（时间、金钱、精力等的）消耗，花费
+exhaustion 8307 / ɪɡˈzɔːstʃən / n. 筋疲力尽；耗尽，枯竭
+gratification 12676 / ˌɡrætɪfɪˈkeɪʃ(ə)n / n. 满足，令人喜悦的事物
+gratitude 7175 / ˈɡrætɪtuːd / n. 感激之情，感谢
+obsession 5628 / əbˈseʃn / n. 痴迷，困扰；令人着迷的人（或事物）
+motivation 3151 / ˌmoʊtɪˈveɪʃ(ə)n / n. 动力，诱因；积极性，干劲；
 ![alt text](image-49.png)
-
+#180 HK Marine
+far-fetched 牵强的，难以置信的
+residual / rɪˈzɪdjuəl / 残留的；（数量）剩余的；
+designate
+/ ˈdezɪɡneɪt /
+design（指定）+ate（做）→指定...做→指派→designatev.指定，指派；命名；指明，标明
+注意音标
 ![alt text](image-50.png)
-
+#171 Colour Preference
+hue / hjuː / n. 颜色，色调，色度
+overlay / ˌəʊvəˈleɪ / v. 覆盖
+whatsoever 6190 任何，无论什么
+divergences 15140 / daɪˈvɜːdʒəns / n. 差异，不同；
 ![alt text](image-51.png)
 
 ![alt text](image-52.png)
