@@ -603,18 +603,49 @@ overlay / ˌəʊvəˈleɪ / v. 覆盖
 whatsoever 6190 任何，无论什么
 divergences 15140 / daɪˈvɜːdʒəns / n. 差异，不同；
 ![alt text](image-51.png)
-
+#170 Sun and Moon
+wane 10269/ weɪn / / weɪn / v.（月亮）缺，亏；衰落 注意音标
+millennium 5733 / mɪˈleniəm / n. 一千年；千周年纪念日，千禧年
+millennia / mɪˈleniə / n. 千年期；千周年纪念日
+distort 6724 / dɪˈstɔːrt / v. 扭曲，使失真；歪曲，曲解
 ![alt text](image-52.png)
+#165 Omniscience
+typeset  / ˈtaɪpset / v. 为……排字（或排版）
+fabrication 11795/ ˌfæbrɪˈkeɪʃ(ə)n / n. 捏造的故事，虚构的信息
+contributory  / kənˈtrɪbjətɔːri / adj. 捐助的；贡献的；有助于……的 n. 捐助者；贡献人 注意音标
 
 ![alt text](image-53.png)
+#154 Classical Music
+hut 5392  / hʌt / n. （简陋的）小屋；（花园中的）木屋
+drift 3634 / / drɪft / v. 飘移，漂流
+skyscraper 10892  / ˈskaɪskreɪpər / n. 摩天大楼
+crater 6992  / ˈkreɪtər / n. （撞击或爆炸形成的）坑，弹坑；火山口；穴，洞；（古希腊用的）调酒碗 v. 在（地面或行星）上形成坑
+looming 12213  / ˈluːmɪŋ / adj. （不希望或不愉快的事情）迫近的，逼近的 v. （突然地）出现；赫然耸现；逼近（尤用于不好或吓人的事物）（loom 的现在分词）
+bluff 7989  / blʌf / v. 虚张声势，唬人 n. 虚张声势的举动，唬人
+booming 9246  / ˈbuːmɪŋ / adj. 飞速发展的，繁荣的；（声音）低沉洪亮的；奋力撞击的 v. 发出巨响，轰鸣；增长，繁荣（boom 的现在分词）
 
 ![alt text](image-54.png)
 
+#150 School-skipping
+residual 7922  / rɪˈzɪdʒuəl / adj. 残留的；（数量）剩余的
+flimsy 13372 / ˈflɪmzi / adj. 脆弱的；浅薄的
+
 ![alt text](image-55.png)
 
+#144 Mechanical Engineering
+in the same way that
+central to 对…主要的 central to the plan 规划中最重要的部分
+
 ![alt text](image-56.png)
+#143 Noble Gas
+myriad 7222  / ˈmɪriəd / n. 无数，大量；（多用于古典历史剧中）一万 adj. 无数的，大量的
+disproportionate 10527  / ˌdɪsprəˈpɔːrʃənət / adj. 不成比例的
+regularity 12589 / ˌreɡjuˈlærəti / n. 规律性，经常性；匀称，端正；有规则的东西，有规律的事物
+regulatory 3977  / ˈreɡjələtɔːri / adj. 管理的，控制的，监管的
 
 ![alt text](image-57.png)
+#130 Small Lakes
+plausible 7245 / ˈplɔːzəb(ə)l / / ˈplɔːzəb(ə)l / adj. 似乎是真的，貌似有理的
 
 ![alt text](image-58.png)
 
