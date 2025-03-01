@@ -648,21 +648,72 @@ regulatory 3977  / ˈreɡjələtɔːri / adj. 管理的，控制的，监管的
 plausible 7245 / ˈplɔːzəb(ə)l / / ˈplɔːzəb(ə)l / adj. 似乎是真的，貌似有理的
 
 ![alt text](image-58.png)
-
+#125 Cultural Studies
+subsequently / ˈsʌbsɪkwəntli / adv. 后来，随后
+consistently / kənˈsɪstəntli / adv. 一贯地，始终；一致地
+renew / rɪˈnjuː / (英), / rɪˈnuː / (美) v. 重新开始，中止后继续；恢复，重新建立（关系）
+renewable / rɪˈnjuːəb(ə)l / (英), / rɪˈnuːəb(ə)l / (美) adj. 可延期的，可续期的；可更新的，可再生的；n. 再生性能源，可再生资源
+discrimination / dɪˌskrɪmɪˈneɪʃn / n. 歧视，区别对待；区分，辨别；辨别力，鉴赏力
+similarity / ˌsɪməˈlærəti / n. 相似性；相似点，类似的地方
+boundary / ˈbaʊndri / n. 边界
+differentiation / ˌdɪfəˌrenʃiˈeɪʃn / n. 区分，差异化
+simultaneous / ˌsɪm(ə)lˈteɪniəs / (英), / ˌsaɪm(ə)lˈteɪniəs / (美) adj. 同时发生的，同步的
+simultaneously / ˌsɪm(ə)lˈteɪniəsli / (英), / ˌsaɪm(ə)lˈteɪniəsli / (美) adv. 同时地
+spontaneous / spɒnˈteɪniəs / (英), / spɑːnˈteɪniəs / (美) adj. 自发的，非筹划安排的
+derivative / dɪˈrɪvətɪv / n. 派生物，衍生物；派生词；衍生工具（产品）；导数，微商；adj. 非独创的，模仿他人的
+intrigue / ɪnˈtriːɡ / v. 激起……的兴趣，引发……的好奇心；密谋；n. 密谋策划，阴谋；秘密的恋情，秘密关系；神秘力量，神秘气氛
+intriguing / ɪnˈtriːɡɪŋ / adj. 非常有趣的，引人入胜的
+dispersion / dɪˈspɜːʃn / (英), / dɪˈspɜːrʒn / (美) n. 传播，散布；分布；弥散，扩散
+disperse / dɪˈspɜːs / (英), / dɪˈspɜːrs / (美) v. 分散，散布；疏散，驱散；使（光）色散；adj. 分散的
+supreme / suːˈpriːm / (英), / sjuːˈpriːm / (英), / suˈpriːm / (美) adj. 最高的，至高无上的
+tally / ˈtæli / n. 记录，得分；账单；符木；标签；v. 相符，吻合；计算，合计
+amend / əˈmend / v. 修改，修订；纠正，改正；改善
+purview / ˈpɜːvjuː / (英), / ˈpɜːrvjuː / (美) n. 范围，权限；视界；条款
+permission / pəˈmɪʃ(ə)n / n. 同意，许可；许可证，书面许可
+auction / ˈɔːkʃ(ə)n / n. 拍卖；叫牌阶段；v. 拍卖
+speculation / ˌspekjuˈleɪʃ(ə)n / n. 投机，投机买卖；猜测，推测，推断
+invalidate / ɪnˈvælɪdeɪt / v. 驳斥，证明是谬误的；使无效，使作废
+validate / ˈvælɪdeɪt / v. 批准，确认……有效；证实，确认；使生效
 ![alt text](image-59.png)
 
 ![alt text](image-60.png)
 
 ![alt text](image-61.png)
-
+#59 Lucy
+skeleton / ˈskelɪt(ə)n / n. 骨骼，骨架；梗概，提纲
+reproduce / ˌriːprəˈdjuːs / (英), / ˌriːprəˈduːs / (美) v. 复制，翻印；模拟；再制造，再现
+assimilate / əˈsɪməleɪt / v. 融入，（使）同化；吸收，理解
+contemporary / kənˈtemp(ə)rəri / (英), / kənˈtempəreri / (美) adj. 当代的，现代的；同时期的，同时代的；n. 同时代的人；同龄人，同辈
+outright / ˈaʊtraɪt / adj. 完全的，彻底的；公开的，直率的；绝对的，全面的；adv. 公开地，直率地；完全地，彻底地
+upright / ˈʌpraɪt / adj. （人）直立的，挺直的；直立的，垂直的，立式的；正直的，诚实的；（椅子）直靠背的，没有扶手的；adv. 笔直地，直立地，垂直地；平稳地
+intentionally / ɪnˈtenʃənəli / adv. 故意地，有意地
+instantaneously / ˌɪnstənˈteɪniəsli / adv. 即刻；突如其来地
+instantaneous / ˌɪnstənˈteɪniəs / adj. 瞬间发生的，瞬间完成的
+intellectually / ˌɪntəˈlektʃuəli / adv. 智力上；理智地；知性上
+technologically / ˌteknəˈlɒdʒɪkli / (英), / ˌteknəˈlɑːdʒɪkli / (美) adv. 科技地；技术上地
 ![alt text](image-62.png)
-
+#43 Icebergs' Sound
+haunt / hɔːnt / v. （鬼魂）出没；萦绕在……心头；（长期）困扰；常去（某地）；n. 常去的地方；栖息地
+haunting / ˈhɔːntɪŋ / adj. 不易忘怀的，萦绕于心头的；n. 对（某地的）经常光顾；v. （鬼魂）出没；萦绕在……心中；（长期）困扰
+warm up / ˈwɔːm ʌp / 热身
+grind against 磨擦
 ![alt text](image-63.png)
-
+#38 Drugs
+strung out / ˌstrʌŋ ˈaʊt / adj. 吸毒成瘾
+stunned / stʌnd / adj. （因惊讶、震惊而）目瞪口呆的
+stung / stʌŋ / v. 刺；螫；使疼痛（sting 的过去式及过去分词）
+sting / stɪŋ / v. （昆虫、动植物）叮，刺，蜇
+reciprocity / ˌresɪˈprɒsəti / (英), / ˌresɪˈprɑːsəti / (美) n. 互惠，互换
+facilitate / fəˈsɪlɪteɪt / v. 使更容易，使便利；促进，推动
+patronize / ˈpætrənaɪz / (英), / ˈpeɪtrənaɪz / (美) v. 表现出高人一等的姿态，以高人一等的态度对待；光顾，惠顾（餐馆、酒店或其他生意）；赞助，资助
+"尽管...但是..."：在英语中，"尽管"（although, though, even though）和"但是"（but）通常不会同时出现在同一个句子中。
+"Notwithstanding"：可以作为副词或介词使用，常用于句首表示“尽管”或“虽然”的意思。
 ![alt text](image-64.png)
 
 ![alt text](image-65.png)
-
+#35 Mothers' Employment
+untangle / ˌʌnˈtæŋɡl / vt. 清理；整顿；解开……纠结
+determinant / dɪˈtɜːmɪnənt / (英), / dɪˈtɜːrmɪnənt / (美) n. 决定性因素，决定条件
 ![alt text](image-66.png)
 
 ![alt text](image-67.png)
