@@ -755,3 +755,140 @@ redress
 
 
 尽管交通问题经常成为餐桌上的话题，但对交通政策方向的全面评估在学术分析中却很少见。本章介绍了本书的范围，旨在帮助弥补这一不足。主要内容集中在城市交通政策上，重点在于政策分析而非政策过程的分析。重要的是，本章提出了一些关键命题，这些命题在塑造作者们处理后续章节中所考虑的具体问题的方法方面起到了重要作用。
+
+![alt text](image-74.png)
+#196 Pewter
+consist of /kənˈsɪst ʌv/ v. 由……组成：指由指定的事物或人组成。
+pewter /ˈpjuːtə(r)/ /ˈpjuːtər/ n. 白蜡；青灰色
+tin /tɪn/ /tɪn/ n. 锡（一种化学元素，符号为 Sn）；<英>罐，罐头盒；（用于储存糕点或饼干的）有盖金属盒，金属食品盒；<英>（盛涂料、胶水等的）马口铁罐，白铁桶；<英>烤模，烤盘；镀锡铁皮，马口铁（tinplate 的简称）；<英>长方形面包；adj. 锡制的；v. 在……上镀锡（或包锡）
+copper /ˈkɒpə(r)/ /ˈkɑːpər/ n. 铜；铜钱，铜币；<非正式>警察；灰蝶，铜色蝶；adj. 紫铜色的，红棕色的；vt. 用铜包，给……镀铜
+antimony /ˈæntɪməni/ /ˈæntɪmoʊni/ n. （化学元素）锑元素（符号 Sb）
+alloy /ˈælɔɪ/ /ˈælɔɪ/ n. 合金；（与贵金属混合的）劣等金属；v. 把（金属）铸成合金；<文>损坏，使（价值）降低
+
+![alt text](image-75.png)
+#194 McLuhan
+preeminent /ˌpriːˈemɪnənt/ /ˌpriːˈemɪnənt/ adj. 卓越的；超群的
+acoustic /əˈkuːstɪk/ /əˈkuːstɪk/ adj. 声音的，听觉的；（乐器）原声的；n. 音响效果，音质
+literary /ˈlɪtərəri/ /ˈlɪtəreri/ adj. 文学的，书面的；爱好文学的
+outline /ˈaʊtlaɪn/ /ˈaʊtlaɪn/ n. 轮廓，外形；提纲，大纲；v. 概述，勾勒
+release /rɪˈliːs/ /rɪˈliːs/ v. 释放，公布，发行；n. 释放，发布
+be characterized by /bi ˈkærəktəraɪzd baɪ/ 以……为特征
+
+![alt text](image-76.png)
+#193 Music
+canonical /kəˈnɒnɪk(ə)l/ /kəˈnɑːnɪkl/ adj. 根据教规的，按照宗教法规的；真经的，正经的；标准的，典范的
+![alt text](image-77.png)
+#192 Pullman
+land /lænd/ /lænd/ n. 陆地，地面；土地（尤指耕地或建筑用地）；地产，地皮；农耕，农村生活；国度，国土
+建于1880年的普尔曼（Pullman），位于芝加哥市界限外的4000英亩土地上，是美国第一个工业规划社区。普尔曼铁路车厢公司的乔治·普尔曼首先建造了公司城镇的南住宅区，该区域包含531座房屋，其中一些房屋至今仍然基本保持原貌。
+![alt text](image-78.png)
+#136 Octopus
+consciousness /ˈkɒnʃəsnəs/ /ˈkɑːnʃəsnəs/ n. 知觉，清醒；思想，意识；（群体的）观念体系；感知，察觉
+consensus /kənˈsensəs/ /kənˈsensəs/ n. 一致看法，共识
+spectrum /ˈspektrəm/ /ˈspektrəm/ n. 范围，幅度；光谱；波谱，频谱；余象
+octopus /ˈɒktəpəs/ /ˈɑːktəpʊs/ n. 章鱼；章鱼肉
+sophisticated /səˈfɪstɪkeɪtɪd/ /səˈfɪstɪkeɪtɪd/ adj. 见多识广的，老练的；复杂巧妙的，先进的；水平高的，在行的；时尚的，精致的
+complex /ˈkɒmpleks/ /kəmˈpleks/ adj. 复杂的，难懂的；组合的，合成的；（句子）复合的；复数的，复的；配合的，络合的
+complicated /ˈkɒmplɪkeɪtɪd/ /ˈkɑːmplɪkeɪtɪd/ adj. 复杂的，难处理的
+acute /əˈkjuːt/ /əˈkjuːt/ adj. 严重的，危险的；急性的，剧烈的；灵敏的；敏锐的；锐角的
+transmission /trænzˈmɪʃ(ə)n/ /trænzˈmɪʃ(ə)n/ n. （信号的）播送，发送；信息，广播；传递，传播，传染
+transition /trænˈzɪʃ(ə)n/ /trænˈzɪʃ(ə)n/ n. 过渡，转变；（分子生物）转换；（乐）临时转调；（物理）跃迁，转变
+
+![alt text](image-79.png)
+#164 Gauss
+on a regular basis 定期地，经常地：指按照固定的时间间隔或频率进行的活动。
+reputation /ˌrepjuˈteɪʃ(ə)n/ /ˌrepjuˈteɪʃ(ə)n/ n. 名誉，名声
+basis /ˈbeɪsɪs/ /ˈbeɪsɪs/ n. 基础，要素；基准，方式；理由，根据
+![alt text](image-80.png)
+#97 Well-being
+horde /hɔːd/ /hɔːrd/ n. 一大群，群；游牧部落
+![alt text](image-81.png)
+#142 Shanghai International Studies University
+global public opinion 全球舆论
+
+![alt text](image-82.png)
+#143 Plates
+tectonics /tekˈtɒnɪks/ /tekˈtɑːnɪks/ n. 构造学，构造地质学
+fragment /ˈfræɡmənt/ /ˈfræɡmənt/ n. 碎片；片段；残存部分；v. （使）破碎，分裂
+从地质学的角度来看，板块是指一大块坚硬的固体岩石。“构造”（tectonics）一词来源于希腊语中的“构建”。将这两个词结合起来，我们得到了“板块构造论”这一术语，它指的是地球表面是如何由多个板块构成的。板块构造理论指出，地球最外层被分割成十几个或更多的大板块和小板块，这些板块相互之间在相对移动。
+
+![alt text](image-83.png)
+#146 Neuroscientists
+experience /ɪkˈspɪəriəns/ /ɪkˈspɪriəns/ n. 经历，往事；经验，阅历；传统；v. 经历，遭遇；体会到，感受到
+physiological /ˌfɪziəˈlɒdʒɪk(ə)l/ /ˌfɪziəˈlɑːdʒɪk(ə)l/ adj. 生理的，生理机能的；生理学的
+involuntary /ɪnˈvɒləntri/ /ɪnˈvɑːlənteri/ adj. 无意识的；自然而然的；不知不觉的
+nuance /ˈnjuːɑːns/ /ˈnuːɑːns/ n. 细微差别；v. 使产生细微差别
+我们现在通过神经科学家的研究了解到，人类大脑天生会模仿他人的行为，这种模仿涉及观察者实际的、不由自主的生理体验。人们倾向于模仿他们看到的动作。从生理学角度来看，我们的大脑中包含镜像神经元，这些神经元会对看到的动作作出反应，仿佛我们自己在执行那些动作一样。这在很大程度上是一种无意识且自动的体验。当我们听到人们说话时，观察他们的语音细微差别、姿势、手势和面部表情等，我们大脑中的神经网络会被“共享表征”所刺激，从而产生反映我们所观察对象体验的感受。
+
+![alt text](image-84.png)
+#131 Concept of Culture
+cultivation /ˌkʌltɪˈveɪʃ(ə)n/ /ˌkʌltɪˈveɪʃ(ə)n/ n. 开垦，耕作；栽培，种植
+progressive /prəˈɡresɪv/ /prəˈɡresɪv/ adj. 进步的，先进的；逐步发生的；向前移动的；（音乐）现代的；（税制）累进的；（动词）进行式的；n. 进步分子，改革派人士；进行时（或体）
+refined /rɪˈfaɪnd/ /rɪˈfaɪnd/ adj. 精炼的；有教养的，文雅的；精确的；v. 精炼，提纯；改进，改善；使文雅（refine 的过去式和过去分词）
+inequality /ˌɪnɪˈkwɒləti/ /ˌɪnɪˈkwɑːləti/ n. （大小、程度、情况等的）不同，不平等；（数学）不等式
+今天许多人对文化的理解与18世纪和19世纪初欧洲的文化观念相似。这种概念反映了欧洲社会及其全球殖民地内部的不平等。根据这种文化理解，文化等同于文明，并与自然或非文明形成对比。按照这种观点，有些国家比其他国家更文明，有些人比其他人更有教养。任何不符合这一类别的事物都被标记为混乱或无政府状态。从这个角度来看，文化与修养紧密相关，而修养是指人类行为的逐步精炼。在实践中，文化指的是精英商品和活动，如高级美食、高端时尚或高级定制服装、博物馆级别的艺术和古典音乐。"有教养的"这个词指的是那些了解并参与这些活动的人。例如，用这种意义上的文化，有人可能会争辩说，古典音乐比工人阶级的音乐（如爵士乐或原住民的传统音乐）更加精致。
+
+![alt text](image-85.png)
+#128 Health Professionals
+proportion /prəˈpɔːʃ(ə)n/ /prəˈpɔːrʃ(ə)n/ n. 部分，份额；比例；正确的比例，均衡；大小，程度（proportions）
+contrast /ˈkɒntrɑːst/ /ˈkɑːntræst/ n. 差异，对比；对照物，明显不同的事物；（摄影或绘画中的）颜色反差，明暗对比；（电视屏幕的）图像明暗对比度，反差；v. 对比，对照；显出明显的差异，形成对比
+complementary /ˌkɒmplɪˈment(ə)ri/ /ˌkɑːmplɪˈment(ə)ri/ adj. 相互补充的，相辅相成的；互补色的；（基因序列、核苷酸等）互补的
+
+![alt text](image-86.png)
+#127 Australia
+intriguing /ɪnˈtriːɡɪŋ/ /ɪnˈtriːɡɪŋ/ adj. 非常有趣的，引人入胜的；v. 引起……的兴趣；策划阴谋
+intrigue /ɪnˈtriːɡ/ /ɪnˈtriːɡ/ v. 激起……的兴趣，引发……的好奇心；密谋；n. 密谋策划，阴谋；秘密的恋情；神秘力量
+emerge /ɪˈmɜːdʒ/ /ɪˈmɜːrdʒ/ v. 浮现，出现；显露，知悉；恢复过来，幸存下来；形成，兴起
+convict /kənˈvɪkt/ /kənˈvɪkt/ v. 定罪，宣判……有罪；n. 已决犯，服刑囚犯
+settlement /ˈset(ə)lmənt/ /ˈset(ə)lmənt/ n. （解决争端的）协议，和解；定居点，聚居地；殖民，开拓
+revive /rɪˈvaɪv/ /rɪˈvaɪv/ v. （使）复原，（使）复苏；重新唤起，重新记起；重新使用，使复兴
+retain /rɪˈteɪn/ /rɪˈteɪn/ v. 保持，保留；保存，储存
+remain /rɪˈmeɪn/ /rɪˈmeɪn/ v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理）；n. 剩余（物），遗迹；遗体，残骸
+澳大利亚是一个充满活力的多元文化社会，被许多人视为世界上最理想的生活之地。在这里，弗兰克·威尔士追溯了澳大利亚丰富多彩的历史，以探讨这个社会是如何形成的——从古老的原住民部落和最早的英国流放定居点，到今天的现代国家——这个国家仍然保留着与殖民地过去的紧密联系，但同时变得越来越独立和多样化。
+
+![alt text](image-87.png)
+#117 Colorful Poison Frogs
+accordant /əˈkɔːdənt/ /əˈkɔːrdənt/ adj. 一致的；调和的
+reservoir /ˈrezəvwɑː(r)/ /ˈrezərvwɑːr/ n. 水库，蓄水池；储藏，蓄积
+
+![alt text](image-88.png)
+#95 White Paper
+derive /dɪˈraɪv/ /dɪˈraɪv/ v. 获得，取得；起源于，来自；提取，衍生（化学物质）
+
+![alt text](image-89.png)
+#93 Sex-biased Hiring
+conceal /kənˈsiːl/ /kənˈsiːl/ v. 隐匿，隐藏；隐瞒（真实感情或真相）；遮盖，遮住
+recruit /rɪˈkruːt/ /rɪˈkruːt/ v. 招聘，招收（新成员）；招募（新兵）；说服，动员
+symphony orchestra /ˈsɪmfəni ɔːkɪstrə/ 交响乐团
+
+![alt text](image-90.png)
+#68 Sportswomen
+not to put too fine a point on it    直言不讳、毫不掩饰地说
+frankly speaking 毫不掩饰地说
+
+![alt text](image-91.png)
+#14 University Science
+这些关闭被归咎于学生申请数量的下降，但资金也是一个因素：提供化学学位的成本较高——与英语等学科相比——有些科学家认为，政府将资金集中在少数顶尖院系（如布里斯托尔）的方式增加了风险。
+
+![alt text](image-92.png)
+#184 History
+
+![alt text](image-93.png)
+#80 Ice Storm
+blackout /ˈblækaʊt/ /ˈblækaʊt/ n. 断电；灯火熄灭；暂时的意识丧失
+icy /ˈaɪsi/ /ˈaɪsi/ adj. 冰冷的；结冰的；不友好的，冷漠的
+
+![alt text](image-94.png)
+#96 Allure of Book
+prey /preɪ/ /preɪ/ n. 猎物，捕获物；受害者，受骗者；<古>掠夺品；v. 捕食；欺凌，坑害（尤指弱者）；不断困扰，折磨
+pleasurable /ˈpleʒərəbl/ /ˈpleʒərəbl/ adj. 快乐的；心情舒畅的；令人愉快的
+书籍的魅力始终是正面的和（答案：负面的），因为封面上下的文字和图片帮助许多年轻读者以愉悦且有意义的方式（答案：发现）并理解周围的世界。但这种魅力也让作者和出版商得以（答案：利用）年轻读者的倾向和愿望，向他们（答案：推销）一份最终被证明是“垃圾食品”的菜单。
+
+![alt text](image-95.png)
+#102 Volcanoes
+火山每年向大气中喷发超过一亿吨的二氧化碳，但这种气体通常是（答案：无害的）。当火山喷发时，二氧化碳会扩散到大气中，并不会（答案：集中）在一个地方。但有时，这种气体会在巨大的压力下被困（答案：地下）。如果它以浓密的（答案：云团）形式逃逸到地表，就可能将富含氧气的空气推开，从而变得致命。
+
+![alt text](image-96.png)
+#1 Botswana
+stratify /ˈstrætɪfaɪ/ /ˈstrætɪfaɪ/ vt. 分层；成层；使形成阶层；vi. 分层；成层；阶层化
+slump /slʌmp/ /slʌmp/ v. （价格、价值、数量等）骤降，猛跌；惨败，猛跌；（因无力站立而）倒下，倚，靠；（肩或脑袋）耷拉着；n. （价格、销售额、利润等的）突然下跌；（经济的）不景气，萧条
