@@ -172,3 +172,85 @@ The website has probably the most attractive designs and layouts.
 
 #1132 RS
 There is no point in designing efficient cars if we use them more and more.
+
+#1110 RS
+Read the safety instructions before using the equipment during the workshop.
+
+#1091 RS
+We have three distinctive libraries which are nationally acclaimed.
+
+#1090 RS
+Parking permits can be collected through the student service office.
+
+#1081 RS
+Major sports on campus include rugby, soccer and tennis.
+
+#1080 RS
+It is clear that the effects of climate change will damage the world economy.
+
+#1079 RS
+This framework could allow us to pose further research questions more systematically.
+
+#1077 RS
+Experience would be an advantage for this managerial role.
+
+#1068 RS
+Biographical information should be removed prior to the publication of the results.
+
+#1021 RS
+The course comprises twenty hours of lectures, seminars and tutorials each week.
+
+#1020 RS
+To get a further extension, you need to call the education executive on 401
+
+#1004 RS
+The books are filled with drawings of machines invented when he was a student.
+
+#974 RS
+Being a vegan means not consuming any animal products.
+
+#640 RS
+I would like an egg and tomatoes on white sandwich bread with orange juice.
+
+
+#516 RS
+Applicants for the course should preferably have a degree in English or journalism.
+
+#351 RS
+Any textual references you make should be cited appropriately in the bibliography.
+
+#826 RS
+The cafeteria closes soon but the snack machine is accessible throughout the night.
+
+#969 RS
+The technician left the new microscope in the biology lab.
+
+#968 RS
+Ideally, free trade is mutually beneficial for both trading partners.
+
+#965 RS
+Robert Frost thinks the rural area is livable for people in New England.
+
+#931 RS
+In English, the first letters of the months of the year are always capitalized.
+
+#960 RS
+Contemporary critics dismissed his idea as eccentric.
+
+#945 RS
+The United States has developed a coffee culture in recent years.
+
+#933 RS
+Our capacity to respond to national needs will determine our ability to flourish. 难
+
+#906 RS
+If she doesn't speak the language, she's not going to sit around and wait for a translator.
+
+#905 RS
+To answer such a complex question with a simple yes or no is absolutely impossible.
+
+#903 RS
+In 1830, periodicals appeared in large numbers in America.
+
+#901 RS
+Arteries carry oxygenated blood from the heart to other parts of the body.
