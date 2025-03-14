@@ -162,11 +162,23 @@ X发射了太空模型mockup
 
 4、【transported 】尸体被放到担架上，然后被“送到“新家，根据前面的 was placed被动，选transported 被运送。
 618
+销售代表提供了大量【a great deal of】的时间和精力，特别是与管理、制造和服务工作【相比 compared with 】。需要制定某种形式的目标来激励和指导【to help motivate and guide】 他们的绩效。为服务人员分配了一定时间内【必须执行must perform】的若干服务呼叫。企业的成功【取决于hinges on】其产品和服务的成功销售。以生产【producing】销售人员销售【what】的产品。
 613
+小孩儿在【engaged in】久坐活动上花了更多时间，以至于孩子没达到【minimum】最低活动时间标准，而久坐这种行为【behaviors】导致了肥胖率增长，并且看电视和打游戏（屏幕活动）是久坐活动的一部分【part】，虽然AVGs活动能提升一定的运动量，但不能完全代替【replacement】传统户外运动。
 579
+在整个城镇历史中似乎存在两种独立且相互矛盾的建筑情绪。【一个 One】是由于各种原因重新开始的愿望：或者新城市 【标志着 marks 】一个新的政治开端。人们往往会来【tend】不管他们是否有任何前来的计划，【除非 unless】它的发展几乎完全是偶然的或在历史中丢失。新南威尔士州克莱德河上的Currowan，它在19世纪下半叶 【被勘查/测量 was surveyed】，曾期望人们能够前来建立农业和小港口。但【没有人 no one came】来
 576
+青少年写作业为了【取得get】好成绩，于是【选择select】 向他们【提供 present them with】 了【报告report】。
 545
+政府预测（forecasts）以后多数人是单人住户（occupancy），既然形式已经恶化（deteriorating），说明要宣布（declaring）一场危机要壮观的（spectacular）开始了。
 544
+生活【originated 起源】于进化适应，没有什么【immune 免于】被解释，【roots 源于】自然选择，【differ 不同】于先天能力，影响可能【很小little】
 570
+食蛋蛇的【饮食diet】是蛋，他们把蛋【整个whole】吞下，如果蛋大需要【处理treatment】，这些蛇有从脊骨【伸出out】的刺，刺会【裂开open】鸡蛋
+有点不一样，第二个是空有些蛋小壳软好开easy
+没有第四个空
+最后一个空crack open里out是干扰项
 33
+大的鱼支配【较小的鱼counterpart】。研究人员【recorded】记录了小丑鱼的叫声，【capturing】 捕捉到这种声音并 compared】比较了攻击性呼叫和顺从性呼叫，发现小丑鱼们用声音吸引【potential】 潜在伴侣
 12
+从这个意义上说，新西兰和澳洲拥有共同的文化【遗产 heritage】。按世界【标准 standards】衡量，就人口【特征 characteristics】而言这两个国家的生育率都【经历了 experienced】类似的下降，以及为社区中这一不断增长的群体提供适当照顾和支持的【相关 associated】挑战。

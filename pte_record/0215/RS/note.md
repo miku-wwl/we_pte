@@ -254,3 +254,115 @@ In 1830, periodicals appeared in large numbers in America.
 
 #901 RS
 Arteries carry oxygenated blood from the heart to other parts of the body.
+
+#888 RS
+The generic biology technology lab is located at the North Wing of the library.
+
+#870 RS
+It is within the framework that we're making our survey.
+
+#134 RS
+In 1880, cycling became a major phenomenon in Europe.
+
+#103 RS
+The hypothesis about black holes is rendered moot by the explanation of the explosion.
+
+#848 RS
+We want to attract the very best students regardless of their financial circumstances.
+We are committed to recruiting the best students regardless of their financial situation
+
+#842 RS
+Expertise in particular areas distinguishes you from other graduates in a job interview.
+
+#811 RS
+Our school of arts and technology accepts applications at all points throughout the year.
+Our school of arts and technology accepts applications at all points during the year.
+
+#806 RS
+This science fiction novel uses advanced space technologies to create the setting.
+
+#788 RS
+Many undergraduate students go back home to stay with their parents after graduation.
+
+#782 RS
+Nearly half of television outputs are given away for educational programs.
+
+#780 RS
+The minimal mark for Distinction to be awarded is 75%.
+
+#768 RS
+Organic food is grown without applying chemicals and the process is without artificial additives.
+
+#762 RS
+I would like tomato and cheese sandwiches on white bread and orange juice.
+
+#752 RS
+The student service center is located on the main campus behind the library.
+
+#721 RS
+A renowned economist is selected to have a speech tonight at eight.
+
+#354 RS
+We didn't notice any significant variance among the two or three tasks.
+
+#885 RS
+The theoretical proposal was challenging to grasp.
+The examples on the theory of social capital were a challenge to grasp.
+
+#877 RS
+Higher fees make students think more critically about what universities can offer.
+Higher fees cause the student to look more critically at what universities offer.
+
+#875 RS
+We are constantly looking for ways to bring industry and agriculture closer together.
+
+#862 RS
+She is an expert of eighteenth-century French literature.
+
+#854 RS
+The Arts Magazine is looking for a new Assistant Editor.
+
+#839 RS
+By clicking this button, you agree with the terms and conditions of this website.
+
+#836 RS
+Physics is a detailed study of matter and energy.
+
+#823 RS
+This small Indian state is a land of forests, valleys and snowy islands
+
+#816 RS
+Globalization has been a major force driving both urbanization and the growth of cities.
+
+#812 RS
+Conservation is essential for the survival of future generations.
+
+#799 RS
+To receive the reimbursement, you must keep the original receipts.
+
+#793 RS
+The wheelchair lift has been upgraded this month.
+
+#789 RS
+The recent study has thrown out the validity of the argument.
+
+#786 RS
+The office said Dr. Smith will arrive later today.
+
+#776 RS
+The first few sentences of an essay should capture the readers' attention.
+
+#773 RS
+The current statistical evidence indicates the need of further research.
+
+#766 RS
+The author expressed an idea that modern readers inevitably cannot accept.
+
+#759 RS
+Sport is the main cause of traumatic brain injuries in the United States.
+
+#756 RS
+The residence hall is closed prior to the closing time of the academic building during the end of the semester.
+
+#753 RS
+Please finish all the reading chapters before the field trip.

@@ -93,3 +93,99 @@ internet enables ordinary people to participate
 journalism will become a collaborative process
 
 This lecture mainly tells about internet and journalism. Firstly, the speaker says the jounrnalism has faced challenges in recent years. Secondly, the speaker mentions the impact of the internet on its production and consumption. Thirdly, Internet enables ordinary people to participate. Finally, jounrnalism will become a collaborative process. In conclusion, this lecture is informative.
+
+
+ #115 Absolutism
+principle
+there are some rules and ideas
+we can know that there is a boundary between what is right and what is wrong. 
+we can guide our behaviors.
+
+This lecture mainly talks about principle. Firstly, the speaker says that there are some rules and ideas. Secondly, the speaker mentions that we can know that there is a boundary between what is right and what is wrong. Thirdly, the speaker mentions that we can guide our behaviors. In conclusion, this lecture is very informative.
+
+#285 Alternative Energy （Similar）
+This lecture mainly talks about renewable energy and alternative energy.
+Firstly, the speaker says that energy will never run out.
+Secondly, the speaker mentions that energy will be consumed by human.
+Thirdly, the speaker mentions that renewable energy has many benefits.
+Finally, the speaker talks about renewable energy has many benefits.
+In conclusion, this lecture is very informative.
+
+This lecture mainly talks about renewable energy and alternative energy. Firstly, the speaker says that energy will never run out. Secondly, the speaker mentions that energy will be consumed by human. Thirdly, the speaker mentions that renewable energy has many benefits. Finally, the speaker talks about renewable energy has many benefits. In conclusion, this lecture is very informative.
+
+#284 Hook Sentence
+hook sentence
+need to collect materials
+build an emotional connection with your reader
+hook is an important part
+some popular hooks include statistics
+
+This lecture mainly talks about hook sentence. Firstly, the speaker says that you need to collect materials. Secondly, the speaker mentions that you need to build an emotional connection with your reader. Thirdly, this speaker mentions that hook is an important parts. Finally, the speaker mentions that some popular hooks include statistics. In conclusion, this lecture is very informative.
+
+
+
+#278 DNA Pieces
+editing genes
+he used to work on our biological system
+engineers have the power to design DNA.
+engineers can now create new organisms.
+it can be used in factories with the help of bacteria.
+
+This lecture mainly tells about editing genes. Firstly, the speaker says that he used to work on our biological system. Secondly, the speaker says that engineers have the power to design DNA. Thirdly, the speaker mentions that engineers can now create new organisms. Finally, it can be used in factories with the help of bacteria. In conclusion, this lecture is very informative.
+
+#275 Climate Change Experiment
+Climate change
+climate change is one of the challenges humans face.
+human efforts to deal with it and the difficulty of observation
+the predictions of climate change impacts.
+actions to reduce the impart of global warming.
+
+This lecture mainly tells about climate change. Firstly, the speaker mentions that climate change is one of the challenges humans face. Secondly, the speaker talks about the human efforts to deal with it and the difficulty of observation. Thirdly, the speaker talk about the predictions of climate change impacts. In conclusion, this lecture is very informative.
+
+
+#274 Chimpanzees
+
+chimpanzees
+non-human Rights Project is an organization.
+this is fighting for legal right for non-human animals.
+New York Court asked to release a chimpanzees.
+
+This lecture mainly tells us about chimpanzees. Firstly, the speaker says that non-human Rights Project is a organization. Secondly, the speaker mentions that this organization is fighting for legal right for non-hum animals. Thirdly, the speaker states that New York Court asked to release a chimpanzee. In conclusion, this lecture is very informative.
+
+
+#269 Patients' Recovery
+patients' recovery
+there is a long history of research on patients' recovery
+fresh air and well-designed architecture can have impacts on recovery.
+staying with family members can release stress.
+
+This lecture mainly tells about patients' recovery. Firstly, the speaker says that there is a long history of research on patients' recovery. Secondly, the speaker states that fresh air and well-designed architecture can have impacts on recovery. Thirdly, the speaker mentions that staying with family members can release stress. In conclusion, this lecture is very informative.
+
+
+#264 Newspaper Industry
+the Newspaper Industry
+the newspaper industry has been shrinking because of the economic model
+newspaper increase the cash flow
+so many newspapers are losing money and they have to go online
+
+This lecture mainly tells about the newspaper industry. Firstly, the speaker says that the newspaper industry has been shrinking because of the economic model. Secondly, the speaker mentions that newspaper increase the cash flow. Thirdly, the speaker states that so many newspaper are losing money and they have to go online. In conclusion, this lecture is very informative.
+
+
+#257 Stone Balls
+stone balls
+he spent his life trying to understand what is possible.
+they don't actually know what they are for.
+they might have been part of a game.
+they don't really know what they are.
+
+This lecture mainly tells about stone balls. Firstly, the speaker says that he spent his life trying to understand what is possible. Secondly, the speaker mentions that they don't actually know what they are for. Thirdly, the speaker states that they might have been part of a game. Finally, the speaker mentions that they don't really konw what they are. In conclusion, this lecture is informative
+
+
+#251 Sleep
+Topic: our sleep
+it is a good thing for you to get enough sleep.
+people need to sleep before studying and after learning.
+our brains and bodies are very important.
+if without sleep, you can't absorb new memories.
+
+This lecture mainly tells about our sleep. Firstly, the lecture says that it is a good thing for you to get enough sleep. Secondly, people need to sleep before studying and after learning. Thirdly, our brains and bodies are very important. If without sleep, you can't absorb new memories. In conclusion, this lecture is very informative.
