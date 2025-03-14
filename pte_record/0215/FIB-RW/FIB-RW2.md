@@ -100,26 +100,37 @@ renewed resulting promises focus
 
 ----marking----
 736
-
+![alt text](image-140.png)
 换空了，文章变短了,只有source和reservious两个空不变，后面要选两个介词，一共四个空。 多了两空，itself和study from 可能的空是第四排：within the tropical forest【itself】
 
+亚马逊毒蛙的【diversity】多样性归功于xx的祖先，xx是其多样性研究的【major source】主要来源，亚马逊是最大的【reservoirs】储库之一。这一发现【run counter to】背道而驰了（与xx）【idea】观点。该【结果the result of】的主要作者、研究生xx表示：“基本上，亚马逊流域是南美青蛙的‘熔炉’。毒蛙的 places of【 origin】来源地，特别是安第斯山脉，已经有几千万年了。
 734
-
+![alt text](image-141.png)
+法律与秩序的叙事，从根本上说，定位于个人的【culpability 罪责】层面。犯罪行为被视为个人责任和罪责的个别问题，国家通过维持治安policing，【起诉 prosecution】，判决adjudication和惩罚punishment的方式对此作出反应。这只是可以分析犯罪和刑事司法的一个层面。问题是，分析常常在个人行动的层面上结束，其【特点 characterized】是责任，内疚和邪恶。在社会生活的其他领域，个人主义很少能有这样的影响力。仅举一个例子，把对肥胖的分析局限于个人的贪婪是【荒谬 absurd】的。
 
 728
+![alt text](image-142.png)
 首先从理论【point of view 角度】考虑，然后描述【using 使用】，【subject to 受制于】一个非常重要的警告， 换句话说，如果计算机模拟【integrated 整合】，那么它们只能【attain 发挥】全部潜力
 
 724
+![alt text](image-143.png)
+人口可以通过三个过程发生变化，生育【包括 involves】妇女【有have】多少小孩，生命表是一种统计（statistical）【工具 device】. 研究者不会将迁徙指定为迁徙，【除非是 unless】是永久性的。人口学家通常是通过 through census data（人口普查数据） on place of【居住地 residence】来调查的。人口统计学在很多大学中得到了广泛教学，【吸引 attracting】学生们。
+
 北京新世纪，没有第二空have，剩下都一样
 722
-
+![alt text](image-144.png)
 宇宙学中心是多部门【合作collaborate】研究他们【重叠overlap】部分,【揭示revealed】了暗物质存在并将宇宙作为【实验室laboratory】,它的【出现advent】是激动人心的
 
 645
+![alt text](image-145.png)
 渐进式增强为弱浏览器【设计designing for】 ,【逐渐增强progressively enhance】外观和行为,【不需要花费Instead of spending】大量时间研究,【最大的挑战biggest challenge】是开发人员
 715
+![alt text](image-146.png)
+科学家在研究蜗牛大脑的【发现 findings】，观察它们【当 as】寻找食物时的活动。它们的神经元会判断【是否 if】饥饿，【在 during】觅食时优化能量。目标是用【最少的 fewest】组件，让机器人【做出 make】复杂决策，仅仅两个细胞【能够 can】完成。
+
 没有finding和make这两个空，剩下的一样
 713
+![alt text](image-147.png)
 spacex发射了搭载【样机mockup】的火箭,他们认为这是太空的有【希望的promising】发展,如果飞入【轨道orbit】会为spacex赢得NASA【合同contract】,因为他们之前的计划已经【退役retired】
 X发射了太空模型mockup
 
@@ -132,19 +143,31 @@ X发射了太空模型mockup
 合同都签了，人老员工可不得退休吗（retired）
 
 708
+![alt text](image-148.png)
+历史书告诉我们的并不是过去发生的一切，而是历史学家所【选择的have selected❌】。他们不能把所有的东西都放进去:必须做出选择。同样，必须选择过去的哪些方面应该以学校历史课的形式正式传授给下一代。因此，【比如for example】，当英格兰和威尔士的国家学校课程在20世纪80年代末首次讨论时，历史课程引起了公众和媒体的【兴趣interest❌】。政客们对此争论不休;人们就此事写信给媒体;当时的首相，玛格丽特·撒切尔，【介入了intervened❌】辩论。让我们先想想内容的问题。在这个问题上有两大阵营:一派认为英国历史应该【take pride of place 占据引人注目的位置❌】，另一派则倾向于所谓的“世界历史”。
 
 
 687
+![alt text](image-149.png)
+远程学习对各种各样的人都非常有益，从希望扩大视野的年轻学生到寻找更多工作保障的成年人。远程教育的项目使所有年龄的学习者都能通过学习来获得乐趣、个人发展和【学位 degrees】，从而【满足 meet】不同人群的需求。也许远程学习最显著和经常被谈论的【优势 advantages】之一是灵活性。大多数项目允许学生在方便的时间和地点学习。对于【那些 those】努力平衡远程学习目标与全职工作和照顾家庭的人来说，这种灵活性可以让许多人【追求 pursue】教育，否则他们无法接受教育。【由于 Since，Due to由于：只能接短语，不能引导句子】没有校内课程可上，学生们可以在自己家里、午休时在工作场所以及几乎任何有互联网接入的地方学习。对一些人来说，它甚至是节省燃料成本和通勤上课所需时间的一大来源。
 
 
 682
+![alt text](image-150.png)
 边界的重要性存在少量真实【element因素】。在外交关系【formative形成】时期，尤其是在没有【settled稳定的】边界的情况下。征服临国获得【allegiance忠诚】，并在【adjoining紧挨】边境地区【delineated划界】建立缓冲国的概念
-680
-对某些东西过敏时，你的免疫系统【错误地 mistakenly】认为这种物质对你的身体有害。为了【保护 protect】身体 ，这些抗体会导致体内某些细胞向血液中【释放 release】化学物质，其中一种是组胺。组胺【作用于 acts on】 眼睛、鼻子、未来接触相同的过敏原将再次触发这种【抗体 antibody】。
-670
-644
-有四个空 前两个一样 后两个 不一样 第三个空是 (so that) the chicks can fledge in the later summer season 第四个空记不清楚了 但是没有 covered 了
 
+680
+![alt text](image-151.png)
+对某些东西过敏时，你的免疫系统【错误地 mistakenly】认为这种物质对你的身体有害。为了【保护 protect】身体 ，这些抗体会导致体内某些细胞向血液中【释放 release】化学物质，其中一种是组胺。组胺【作用于 acts on】 眼睛、鼻子、未来接触相同的过敏原将再次触发这种【抗体 antibody】。
+
+670
+![alt text](image-153.png)
+泰勒餐厅的其余部分是学生经营的。大宗食品生产和服务管理【课程 classes】的学生制作清晰详细的菜肴。“我们教学生理解一种产品来自哪里，并尊重这种产品，”加米说。有人可能会怀疑学生经营的餐厅的【质量 quality】，但造访一次泰勒餐厅就会立即改变他们的看法。像俄勒冈州南瓜和胡桃南瓜、鸭子和小酒馆鸡肉这样的菜肴会满足任何食欲，同时让人想要【回来 return】第二次品尝。学生们被教导在制作菜肴时重视比例，而不是盲从菜谱。加米说：“理解做菜时的各种比例而不是照搬菜谱会让学生思考，并【实际上 actually】教会他们如何烹饪，而不仅仅是阅读菜谱浮于表面。”加米说，他信奉“要利用产品的方方面面”的理念，泰勒的【菜单 menu，仅一道菜肴cusine无法利用产品的各个方面】反映了这一点。
+
+644
+![alt text](image-154.png)
+
+有四个空 前两个一样 后两个 不一样 第三个空是 (so that) the chicks can fledge in the later summer season 第四个空记不清楚了 但是没有 covered 了
 
 前两个空有，第一个空选项有on，off，up还有个忘了，第二个空seeing，have seen，had seen和seen好像是这个。第三个空的选项有个while，第四个不是cover，忘记是啥了。
 
