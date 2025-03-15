@@ -366,3 +366,48 @@ The residence hall is closed prior to the closing time of the academic building 
 
 #753 RS
 Please finish all the reading chapters before the field trip.
+
+
+More females than males graduated from universities last year.
+
+#745 RS
+More females than males graduated from universities last year.
+
+#744 RS
+Meeting with tutors could be arranged for students who need additional help.
+
+#738 RS
+I’ve got a tutorial in an hour and I haven’t had any time to prepare for it.
+
+#732 RS
+Farmers do not always receive fair prices for agricultural goods.
+
+#730 RS
+Don’t forget to hand in your assignments by the end of next week.
+
+#729 RS
+Doing this research makes me think of the purpose of science.
+
+#724 RS
+Being a student representative on the union really cuts into my study time
+
+#722 RS
+Anyone who has a problem with their accommodation should speak to the welfare officer.
+
+#718 RS
+All students and staff have access to printers and scanners.
+
+#699 RS
+Please pass the handouts along to the rest of the people in your row.
+
+#349 RS
+I expect a long and stagnant debate on this issue for a week or two.
+
+#669 RS
+The gap between the rich and the poor did not decrease rapidly as expected.
+
+#663 RS
+What distinguishes him from others is his dramatic use of black and white photography.
+
+#661 RS
+On our campus, prospective students have access to thirteen college libraries.
