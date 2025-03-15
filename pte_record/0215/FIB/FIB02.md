@@ -152,13 +152,68 @@ legitimate legitimate legitimate合法的
 
 plunge
 114
+![alt text](image-81.png)
+地球正在变暖。据政府间气候变化专门委员会（IPCC）称，到本世纪末，几乎所有的北极【summer（夏季）】冰可能已经融化。好的一面是，我们可以【Access（获取）】到估计占全球四分之一的石油和天然气资源，以及传说中的西北航道的【opening（开通）】。坏的一面是，随着【neighboring（邻近的）】国家——丹麦和格陵兰、俄罗斯、加拿大、挪威和美国——都竞相【share（分享）】这一财富，北极的荒野正在消失。
 110
+![alt text](image-82.png)
+这两幅画，都被叫做“向日葵”，被普遍认为是梵高在1888年和1889年他在阿尔勒期间创作的几幅【depictions（描绘）】粗茎、垂头花朵中最好的。第一幅现在收藏于伦敦的国家美术馆，第二幅则在阿姆斯特丹的梵高博物馆。梵高称这幅作品为伦敦画作的【repetition（重复）】。但艺术历史学家和策展人长期以来一直【curious（好奇）】想知道这个“重复”与第一幅画有何不同。它应该被视为复制品、独立艺术品还是介于两者之间的东西？由国家美术馆和梵高博物馆的保护专家在过去三年中进行的一项【extensive（广泛的）】研究项目得出结论，第二幅画“并非打算作为第一幅画的【original（原作）】的精确复制品，”阿姆斯特丹大学的保护与修复教授Ella Hendriks说，她是该项目的主要研究人员。
+
+depiction
+repetition
+original
+
 99
+![alt text](image-84.png)
+什么是纳米技术？嗯，一份由【combination（联合）】英国皇家学会和皇家工程院共同编制的报告去年夏天发布，【identifies（识别）】了两个主题。纳米科学是研究【phenomena（现象）】以及在原子、分子和【macromolecular（大分子）】尺度上操纵材料的科学，这些尺度上的性质与更大尺度上的性质有显著差异。纳米技术是通过控制纳米尺度上的形状和尺寸来设计、表征、生产和应用【structures（结构）】、设备和系统。所以，我稍后会详细谈谈纳米米是什么，但【loosely（粗略地）】说，人们认为纳米技术大约是一百纳米或更小。
+phenomena
+identifies
+macromolecule
 96
+![alt text](image-83.png)
+金融市场昨日在疯狂的交易市场中剧烈波动，投资者进一步抛售【股票 equities】，并担心欧元区解体对全球套利交易的【担忧 fears】。与此同时，伦敦欧洲信贷市场的交易量连续第三天异常【繁忙 heavy】。伦敦股市交易的特点是，用于确保投资者免受【企业 corporate】违约影响的信贷衍生品价格【波动 swings】尤其剧烈。
+
 88
+![alt text](image-85.png)
+foreshadowed
+beleagued
+predicament
+
+这个故事已经被删掉了，只是应急计划的一部分。但这是南澳大利亚州事态戏剧性转变的一个征兆，它冲淡了水利【学者academics】和Tim Flannery等人的其他言论，表明情况确实比预想的要【糟糕foreshadoewd】得多，甚至在今年早些时候也是如此。那么，阿德莱德，更不用说整个南澳大利亚州的一些【地区regions】，是否正处于严重的麻烦之中呢？考虑到该州大量的饮用水来自【四面楚歌beleaguered】的默里河，我们许多在该州以外的人可能还没有完全意识到这一点。他们的【困境predicament】是我们作为一个国家必须面对的吗？
+
 85
+pseudo
+![alt text](image-86.png)
+
+那些从未听说过新拉丁这个术语的人，可能会认为这是一种新的南美舞蹈热潮。如果当我告诉你它与罗马语有关时，你感到【困惑puzzled】，振作起来，多年来，许多班级【承认confessed】他们也不确定它是什么。有些人【认为assumed】它们是所谓的“晚期拉丁语”，写于罗马帝国末期。其他人认为这一定与中世纪有关。或者可能是我五岁和七岁的儿子似乎从《哈利·波特》系列丛书中【5收集gleaned】到的【4伪拉丁语pseudo-Latin】，对咒语和诅咒很有用，他们用临时的纸灰互相拉上拉链。不，事实上，新拉丁语或多或少与【古代ancient】世界书写的拉丁语相同，古典拉丁语。那么，它有什么新意呢？
 89
+![alt text](image-87.png)
+
+industrial
+portrait
+
+劳伦斯·斯蒂芬·劳里 RBS RA 是一位英国艺术家。他的许多绘画和画作描绘了兰开夏郡的彭德勒伯里，他在那里生活和工作了40多年，还有萨尔福德及其周边地区。劳里以描绘20世纪中叶英格兰西北部【industrial（工业）】区的生活场景而闻名。他发展了一种【distinctive（独特的）】绘画风格，最出名的是他那【city（城市）】风景画，画中的人物通常被称为【matchstick（火柴棍）】人。他画了一些神秘的无人居住的风景画，沉思的【portraits（肖像）】以及在他去世后才被发现的未发表的“木偶”作品。
 82
+![alt text](image-88.png)
+patriotism
+patriot
+portrait
+portraitist
+
+第一个差异的效果是，一方面，通过一个被选定的公民团体的【medium（媒介）】，来【enlarge（扩大）】公众的观点，这些公民以其【wisdom（智慧）】最能识别他们国家真正的利益，并且他们的【patriotism（爱国主义）】和对正义的热爱最不可能因临时或【partial（偏颇的）】考虑而牺牲这些利益。
+
 71
+For the first time, Japanese researchers have conducted a real-life experiment that shows how some traffic jams appear for no apparent reason. They placed the 22 vehicles on a 【single】 track, and asked the drivers to cruise around at a 【constant】 speed of 30 kilometers an hour. At first, traffic moves smoothly, but soon, the distance between cars started to 【vary】and vehicles clumped together at one point on the track, but the jams 【spread】 backward around the track, like a shockwave at a rate of about 20 kilometers an hour. Real-life jams move backward at about the same speed.
+
+日本研究人员首次进行了现实生活中的实验，展示了一些交通拥堵是如何无缘无故出现的。 他们将 22 辆车放在一条【单】轨道上，并要求驾驶员以每小时 30 公里的【恒定】速度行驶。 起初，交通顺畅，但很快，汽车之间的距离开始【变化】，车辆在轨道上的某个点聚集在一起，但拥堵在轨道周围【扩散】，就像冲击波一样，速度约为 20 公里每小时。 现实生活中的拥堵以大致相同的速度向后移动。
+
+![alt text](image-89.png)
 73
+![alt text](image-90.png)
+布鲁赫和她的同事马克·纽曼研究了2014年1月在一个流行的在线约会平台上谁与谁交换了信息。他们使用PageRank（搜索技术背后的算法之一）根据吸引力对用户进行了【分类categorized】。【本质上Essentially】说，如果你收到了一打来自有吸引力的用户的信息，那么你一定比收到同样数量来自普通用户信息的人更有吸引力。然后他们提出了一个问题：在线约会者在追求伴侣时，往往会追求比他们高出多少“等级”的对象？“我认为人们是乐观的【现实主义者realists】。换句话说，他们发现男性和女性都倾向于追求比他们自己吸引力高出25%的伴侣。所以他们是乐观的，但他们也考虑到了自己在这个整体吸引力等级中的相对位置。”这项研究还为市场上的人们提供了一些【启示lessons】：“我认为这项研究的一个关键信息是，女性在追求【伴侣mate】时或许可以更有抱负一些。”
+
+categorize
+Essentially
 15
+![alt text](image-91.png)
+engage
+
