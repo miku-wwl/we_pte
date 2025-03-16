@@ -80,3 +80,9 @@ The smallest value is found in houses and saltwater fish, which is 1.6m.
 Based on the graph, it can be found that the value of birds is about 5.7m.
 
 In conclusion, this graph provides information about the number of US households keeping pets.
+
+
+摘录归纳
+The horizontal line in the graph indicates there was no change in this period.
+
+However, the vertical line indicates the trend was down in next period.
