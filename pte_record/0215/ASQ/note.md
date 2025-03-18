@@ -1289,3 +1289,93 @@ Answer: 366
 In the animal kingdom, is the purpose of camouflage to attract a mate, to find food or to hide?
 
 Answer: Hide
+
+#130 ASQ
+What special document do most people need to carry when they travel between countries?
+
+Answer: Passport
+
+#89 ASQ
+What kind of equipment is used to protect motorbike riders' brains from injury？
+
+Answer: Helmet
+
+#76 ASQ
+What is a list of historical events arranged in time order?
+
+Answer: Chronology / timeline
+
+#28 ASQ
+If something such as fabric or medicine is artificially made, not natural, what do we say it is?
+
+Answer: Synthetic / artificial
+
+#25 ASQ
+What do you call the alphabetical list at the end of a textbook that tells you where to find specific information?
+
+Answer: Index / Reference
+
+#107 ASQ
+A business doesn't want to make a loss - what does it want to make?
+
+Answer: Profit / profits
+
+#52 ASQ
+Where can people go to borrow books?
+
+Answer: Library / bibliotheca
+
+#111 ASQ
+If telescopes are used to locate distant objects, what instrument is employed to magnify minuscule objects?
+
+Answer: Microscope / microscopes
+
+#54 ASQ
+Who is the main journalist responsible for producing a newspaper or magazine?
+
+Answer: Editor
+
+#12 ASQ
+What is the word for a period of one hundred years?
+
+Answer: Century
+
+#15 ASQ
+How many sides are there in a bilateral agreement?
+
+Answer: Two
+
+#134 ASQ
+When we are talking about spring, summer, autumn and winter, what are they the examples of?
+
+Answer: Seasons
+
+#15 ASQ
+How many sides are there in a bilateral agreement?
+
+Answer: Two
+
+#134 ASQ
+When we are talking about spring, summer, autumn and winter, what are they the examples of?
+
+Answer: Seasons
+
+#96 ASQ
+What is the job title of a person who paints pictures for a living?
+
+Answer: Painter
+
+#41 ASQ
+What do we call the organs in our chest that we use to breathe?
+
+Answer: Lungs / lung
+
+#51 ASQ
+Which sweet food is produced by bees?
+
+Answer: Honey
+
+#53 ASQ
+What is the word in geometry for a shape that has three sides?
+
+Answer: Triangle
