@@ -470,7 +470,84 @@ obtuse angle /əbˈtuːs ˈæŋɡl/ n. 钝角 An obtuse angle is greater than 90
 
 
 
-
+generic /dʒəˈnerɪk/ adj. 通用的 Generic brands offer products at lower prices compared to name brands.
+insulate /ˈɪnsjuleɪt/ v. 使隔热 It's important to insulate homes to save energy.
+Hexagon /ˈheksəɡən/ n. 六边形 A beehive's cells are hexagonal in shape.
+pentagon /ˈpɛntəɡɑːn/ n. 五边形 A pentagon has five sides and five angles.
+Graffiti /ɡrəˈfiːti/ n. 涂鸦 The walls were covered with colorful graffiti.
+graffito / ɡrəˈfiːtəʊ /
+horizon /həˈraɪzn/ n. 地平线 We watched the sun set below the horizon.
+Oven /ˈʌvən/ n. 烤箱 Preheat the oven before baking the cake.
+antonym /ˈæntɪnɪm/ n. 反义词 "Hot" is an antonym of "cold".
+synonym / ˈsɪnənɪm /
+Pilot /ˈpaɪlət/ n. 飞行员 A pilot must undergo rigorous training before flying commercially.
+Unicorn /ˈjuːnɪkɔːn/ n. 独角兽 Unicorns are mythical creatures known for their single horn.
+cruise / kruːz / n. 巡游，乘船游览 v. 乘船游览；以平稳的速度行驶；缓慢巡行，兜风
+bruise / bruːz / n. 青瘀，伤痕；（水果或蔬菜的）碰伤 v. 打击，挫伤；压碎，碾碎；
+tenant /ˈtenənt/ n. 租户 The tenant pays rent to the landlord every month.
+multilingual
+bilingual
+Linguist /ˈlɪŋɡwɪst/ n. 语言学家 A linguist studies the structure and use of language.
+scenario /sɪˈnɑːriəʊ/ n. 情景 In one scenario, the hero saves the day by outsmarting the villain.
+Ankle /ˈæŋkl/ n. 踝关节 She sprained her ankle during a basketball game.
+Tattoo /təˈtuː/ n. 文身 His tattoo was a symbol of his heritage.
+Theology /θiˈɒlədʒi/ n. 神学 Theology explores the nature of God and religious beliefs.
+Monument /ˈmɒnjumənt/ n. 纪念碑 The monument was built to honor those who served in the war.
+memorial /məˈmɔːriəl/ n. 纪念馆 Visiting a memorial can provide insight into historical events.
+segment / ˈseɡmənt / n. 部分，片段；
+sentiment / ˈsentɪmənt / n. 观点，看法，情绪；多愁善感，伤感情绪
+Chord /kɔːrd/ n. 和弦 Playing chords on the guitar creates a rich sound.
+inhale /ɪnˈheɪl/ v. 吸入 Deep breaths help you inhale more oxygen.
+astronauts /ˈæstrənɔːts/ n. 宇航员 Astronauts train rigorously for missions in space.
+astronautics / ˌæstrəˈnɔːtɪks / n.航天学；宇宙航行
+gastroscope /ˈɡæstrəskəʊp/ n. 胃镜 A gastroscope allows doctors to view the inside of the stomach.
+Plumber /ˈplʌmər/ n. 水管工 The plumber fixed the leaky faucet quickly.
+mariner /ˈmærɪnər/ n. 海员 Experienced mariners know how to navigate through rough seas.
+marine / məˈriːn / adj. 海洋的，海产的；海运的，海事的 n. 水兵，海军陆战队士兵；（一个国家的）船舶
+subterranean /ˌsʌbtəˈreɪniən/ adj. 地下的 The city has an extensive subterranean transportation system.
+theologists /θiˈɒlədʒɪsts/ n. 神学家 Theologists study the philosophical aspects of religion.
+vapor /ˈveɪpər/ n. 蒸汽 Water vapor rises from boiling water.
+Meteorology /ˌmiːtiəˈrɒlədʒi/ n. 气象学 Meteorology involves studying atmospheric phenomena.
+climatology /ˌklaɪməˈtɒlədʒi/ n. 气候学 Climatology focuses on long-term weather patterns.
+nominal /ˈnɒmɪnl/ adj. 名义上的 The nominal leader had little actual power.
+respiratory /rəˈspaɪrətɔːri/ adj. 呼吸的 The respiratory system includes the lungs and airways.
+Carpenter /ˈkɑːpəntər/ n. 木匠 A carpenter builds furniture using wood.
+Narration /næˈreɪʃn/ n. 旁白 The narration helped explain the complex plot.
+embassy / ˈembəsi /
+beverages / ˈbevərɪdʒ / n. 饮料 Coffee and tea are popular beverages.
+bicentennial / ˌbaɪsenˈteniəl / n./adj. 二百周年纪念(的) The city celebrated its bicentennial with a parade.
+Veterinarian / ˌvetərɪˈneəriən / n. 兽医 Veterinarians treat animals for various health conditions.
+Testament /ˈtestəmənt/ n. 遗嘱 His will was a testament to his generosity.
+Autocracy /ɔːˈtɑːkrəsi/ n. 独裁制 An autocracy is ruled by a single leader with absolute power.
+dictatorship /dɪkˈteɪtərʃɪp/ n. 独裁统治 Dictatorships often suppress political freedoms.
+Stadium /ˈsteɪdiəm/ n. 体育场 The stadium was packed with fans during the final game.
+Prologue /ˈproʊlɔɡ/ n. 序言 The prologue gives readers a glimpse into the story's background.
+Thermometer /θərˈmɑːmɪtər/ n. 温度计 Use a thermometer to check if you have a fever.
+Friction /ˈfrɪkʃn/ n. 摩擦 Friction between surfaces can cause heat.
+arithmetic /əˈrɪθmətɪk/ n. 算术 Arithmetic includes basic operations like addition and subtraction.
+Atlas /ˈætləs/ n. 地图集 An atlas is useful for planning a road trip.
+petrol /ˈpetrəl/ n. 汽油 (英式英语) Petrol stations are found along highways.
+diesel /ˈdiːzl/ n. 柴油 Diesel engines are commonly used in trucks.
+surgical /ˈsɜːrdʒɪkl/ adj. 外科手术的 Surgical procedures require precision and skill.
+Patent /ˈpætnt/ n. 专利 Applying for a patent protects an inventor's rights.
+timber /ˈtɪmbər/ n. 木材 Timber is another term for wood, especially in building.
+cockpit /ˈkɑːkpɪt/ n. 驾驶舱 The pilot controls the aircraft from the cockpit.
+convex /ˈkɑːnveks/ adj. 凸面的 Convex lenses are used in magnifying glasses.
+Concave /kɑːnˈkeɪv/ adj. 凹面的 Concave mirrors can form inverted images.
+Pharmacist /ˈfɑːrməsɪst/ n. 药剂师 Pharmacists dispense medication based on prescriptions.
+chemist /ˈkemɪst/ n. 化学家 Chemists study the composition of substances.
+thermometer /θərˈmɑːmɪtər/ n. 温度计 Thermometers measure temperature accurately.
+equator /ɪˈkweɪtər/ n. 赤道 Countries near the equator experience tropical climates.
+album /ˈælbəm/ n. 相册 We put our vacation photos in an album.
+Sophomore /ˈsɒfəmɔːr/ n. 大二学生 Sophomores are in their second year of high school or college.
+philosopher / fəˈlɒsəfə(r) / n. 哲学家，哲人；思想深刻的人
+dawn /dɔːn/ n. 黎明 Dawn breaks as the sun rises in the east.
+stellar /ˈstelər/ adj. 星的 Stellar objects include stars and planets.
+Saturn /ˈsætərn/ n. 土星 Saturn is known for its beautiful rings.
+Jupiter /ˈdʒuːpɪtər/ n. 木星 Jupiter is the largest planet in our solar system.
+Bilingual /baɪˈlɪŋɡwəl/ adj. 双语的 Being bilingual means speaking two languages fluently.
+bilinguist /baɪˈlɪŋɡwɪst/ n. 双语使用者 A bilinguist can communicate effectively in two languages.
+obtuse angle /əbˈtuːs ˈæŋɡl/ n. 钝角 An obtuse angle is greater than 90 degrees but less than 180 degrees.
 
 
 
