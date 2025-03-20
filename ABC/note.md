@@ -24,6 +24,7 @@ retirement
 despise
 despicable 英[ dɪˈspɪkəbl ]  美[ ˈdɛspɪkəbəl, dɪˈspɪkə- ]
 disguise
+disgusted
 guise
 misinterpret
 semifinal
@@ -165,6 +166,7 @@ tangle
 prototype
 archetype
 stereotype
+bureau
 bureaucrat
 bureaucratic
 bureaucracy
@@ -355,6 +357,7 @@ infuriate
 fury
 depot
 famine
+fame
 practitioner
 
 advancement
@@ -403,6 +406,7 @@ tackle
 viewpoint
 manslaughter
 commencement
+indefinite / ɪnˈdefɪnət /
 definite 英[ ˈdefɪnət ]  美[ ˈdɛfənɪt ]
 definitive 英[ dɪˈfɪnətɪv ]  美[ dɪˈfɪnɪtɪv ]
 insulin / ˈɪnsjəlɪn /
@@ -424,6 +428,64 @@ coward
 cowardly
 provoke / prəˈvəʊk /
 revoke
+
+bulk
+blister / ˈblɪstər /
+loom
+slash
+heat wave
+hostage
+detainee
+stake / steɪk /
+primetime
+extremist
+crunch
+cabinet / ˈkæbɪnət /
+cabin / ˈkæbɪn /
+tricky
+ethnic
+ethic
+devastate
+shiny
+endorse
+obscene / əbˈsiːn /
+crocodile
+cocktail
+atrocity / əˈtrɑːsəti /
+devastation
+grotesque / ɡroʊˈtesk /
+glorify
+engulf
+lure
+compound / ˈkɑːmpaʊnd /
+bogus / ˈboʊɡəs /
+suspicious
+nominate
+nominal
+anonymous 英[ əˈnɒnɪməs ]  美[ əˈnɑnɪməs ]
+anonymity 英[ ˌænəˈnɪməti ]  美[ ˌænəˈnɪmɪti ]
+magistrate / ˈmædʒɪstreɪt /
+falsify 
+regulatory / ˈreɡjələtɔːri /
+dispose
+disposition
+renovation / ˌrenəˈveɪʃ(ə)n /
+brutal
+comedian
+mighty
+scramble
+humiliate / hjuːˈmɪlieɪt /
+influx
+brace
+abduction / əbˈdʌkʃən /
+abduct
+confront
+suburb
+outskirt
+cemetery
+cement
+concession
+
 
 
 
