@@ -14,11 +14,15 @@ defendant
 receptionist
 trauma
 traumatic
-disastrous
+disastrous 英[ dɪˈzɑ:strəs ]  美[ dɪˈzæstrəs ]
 catastrophic
-interim
+interim 英[ ˈɪntərɪm ]  美[ ˈɪntərɪm ]
 resignation
+resign
+retire
+retirement
 despise
+despicable 英[ dɪˈspɪkəbl ]  美[ ˈdɛspɪkəbəl, dɪˈspɪkə- ]
 disguise
 guise
 misinterpret
@@ -30,16 +34,17 @@ divert
 diversion
 diversity
 divergent
-revenge
+revenge 英[ rɪˈvendʒ ]  美[ rɪˈvɛndʒ ]
 martyr
 disciplined
+self-disciplined
 deteriorate
-envoy
+envoy 英[ ˈenvɔɪ ]  美[ ˈɛnˌvɔɪ, ˈɑn- ]
 parliamentary
 managerial
 panel
 Coral Sea
-nautical
+nautical 英[ ˈnɔ:tɪkl ]  美[ ˈnɔtɪkəl ]
 verbally
 naval
 navy
@@ -104,8 +109,8 @@ scheme
 furnace
 quota
 procurement
-prosecute
-prosecutor
+prosecute / ˈprɒsɪkjuːt /
+prosecutor 英[ ˈprɒsɪkju:tə(r) ]  美[ ˈprɑsɪkjutə(r) ]
 persecute
 protest
 protestant
@@ -142,7 +147,8 @@ straight
 perspective
 defect
 consequence
-vulnerable
+vulnerable 英[ ˈvʌlnərəbl ]  美[ ˈvʌlnərəbəl ]
+vulnerability 英[ ˌvʌlnərə'bɪlətɪ ]  美[ ˌvʌlnərə'bɪlətɪ ]
 booth
 condone
 condemn
@@ -350,3 +356,81 @@ fury
 depot
 famine
 practitioner
+
+advancement
+insurer
+intellectual disability
+hospitalization
+be hospitalized
+stigma / ˈstɪɡmə /
+stark
+consult
+consultation
+dubious 英[ ˈdju:biəs ]  美[ ˈdubiəs ]
+subtle
+exaggerate / ɪɡˈzædʒəreɪt /
+exaggeration 英[ ɪgˌzædʒəˈreɪʃn ]  美[ ɪɡˌzædʒəˈreʃən ]
+merchant
+merchandise
+erect
+dysfunction
+vulne
+wreckage
+infinity
+latitude / ˈlætɪtjuːd /
+longitude / ˈlɒŋɡɪtjuːd /
+altitude 英[ ˈæltɪtju:d ]  美[ ˈæltɪtud ]
+debris 英[ ˈdebri: ]  美[ dəˈbri ]
+remnant
+optimism
+optimistic
+to a certain extent
+titanic
+autonomous 英[ ɔ:ˈtɒnəməs ]  美[ ɔˈtɑnəməs ]
+autonomy 英[ ɔ:ˈtɒnəmi ]  美[ ɔˈtɑnəmi ]
+autonomic 英[ ˌɔ:tə'nɒmɪk ]  美[ ˌɔtə'nɒmɪk ]
+sauna / ˈsɔːnə; ˈsaʊnə /
+bizarre / bɪˈzɑː(r) /
+mercury 英[ ˈmɜ:kjəri ]  美[ ˈmɜrkjəri ]
+planetary
+sparkling
+outrage
+outrageous
+controversy
+fabulous
+scary
+tackle
+viewpoint
+manslaughter
+commencement
+definite 英[ ˈdefɪnət ]  美[ ˈdɛfənɪt ]
+definitive 英[ dɪˈfɪnətɪv ]  美[ dɪˈfɪnɪtɪv ]
+insulin / ˈɪnsjəlɪn /
+fringe / frɪndʒ /
+religious
+congregation / ˌkɑːŋɡrɪˈɡeɪʃ(ə)n /
+allegedly / əˈledʒɪdli /
+raid / reɪd /
+rapid
+admissible
+incision
+sand dune
+stab
+torso / ˈtɔːsəʊ /
+hastily / ˈheɪstɪli /
+referee / ˌrefəˈriː /
+refugee 英[ ˌrefjuˈdʒi: ]  美[ ˌrɛfjʊˈdʒi ]
+coward
+cowardly
+provoke / prəˈvəʊk /
+revoke
+
+
+
+
+
+
+
+
+
+
