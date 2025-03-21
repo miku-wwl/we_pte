@@ -1,28 +1,28 @@
-wharf
+wharf / wɔːf /
 embark
 glacier
-fruition
+grocery
 sea floor
 seabed
 seal
 continent
 continental
-escalate
 negligence
 neglect
 defendant
 receptionist
 trauma
 traumatic
-disastrous 英[ dɪˈzɑ:strəs ]  美[ dɪˈzæstrəs ]
+disastrous 英[ dɪˈzɑ:strəs ] 美[ dɪˈzæstrəs ]
 catastrophic
-interim 英[ ˈɪntərɪm ]  美[ ˈɪntərɪm ]
+catastrophe
+interim 英[ ˈɪntərɪm ] 美[ ˈɪntərɪm ]
 resignation
 resign
 retire
 retirement
 despise
-despicable 英[ dɪˈspɪkəbl ]  美[ ˈdɛspɪkəbəl, dɪˈspɪkə- ]
+despicable 英[ dɪˈspɪkəbl ] 美[ ˈdɛspɪkəbəl, dɪˈspɪkə- ]
 disguise
 disgusted
 guise
@@ -32,106 +32,103 @@ hazard
 harass
 harassment
 divert
+diverse
 diversion
 diversity
+diversify
 divergent
-revenge 英[ rɪˈvendʒ ]  美[ rɪˈvɛndʒ ]
+revenge 英[ rɪˈvendʒ ] 美[ rɪˈvɛndʒ ]
 martyr
 disciplined
 self-disciplined
 deteriorate
-envoy 英[ ˈenvɔɪ ]  美[ ˈɛnˌvɔɪ, ˈɑn- ]
+envoy 英[ ˈenvɔɪ ] 美[ ˈɛnˌvɔɪ, ˈɑn- ]
 parliamentary
-managerial
+managerial / ˌmænəˈdʒɪəriəl /
 panel
 Coral Sea
-nautical 英[ ˈnɔ:tɪkl ]  美[ ˈnɔtɪkəl ]
-verbally
+nautical 英[ ˈnɔ:tɪkl ] 美[ ˈnɔtɪkəl ]
+verbally / ˈvɜːbəli /
 naval
 navy
 unprecedented
 surveillance
-maneuver
-conjecture
-rhetoric
-sovereignty
-enshrine
+maneuver / məˈnuːvə(r) /
+conjecture / kənˈdʒektʃə(r) /
+rhetoric / ˈretərɪk /
 humanity
 accountability
-bipartisan
+bipartisan / ˌbaɪˈpɑːtɪzæn /
 restate
 deputy prime minister
 bilateral
 multilateral
 unilateral
-comply
-articulate
-mariner
+comply / kəmˈplaɪ /
+compliance
+articulate / ɑːˈtɪkjuleɪt /
+mariner / ˈmærɪnə(r) /
 marine
 observance
 deterrence
-pivotal
-solidarity
+deter
+pivotal / ˈpɪvət(ə)l /
 withdraw troops
 foster
+folk
 persuasion
 condemn
 condom
-condolence
-diplomat
+diploma / dɪˈpləʊmə /
+diplomat / ˈdɪpləmæt /
+diplomatic / ˌdɪpləˈmætɪk /
 viability
 columnist
 squarely
-tariff
+tariff / ˈskweəli /
 menace
-outrageous
-exemption
+exemption / ɪɡˈzempʃn /
 to an extent
-upside-down
 aggression
-crony
-crook
-bailout
+crook / krʊk /
 intervention
-resonate
+resonate / ˈrezəneɪt /
 coalition
-maneuver
 differentiation
 differentiate
 sympathetic
-mortgage
-grill
-continuation
+mortgage / ˈmɔːɡɪdʒ /
+grill / ɡrɪl /
+continuation / kənˌtɪnjuˈeɪʃ(ə)n /
 plausible
-jostle
+applause
 arguably
 
 scheme
-furnace
 quota
-procurement
+procurement / prəˈkjʊəmənt /
 prosecute / ˈprɒsɪkjuːt /
-prosecutor 英[ ˈprɒsɪkju:tə(r) ]  美[ ˈprɑsɪkjutə(r) ]
+prosecutor 英[ ˈprɒsɪkju:tə(r) ] 美[ ˈprɑsɪkjutə(r) ]
 persecute
 protest
 protestant
 protestantism
 solar panels
 quantum computer
-reciprocal
-surplus
+reciprocal / rɪˈsɪprək(ə)l /
 treasury
 treasure
+treasurer
 overhaul
-courageous
+courageous / kəˈreɪdʒəs /
 substantially
 turbo
 turbine
 dubious
 reiterate
-whack
+whack / wæk /
 commentary
-electorate
+electorate / ɪˈlektərət /
 sovereign
 sovereignty
 landlord
@@ -140,17 +137,16 @@ unparalleled
 parallel
 disconcerting
 unsettling
-provocative
 vocation
 vacation
 strait
 straight
 perspective
-defect
+defect / ˈdiːfekt /
 consequence
-vulnerable 英[ ˈvʌlnərəbl ]  美[ ˈvʌlnərəbəl ]
-vulnerability 英[ ˌvʌlnərə'bɪlətɪ ]  美[ ˌvʌlnərə'bɪlətɪ ]
-booth
+vulnerable 英[ ˈvʌlnərəbl ] 美[ ˈvʌlnərəbəl ]
+vulnerability 英[ ˌvʌlnərə'bɪlətɪ ] 美[ ˌvʌlnərə'bɪlətɪ ]
+booth / buːð /
 condone
 condemn
 condom
@@ -158,8 +154,8 @@ contraception
 contraceptive
 conception
 conceptive
-trumpet
-triumph
+trumpet / ˈtrʌmpɪt /
+triumph / ˈtraɪʌmf /
 trophy
 unravel
 tangle
@@ -170,6 +166,8 @@ bureau
 bureaucrat
 bureaucratic
 bureaucracy
+allege / əˈledʒ /
+plague
 pledge
 plea
 plead
@@ -184,70 +182,53 @@ catholic
 cathedral
 worship
 warship
-solemn
+solemn / ˈsɒləm /
 ongoing
-millennial
-venue
-rummage
+millennial / mɪˈleniəl /
+rummage / ˈrʌmɪdʒ /
 limestone
 timing
 Pennsylvania
-shaft
-scoop
+shaft / ʃɑːft /
+scoop / skuːp /
 syringe
-fraudulent
+fraudulent / ˈfrɔːdʒələnt /
 shuffle
 gothic
 deficit
+surplus
 jar
 jam
 jaw
-idiotic
+idiotic / ˌɪdiˈɒtɪk /
 
-
-condone
 strait
-unparalleled
-procurement
-courageous
 turbo
 turbine
 dubious
 reiterate
-electorate
-provocative
-cohort
-ramp
-pneumonia
-solemn
-millennial
-shaft
-scoop
-syringe
-idiotic
+electorate / ɪˈlektərət /
+elector
 
-overhaul
-preventable
+preventable / prɪˈventəbl /
 infant
 faint
-systemic
 tribe
 rupture
 distress
 unresponsive
-wrench
-adverse
+wrench / rentʃ /
+adverse / ˈædvɜːs /
 adversity
-agony
-regime
+agony / ˈæɡəni /
+regime / reɪˈʒiːm /
 sovereign
 sovereignty
-respiratory
-respirator
-respiration
+respiratory / rəˈspɪrət(ə)ri / / ˈrespərətɔːri /
+respirator / ˈrespəreɪtə(r) / / ˈrespəreɪtər /
+respiration / ˌrespəˈreɪʃ(ə)n / / ˌrespəˈreɪʃ(ə)n /
 pope
-paternal
-vigil
+vigil / ˈvɪdʒɪl /
 demolish
 west bank
 militant
@@ -258,9 +239,8 @@ interrupt
 hinder
 uninhabitable
 inhabit
+habitant
 inhabitable
-allege
-pledge
 despicable
 despise
 quarantine
@@ -268,12 +248,12 @@ pandemic
 finalize
 claw
 paw
-callous
 prolonged
 prolong
 elongate
 parole
 bail
+bailout
 trove
 treasure
 treasury
@@ -288,6 +268,8 @@ disproportionate
 proportionate
 proportion
 eradicate
+erratically
+erratic
 colony
 obligation
 obligate
@@ -299,7 +281,7 @@ compulsive
 volatile
 terrestrial
 sediment
-segment 
+segment
 sentiment
 bleach
 plume
@@ -315,11 +297,6 @@ deport
 famine
 practitioner
 
-
-
-
-
-preventable
 systemic
 systematic
 wrench
@@ -335,8 +312,6 @@ vigilant
 uninhabitable
 inhabit
 inhabitable
-allege
-pledge
 despicable
 callous
 prolonged
@@ -369,10 +344,10 @@ stigma / ˈstɪɡmə /
 stark
 consult
 consultation
-dubious 英[ ˈdju:biəs ]  美[ ˈdubiəs ]
+dubious 英[ ˈdju:biəs ] 美[ ˈdubiəs ]
 subtle
 exaggerate / ɪɡˈzædʒəreɪt /
-exaggeration 英[ ɪgˌzædʒəˈreɪʃn ]  美[ ɪɡˌzædʒəˈreʃən ]
+exaggeration 英[ ɪgˌzædʒəˈreɪʃn ] 美[ ɪɡˌzædʒəˈreʃən ]
 merchant
 merchandise
 erect
@@ -382,19 +357,19 @@ wreckage
 infinity
 latitude / ˈlætɪtjuːd /
 longitude / ˈlɒŋɡɪtjuːd /
-altitude 英[ ˈæltɪtju:d ]  美[ ˈæltɪtud ]
-debris 英[ ˈdebri: ]  美[ dəˈbri ]
+altitude 英[ ˈæltɪtju:d ] 美[ ˈæltɪtud ]
+debris 英[ ˈdebri: ] 美[ dəˈbri ]
 remnant
 optimism
 optimistic
 to a certain extent
 titanic
-autonomous 英[ ɔ:ˈtɒnəməs ]  美[ ɔˈtɑnəməs ]
-autonomy 英[ ɔ:ˈtɒnəmi ]  美[ ɔˈtɑnəmi ]
-autonomic 英[ ˌɔ:tə'nɒmɪk ]  美[ ˌɔtə'nɒmɪk ]
+autonomous 英[ ɔ:ˈtɒnəməs ] 美[ ɔˈtɑnəməs ]
+autonomy 英[ ɔ:ˈtɒnəmi ] 美[ ɔˈtɑnəmi ]
+autonomic 英[ ˌɔ:tə'nɒmɪk ] 美[ ˌɔtə'nɒmɪk ]
 sauna / ˈsɔːnə; ˈsaʊnə /
 bizarre / bɪˈzɑː(r) /
-mercury 英[ ˈmɜ:kjəri ]  美[ ˈmɜrkjəri ]
+mercury 英[ ˈmɜ:kjəri ] 美[ ˈmɜrkjəri ]
 planetary
 sparkling
 outrage
@@ -407,8 +382,8 @@ viewpoint
 manslaughter
 commencement
 indefinite / ɪnˈdefɪnət /
-definite 英[ ˈdefɪnət ]  美[ ˈdɛfənɪt ]
-definitive 英[ dɪˈfɪnətɪv ]  美[ dɪˈfɪnɪtɪv ]
+definite 英[ ˈdefɪnət ] 美[ ˈdɛfənɪt ]
+definitive 英[ dɪˈfɪnətɪv ] 美[ dɪˈfɪnɪtɪv ]
 insulin / ˈɪnsjəlɪn /
 fringe / frɪndʒ /
 religious
@@ -423,11 +398,13 @@ stab
 torso / ˈtɔːsəʊ /
 hastily / ˈheɪstɪli /
 referee / ˌrefəˈriː /
-refugee 英[ ˌrefjuˈdʒi: ]  美[ ˌrɛfjʊˈdʒi ]
+refugee 英[ ˌrefjuˈdʒi: ] 美[ ˌrɛfjʊˈdʒi ]
 coward
 cowardly
 provoke / prəˈvəʊk /
+provocative
 revoke
+invoke
 
 bulk
 blister / ˈblɪstər /
@@ -462,10 +439,10 @@ bogus / ˈboʊɡəs /
 suspicious
 nominate
 nominal
-anonymous 英[ əˈnɒnɪməs ]  美[ əˈnɑnɪməs ]
-anonymity 英[ ˌænəˈnɪməti ]  美[ ˌænəˈnɪmɪti ]
+anonymous 英[ əˈnɒnɪməs ] 美[ əˈnɑnɪməs ]
+anonymity 英[ ˌænəˈnɪməti ] 美[ ˌænəˈnɪmɪti ]
 magistrate / ˈmædʒɪstreɪt /
-falsify 
+falsify
 regulatory / ˈreɡjələtɔːri /
 dispose
 disposition
@@ -486,13 +463,253 @@ cemetery
 cement
 concession
 
+Great Australian Bight
+submarine
+knack
+focal
+fiction
+friction
+stagger
+creepy
+solid
+solidarity / ˌsɒlɪˈdærəti /
+consolidate
+consolidation
+solidify / səˈlɪdɪfaɪ /
+intact
+scaffold / ˈskæfəʊld /
+layoff
+flak
+flaw
+fatal
+lethal / ˈliːθ(ə)l / / ˈliːθ(ə)l /
+deceased
+coffin
+equivalent
+envision
+hinge
+corridor
+aisle / aɪl /
+alley
+valley
+avenue
+venue
+x axis
+y axis / ˈæksɪs /
+exhaust / ɪɡˈzɔːst /
+exhausted
+exhaustion
+bluff
+overshadow
+fleet
+convoy
+surge
+plunge
+designate
+dispatch
+disperse
+ramp
+slope
+blatant / ˈbleɪt(ə)nt /
+latent / ˈleɪt(ə)nt /
+potent
+patent
+escort
+warfare
+sever / ˈsevə(r) /
+severe / sɪˈvɪə(r) /
+several / ˈsevrəl /
+culprit
+destabilize
+align with
+crackdown
+lure
+counterfeit / ˈkaʊntəfɪt /
+bogus / ˈbəʊɡəs /
+runway
+alienate / ˈeɪliəneɪt /
+emblem
+descent
+decent
+insurgency / ɪnˈsɜːrdʒənsi /
+belt / belt /
+colonial / kəˈləʊniəl /
+reap
+intruder / ɪnˈtruːdə(r) /
+warrior
+warrant
 
+meteorology
+meteorologist
+gauge
+nanometer
+micrometer
+millimeter
+centimenter
+decimetre
+kilometre
+light year
+inch (in)
+foot (ft)
+yard (yd)
+mile (mi)
+flank
+intense
+intensity
+intensive
+intensify
+stump
+trunk
+excessive
+jury
+juror
+judge
+juridical
+jurisdiction
+plead guilty
+concede
+conceal
+recede
+recession
+sprawl
+creditor
+preside
+president
+presidential
+presidency
+royalty
+subsidiary / səbˈsɪdiəri /
+humanitarian aid
+lodge
+lounge
+transaction
+manifest
+manifestation
+overlap
+overlay
+compelling
+compel
 
+catchment
+bias
+biased
+basis
+veteran
+spinal
+spine
+spiral
+psychiatrist
+suicidal
+suicide
+desperate
+separate
+robust
+shed
+reef
+corporate
+cooperate
+cooperative
+appetite
+genuinely
+falter
+splendor
+splendid
+grassroots
+defy
+deny
 
+pharmaceutical
+pharmacy
+pharmacist
+slam
+slash
+marginalize
+genuinely
+genuine
+genius
+ingenious
+ingenuity
+pitch
+steady
+flip
+flap
+impending
+pending
+stadium
+paradise
+heaven
+immoral
+immortal
+imperialism  
+imperial
+empire
+inauguration
+escalation
+escalate
+escalator
+resent
+resentment
+profound
+vein
+veil
+artery
+premise
+analogy
+metaphor
+rhetoric
+distort
+retort
+extort
+extortion
+dismay
 
-
-
-
-
-
-
+conceive
+conceivable
+conceivably
+converge
+sanction
+ratify
+doom
+gloom
+gloomy
+bloom
+groom
+bridegroom
+incidentally
+deprive
+derive
+notable
+noble
+turmoil
+credibility
+adversary
+hawk
+hawkish
+silicon
+shield
+rite
+chunk
+utterly
+utter
+evacuation
+surgery
+endure
+metro
+metropolitan
+intensify
+susceptible
+equality
+inequality
+equity
+inequity
+inhibit
+exhibit
+prohibit
+pertinent
+lurk
+lark
+vegetation
+vegetarian
+furniture
+furnish
+furnace
