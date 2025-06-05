@@ -1,0 +1,23 @@
+
+**Date:** June 5, 2025  
+**Hiring Team**  
+Zalando Emerging Propositions  
+Helsinki
+
+**Dear Team,**  
+
+I apply for **Senior Backend Engineer**. With 4+ years in **microservices (Java)**, **Kubernetes**, and **high throughput and low latency message system**, I thrive on solving complex problems at scale.  
+
+**Core Fit**:  
+- **High-Performance Systems**: Led Huawei’s microservice clusters (Spring Boot/K8s) for 1K+ devices, delivering 300+ features.
+- **Cloud & Data Skills**: Experienced in **Thrift**, **RocketMQ**. 
+- **Collaborative Impact**: Mentored teams, optimized CI/CD, and fixed 150+ code defects pre-release.
+
+
+The opportunity to collaborate in a multidisciplinary team — working closely with mobile, web, and backend engineers excites me. My experience in building scalable and maintainable architectures aligns well with your mission to shape the next generation of customer experiences that go beyond traditional transactions, and I’m eager to grow while leveraging modern technologies like Golang, AWS, and Kubernetes.
+
+Ready to contribute to your team.
+
+**Weilai Wang**  
+weilai.ire@outlook.com • (+86) 15195863766  
+GitHub/LinkedIn: [https://github.com/miku-wwl](https://github.com/miku-wwl) | [LinkedIn](https://www.linkedin.com/in/weilai-wang-9b34a2368)  
