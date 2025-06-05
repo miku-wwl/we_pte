@@ -1,0 +1,21 @@
+Date: June 5, 2025
+
+Hiring Team
+Samlink
+Espoo/Jyväskylä
+
+Dear Hiring Team,
+
+I’m excited to contribute to your cloud-based solutions and thrive in Kyndryl ’s collaborative and innovative environment. With five years of experience designing high-performance distributed systems, I offer the following expertise:
+
+Java/Spring Boot & Cloud Native Development: Built microservices on Kubernetes, leading the deployment of scalable clusters that support high-concurrency device access.
+Low-latency Systems Experience: Hands-on with Aeron, RocketMQ, and Thrift; developed message storage and replay systems for real-time financial data processing.
+Agile & DevOps Practices: Proficient in CI/CD pipelines, containerization, and managing multi-version deployments across environments.
+I am passionate about building resilient and scalable systems that perform under pressure. I believe Samlink offers the perfect platform to apply my technical background while growing alongside a talented team solving impactful challenges.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how I can contribute to your team.
+
+Sincerely,
+Weilai Wang
+Email: weilai.ire@outlook.com • Phone: (+86) 15195863766
+GitHub: https://github.com/miku-wwl • LinkedIn: https://www.linkedin.com/in/weilai-wang-9b34a2368
