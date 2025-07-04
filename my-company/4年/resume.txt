@@ -28,7 +28,7 @@
   \item 4+ years of software engineering experience, Focus on high-performance distributed systems and microservice architecture. Proven expertise in Java/Spring Boot ecosystem, with hands-on experience in React/TypeScript.
   \item Proficient in Docker\&Kubernetes, familiar with CI/CD pipelines. Have K8s cluster management experience, familiar with service mesh (Istio), and Helm/Kustomize.
   \item Proficient in Kafka, Aeron(sub-millisecond, high throughput and low latency fin-tech messaging middleware), familiar with gRpc and Thrift.
-  \item Proficient in AWS stack skills.
+  \item familiar with AWS stack.
   \item Skilled in using JVM diagnostic tools such as Arthas and jcmd, and quickly locate distributed system failures by combining tcpdump/Wireshark and distributed trace tools (jaeger).
 \end{itemize}
 
