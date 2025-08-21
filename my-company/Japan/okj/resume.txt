@@ -101,9 +101,9 @@ Address: https://github.com/miku-wwl/we\_matching
 \end{onehalfspacing}
 
 
-\datedsubsection{\textbf{Image Hosting Website} }{}
-\role{Technical Stack}{Node.js, Serverless Framework, AWS Services (S3, DynamoDB, SNS, SQS, Cognito)}
-Address: https://github.com/miku-wwl/we\_aws/tree/main/AWS-MS-Multi-Store-Backend
+\datedsubsection{\textbf{AWS-MS-Multi-Store-Backend}}{}
+\role{Technical Stack:}{Node.js, Serverless Framework, AWS Services (S3, DynamoDB, SNS, SQS, Cognito)}
+Address: https://github.com/miku-wwl/we_aws/tree/main/AWS-MS-Multi-Store-Backend
 \begin{itemize}
   \item Developed a multi - service backend application running on the AWS cloud platform using the Serverless framework.
   \item Integrated various AWS services such as S3 for storage, DynamoDB for data storage, SNS for message notification, SQS for message queuing, and Cognito for user authentication.
